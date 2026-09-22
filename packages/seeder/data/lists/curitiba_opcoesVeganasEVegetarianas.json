@@ -1,0 +1,2645 @@
+[
+    {
+        "businessId": "0x94dce37ae1e20197:0x4f3ba96823a7d3a1",
+        "googleId": "0x94dce37ae1e20197:0x4f3ba96823a7d3a1",
+        "placeId": "ChIJlwHi4Xrj3JQRodOnI2ipO08",
+        "googleMid": "/g/11bxc7bd7p",
+        "phoneNumber": "+554130530077",
+        "name": "Natural Café - Empório Vegetariano",
+        "latitude": -25.465338199999998,
+        "longitude": -49.2917175,
+        "fullAddress": "Natural Café - Empório Vegetariano - Av. Rep. Argentina, 2140 - Portão, Curitiba - PR, 80620-010, Brasil",
+        "reviewCount": 349,
+        "rating": 4.7,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Aberto ⋅ Fecha às 18:00",
+        "workingHours": {
+            "segunda-feira": ["08:30–18:00"],
+            "terça-feira": ["08:30–18:00"],
+            "quarta-feira": ["08:30–18:00"],
+            "quinta-feira": ["08:30–18:00"],
+            "sexta-feira": ["08:30–18:00"],
+            "sábado": ["Encerrado"],
+            "domingo": ["Encerrado"]
+        },
+        "website": "https://www.facebook.com/naturalcafecwb",
+        "tld": "facebook.com",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce37ae1e20197:0x4f3ba96823a7d3a1",
+        "cid": "5709343217362129825",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJlwHi4Xrj3JQRodOnI2ipO08&authuser=0&hl=pt&gl=PT",
+        "ownerId": "109190022900377320538",
+        "ownerLink": "https://maps.google.com/maps/contrib/109190022900377320538",
+        "ownerName": "Natural Café - Empório Vegetariano",
+        "bookingLink": null,
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Café",
+        "subtypes": ["Loja de café", "Pizaria", "Restaurante Vegetariano"],
+        "subtypeGcids": ["coffee_shop", "pizza_restaurant", "vegetarian_restaurant"],
+        "photosSample": [
+            {
+                "photoId": "CIHM0ogKEICAgICjveSazQE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5BBcBShm7kwhxwtsyeVDN8qPMWDw48qtYughyBwY-VfHzoB2TaqOqVVdIaMJt_KvnZc0CmOiJn1vABwntHf-WpcZ9o9q6H-8pbdz0Cg5lzyTR3gDA6mi3LiKjuncW0FhGb_hS",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5BBcBShm7kwhxwtsyeVDN8qPMWDw48qtYughyBwY-VfHzoB2TaqOqVVdIaMJt_KvnZc0CmOiJn1vABwntHf-WpcZ9o9q6H-8pbdz0Cg5lzyTR3gDA6mi3LiKjuncW0FhGb_hS=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4653663,
+                "longitude": -49.291628800000005,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-05-24T00:00:00.000Z",
+                "photoTimestamp": 1716508800
+            },
+            {
+                "photoId": "D5f4Cn5sy_v7IW8PeVG4Ew",
+                "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D5f4Cn5sy_v7IW8PeVG4Ew&cb_client=search.gws-prod.gps&w=211&h=120&yaw=312.079&pitch=0&thumbfov=100",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": null,
+                "latitude": -25.465396780100146,
+                "longitude": -49.29164563872572,
+                "type": "street_view",
+                "photoDatetimeUtc": "2024-06-06T00:00:00.000Z",
+                "photoTimestamp": 1717632000
+            },
+            {
+                "photoId": "AF1QipNcogI1IQ2uVfoMBDpjUJxSvfSHhzq7KgxRHzgX",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipNcogI1IQ2uVfoMBDpjUJxSvfSHhzq7KgxRHzgX",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipNcogI1IQ2uVfoMBDpjUJxSvfSHhzq7KgxRHzgX=w1296-h864-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4653663,
+                "longitude": -49.291628800000005,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-07-05T00:00:00.000Z",
+                "photoTimestamp": 1751673600
+            },
+            {
+                "photoId": "AF1QipMPq4bgHv9g0k8BLd0HUFm6cqjUYtXSh5UMy2br",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipMPq4bgHv9g0k8BLd0HUFm6cqjUYtXSh5UMy2br",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipMPq4bgHv9g0k8BLd0HUFm6cqjUYtXSh5UMy2br=w1080-h1920-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4653663,
+                "longitude": -49.291628800000005,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-07-05T00:00:00.000Z",
+                "photoTimestamp": 1751673600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDu06a60gE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqfvxCWYRpNyVAzoiMQ34j5g916JJ1zA9pvBEJKSHOGS9a2_uWX_0Z3NGsB6wGtsnmD37Tw6l_XSuC4sO4K94OvcPAD1kdXSodpkey703MsjdrgNcnyPU41s6fug0v-28XDIMZY6A=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqfvxCWYRpNyVAzoiMQ34j5g916JJ1zA9pvBEJKSHOGS9a2_uWX_0Z3NGsB6wGtsnmD37Tw6l_XSuC4sO4K94OvcPAD1kdXSodpkey703MsjdrgNcnyPU41s6fug0v-28XDIMZY6A=w360-h640-k-no",
+                "latitude": -25.465338203323306,
+                "longitude": -49.2917175129592,
+                "type": "video",
+                "photoDatetimeUtc": "2022-09-28T00:00:00.000Z",
+                "photoTimestamp": 1664323200
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICjveSaTQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqU9WNYQObVNsyyx7cvUfR55xlpQ9zv93j7EBaIxIebeHnzDBGVKyDgJKtuptvxJsjjFADgX80OFScpCBc34dKmpEIQO3t_ZEjIwRCOO52Pna38jcP6NgjvbmWDLnVRV5RviMc",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqU9WNYQObVNsyyx7cvUfR55xlpQ9zv93j7EBaIxIebeHnzDBGVKyDgJKtuptvxJsjjFADgX80OFScpCBc34dKmpEIQO3t_ZEjIwRCOO52Pna38jcP6NgjvbmWDLnVRV5RviMc=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4653663,
+                "longitude": -49.291628800000005,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-05-24T00:00:00.000Z",
+                "photoTimestamp": 1716508800
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDE39KjQg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqULWuL67jT0i8Uw48PHmgVi3EUIHTx1FoodPllzvx31bK6fUAWqjsasKDEsOdM6OPSf6snXq-yCwuIUOlli16JaoMbGIr8fitC_pD3FLLpaVvK7cZpy0pSRlnXcO-PNOB4bTQ",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqULWuL67jT0i8Uw48PHmgVi3EUIHTx1FoodPllzvx31bK6fUAWqjsasKDEsOdM6OPSf6snXq-yCwuIUOlli16JaoMbGIr8fitC_pD3FLLpaVvK7cZpy0pSRlnXcO-PNOB4bTQ=w2160-h2160-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4653663,
+                "longitude": -49.291628800000005,
+                "type": "photo",
+                "photoDatetimeUtc": "2017-07-07T00:00:00.000Z",
+                "photoTimestamp": 1499385600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDe8uHiEg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nociTOHIu_zghLpTtr0pBHgncxMG51Rq_oZVbwT-fzAxUXbGHD4CVnreqiMUcsVYudBUoYiCGyc6-hYXjVp52mt-YCjbL2tIbUVfYo2-rx_GGPFbM9lCqYftnJj9zH589YC9io6",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nociTOHIu_zghLpTtr0pBHgncxMG51Rq_oZVbwT-fzAxUXbGHD4CVnreqiMUcsVYudBUoYiCGyc6-hYXjVp52mt-YCjbL2tIbUVfYo2-rx_GGPFbM9lCqYftnJj9zH589YC9io6=w2322-h4128-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4653663,
+                "longitude": -49.291628800000005,
+                "type": "photo",
+                "photoDatetimeUtc": "2022-11-07T00:00:00.000Z",
+                "photoTimestamp": 1667779200
+            },
+            {
+                "photoId": "AF1QipNGa8Jm2v11g-7Ma18YmiKfBNduQC9fbbpA-dAx",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipNGa8Jm2v11g-7Ma18YmiKfBNduQC9fbbpA-dAx",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipNGa8Jm2v11g-7Ma18YmiKfBNduQC9fbbpA-dAx=w1200-h1600-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4653663,
+                "longitude": -49.291628800000005,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-07-05T00:00:00.000Z",
+                "photoTimestamp": 1751673600
+            }
+        ],
+        "globalPlusCode": "586GGPM5+V8",
+        "compoundPlusCode": "GPM5+V8 Portão, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 4,
+            "2": 1,
+            "3": 15,
+            "4": 43,
+            "5": 286
+        },
+        "photoCount": 252,
+        "about": {
+            "summary": "Cafés, chás, sanduíches e destaque aos pratos com saladas e omeletes, espaço tranquilo e opções para levar.",
+            "details": {
+                "Opções de serviço": {
+                    "Com esplanada": true,
+                    "Entrega sem contacto": true,
+                    "Entrega": true,
+                    "Take away": true,
+                    "Comer no local": true
+                },
+                "Destaques": {
+                    "Boa seleção de chás": true,
+                    "Lugares sentados no terraço": true,
+                    "Ótimas sobremesas": true,
+                    "Ótimo café": true
+                },
+                "Popularidade": {
+                    "Pequeno-almoço": true,
+                    "Almoço": true,
+                    "Jantar sozinho": true,
+                    "Indicado para trabalhar no portátil": true
+                },
+                "Acessibilidade": {
+                    "Entrada acessível a pessoas em cadeiras de rodas": true,
+                    "Lugares para pessoas em cadeiras de rodas": false,
+                    "WC público acessível a pessoas em cadeiras de rodas": false
+                },
+                "Ofertas": {
+                    "Alimentos preparados": true,
+                    "Café": true,
+                    "Opções veganas": true,
+                    "Opções vegetarianas": true,
+                    "Refeição rápida": true
+                },
+                "Opções gastronómicas": {
+                    "Pequeno-almoço": true,
+                    "Almoço": true,
+                    "Sobremesa": true,
+                    "Lugares sentados": true
+                },
+                "Serviços": {
+                    "WC público": true,
+                    "Wi-Fi": true
+                },
+                "Atmosfera": {
+                    "Acolhedor": true,
+                    "Casual": true,
+                    "Popular": true,
+                    "Sossegado": true
+                },
+                "Tipo de clientes": {
+                    "Grupos": true
+                },
+                "Pagamentos": {
+                    "Alelo": true,
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pagamentos móveis com NFC": true,
+                    "Pluxee": true,
+                    "Senhas de refeição": true
+                },
+                "Crianças": {
+                    "Indicado para crianças": true
+                },
+                "Animais de estimação": {
+                    "Aceita cães": true
+                }
+            }
+        },
+        "address": "Av. Rep. Argentina, 2140 - Portão, Curitiba - PR, 80620-010, Brasil",
+        "menuLink": null,
+        "orderLink": null,
+        "priceLevel": "20 - 40 R$",
+        "district": "Portão",
+        "streetAddress": "Av. Rep. Argentina, 2140",
+        "city": "Curitiba",
+        "zipcode": "80620-010",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "veganos",
+                "reviewCount": 40
+            },
+            {
+                "keyword": "preço",
+                "reviewCount": 20
+            },
+            {
+                "keyword": "almoço",
+                "reviewCount": 13
+            },
+            {
+                "keyword": "ambiente",
+                "reviewCount": 12
+            },
+            {
+                "keyword": "lanches",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "sucos",
+                "reviewCount": 7
+            },
+            {
+                "keyword": "doces",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "salgados",
+                "reviewCount": 5
+            },
+            {
+                "keyword": "alimentação saudável",
+                "reviewCount": 3
+            },
+            {
+                "keyword": "coxinha",
+                "reviewCount": 3
+            }
+        ],
+        "emailsAndContacts": null
+    },
+    {
+        "businessId": "0x94dce413c9f3bd29:0xc592c4718ab25748",
+        "googleId": "0x94dce413c9f3bd29:0xc592c4718ab25748",
+        "placeId": "ChIJKb3zyRPk3JQRSFeyinHEksU",
+        "googleMid": "/g/1yh805mvm",
+        "phoneNumber": "+554132035955",
+        "name": "Semente de Girassol",
+        "latitude": -25.426689,
+        "longitude": -49.271879999999996,
+        "fullAddress": "Semente de Girassol - R. Mateus Leme, 115 - São Francisco, Curitiba - PR, 80510-030, Brasil",
+        "reviewCount": 3651,
+        "rating": 4.8,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Aberto ⋅ Fecha às 20:00",
+        "workingHours": {
+            "segunda-feira": ["11:00–20:00"],
+            "terça-feira": ["11:00–20:00"],
+            "quarta-feira": ["11:00–20:00"],
+            "quinta-feira": ["11:00–20:00"],
+            "sexta-feira": ["11:00–20:00"],
+            "sábado": ["11:00–20:00"],
+            "domingo": ["11:00–17:00"]
+        },
+        "website": "https://www.facebook.com/Sementedegirassol",
+        "tld": "facebook.com",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce413c9f3bd29:0xc592c4718ab25748",
+        "cid": "14236657364008851272",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJKb3zyRPk3JQRSFeyinHEksU&authuser=0&hl=pt&gl=PT",
+        "ownerId": "110313318329375846737",
+        "ownerLink": "https://maps.google.com/maps/contrib/110313318329375846737",
+        "ownerName": "Semente de Girassol",
+        "bookingLink": "https://www.rappi.com.br/restaurantes/900139648-semente-de-girassol",
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Vegano",
+        "subtypes": ["Restaurante Vegano", "Restaurante de bufete"],
+        "subtypeGcids": ["vegan_restaurant", "buffet_restaurant"],
+        "photosSample": [
+            {
+                "photoId": "CIHM0ogKEICAgICN1dS7wAE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCc5evYBOG4uBgaaJuM1Ypc2MqR80mdFpTQUGZJ5zYB6_PSo4GKhJrcLsrmNv5eJcYSH5UvCPsGakXpdNBZI6Gdoe4aQnqZXiV9GjuBgkdgazVy40h28jLGXszyaotQLJjbmLm7w",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCc5evYBOG4uBgaaJuM1Ypc2MqR80mdFpTQUGZJ5zYB6_PSo4GKhJrcLsrmNv5eJcYSH5UvCPsGakXpdNBZI6Gdoe4aQnqZXiV9GjuBgkdgazVy40h28jLGXszyaotQLJjbmLm7w=w4032-h1816-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4267347,
+                "longitude": -49.2717882,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-02-16T00:00:00.000Z",
+                "photoTimestamp": 1708041600
+            },
+            {
+                "photoId": "3DPqswDG00j2VEEHZqDDbQ",
+                "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3DPqswDG00j2VEEHZqDDbQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=304.36496&pitch=0&thumbfov=100",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": null,
+                "latitude": -25.426744607300417,
+                "longitude": -49.27178995918882,
+                "type": "street_view",
+                "photoDatetimeUtc": "2023-02-10T00:00:00.000Z",
+                "photoTimestamp": 1675987200
+            },
+            {
+                "photoId": "CIHM0ogKEICAgMDIt4DBTg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrcrOTsyZhnGpocojemhHmSEnV5c0V7kiVmPqBeby2IFiaEXiovY8F5r2E_0CIU_7INNOXpgR-F10NpCE92hJK2VzzrfKJ8DCeSIyfgktiFM2RECIFM8yLR4Z0YszkxOtjfozg",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrcrOTsyZhnGpocojemhHmSEnV5c0V7kiVmPqBeby2IFiaEXiovY8F5r2E_0CIU_7INNOXpgR-F10NpCE92hJK2VzzrfKJ8DCeSIyfgktiFM2RECIFM8yLR4Z0YszkxOtjfozg=w3056-h3056-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4267347,
+                "longitude": -49.2717882,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-05-13T00:00:00.000Z",
+                "photoTimestamp": 1747094400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIC-6aPZEg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6vcluwGLOju9cmKcaIoXcgRufdmOJYJG006QFbyzNYvTIxX_wBaUjhByLNMlUk3stQi1kky_8JUx53GGqbIqJBL6GXBUH16UYnqPgYSf4-I7RL-XKQZgp9lsuGXngjDRTZ9g",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6vcluwGLOju9cmKcaIoXcgRufdmOJYJG006QFbyzNYvTIxX_wBaUjhByLNMlUk3stQi1kky_8JUx53GGqbIqJBL6GXBUH16UYnqPgYSf4-I7RL-XKQZgp9lsuGXngjDRTZ9g=w3000-h4000-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4267347,
+                "longitude": -49.2717882,
+                "type": "photo",
+                "photoDatetimeUtc": "2022-12-07T00:00:00.000Z",
+                "photoTimestamp": 1670371200
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICszLvL4QE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUkURHlppOtc2w52Kd0sJGHRZaMdUXMhCTZeSyl0RZ-gqDgbQv8ZFsIM7EGNWalpjLe0Cc4L35RN9dEv1dwlkDnRE7mG44jLUDv3HAzaXCh9ltSaqu-jzascff-mleMwEybjpt_w=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUkURHlppOtc2w52Kd0sJGHRZaMdUXMhCTZeSyl0RZ-gqDgbQv8ZFsIM7EGNWalpjLe0Cc4L35RN9dEv1dwlkDnRE7mG44jLUDv3HAzaXCh9ltSaqu-jzascff-mleMwEybjpt_w=w320-h640-k-no",
+                "latitude": -25.426689030236332,
+                "longitude": -49.27187998378832,
+                "type": "video",
+                "photoDatetimeUtc": "2020-02-24T00:00:00.000Z",
+                "photoTimestamp": 1582502400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICEtoWJigE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npkToCzJPNlf01S6PgQQ7jRFrDYfoC5pAzZDhK5ouThgiWPGcRTx_7FnzSD13OvMenVjPQ5zU6wWCSAI0XjLSmIGfCcZ-jrH_lhqWQKfmf9YcdyfbuTgKGavTsRlYNmeJxPcLtqtQ",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npkToCzJPNlf01S6PgQQ7jRFrDYfoC5pAzZDhK5ouThgiWPGcRTx_7FnzSD13OvMenVjPQ5zU6wWCSAI0XjLSmIGfCcZ-jrH_lhqWQKfmf9YcdyfbuTgKGavTsRlYNmeJxPcLtqtQ=w2448-h3264-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4267347,
+                "longitude": -49.2717882,
+                "type": "photo",
+                "photoDatetimeUtc": "2019-02-09T00:00:00.000Z",
+                "photoTimestamp": 1549670400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICTu6S6nQE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkzWlF0aa7emUnOQJeBB7A8-nFyvVuIn1vPy45QYMvo_Wt47KiVSgZfcUczLJ-84CF2hBI004mvQp831dP-Rx_XQ2ZQ7CEjZVt5JAUywErfSTTZs7HmhgOo0hS3ebxNd1CiQFjUQ",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkzWlF0aa7emUnOQJeBB7A8-nFyvVuIn1vPy45QYMvo_Wt47KiVSgZfcUczLJ-84CF2hBI004mvQp831dP-Rx_XQ2ZQ7CEjZVt5JAUywErfSTTZs7HmhgOo0hS3ebxNd1CiQFjUQ=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4267347,
+                "longitude": -49.2717882,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-06-19T00:00:00.000Z",
+                "photoTimestamp": 1718755200
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDVsdKm-wE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMz83hnexiNshGgEzGN889IUZA3Y1to5LH1MwgaVdjdo4r_NLmIkv6vYdl_oTLgDuTmTS6STgKiYZuBbDut30JGXBcM__A4Rz9b2I_9eavpyxB2lpZauMWA7mnJes60rRLKOyRdw",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMz83hnexiNshGgEzGN889IUZA3Y1to5LH1MwgaVdjdo4r_NLmIkv6vYdl_oTLgDuTmTS6STgKiYZuBbDut30JGXBcM__A4Rz9b2I_9eavpyxB2lpZauMWA7mnJes60rRLKOyRdw=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4267347,
+                "longitude": -49.2717882,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-01-13T00:00:00.000Z",
+                "photoTimestamp": 1705104000
+            }
+        ],
+        "globalPlusCode": "586GHPFH+86",
+        "compoundPlusCode": "HPFH+86 São Francisco, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 22,
+            "2": 25,
+            "3": 100,
+            "4": 352,
+            "5": 3152
+        },
+        "photoCount": 717,
+        "about": {
+            "summary": "Restaurante simples e colorido com buffet à vontade de pratos veganos, além de lanches e outras comidas.",
+            "details": {
+                "Opções de serviço": {
+                    "Entrega sem contacto": true,
+                    "Entrega": true,
+                    "Take away": true,
+                    "Comer no local": true
+                },
+                "Destaques": {
+                    "Boa seleção de chás": true,
+                    "Ótimas sobremesas": true,
+                    "Ótimo café": true
+                },
+                "Popularidade": {
+                    "Almoço": true,
+                    "Jantar": true,
+                    "Jantar sozinho": true
+                },
+                "Acessibilidade": {
+                    "Entrada acessível a pessoas em cadeiras de rodas": true,
+                    "Lugares para pessoas em cadeiras de rodas": true,
+                    "WC público acessível a pessoas em cadeiras de rodas": true,
+                    "Com estacionamento acessível a pessoas em cadeiras de rodas": false
+                },
+                "Ofertas": {
+                    "Café": true,
+                    "Comida à discrição": true,
+                    "Opções veganas": true,
+                    "Opções vegetarianas": true,
+                    "Refeição rápida": true
+                },
+                "Opções gastronómicas": {
+                    "Almoço": true,
+                    "Jantar": true,
+                    "Catering": true,
+                    "Sobremesa": true,
+                    "Lugares sentados": true
+                },
+                "Serviços": {
+                    "WC público": true
+                },
+                "Atmosfera": {
+                    "Acolhedor": true,
+                    "Casual": true,
+                    "Popular": true,
+                    "Sossegado": true
+                },
+                "Tipo de clientes": {
+                    "Grupos": true,
+                    "Turistas": true,
+                    "Universitários": true
+                },
+                "Planeamento": {
+                    "Aceita reservas": false
+                },
+                "Pagamentos": {
+                    "Alelo": true,
+                    "Cartões de crédito": true,
+                    "Pagamentos móveis com NFC": true,
+                    "Pluxee": true,
+                    "Senhas de refeição": true
+                },
+                "Crianças": {
+                    "Cadeiras de refeição para crianças": true,
+                    "Indicado para crianças": true
+                },
+                "Estacionamento": {
+                    "Estacionamento": true,
+                    "Estacionamento na rua gratuito": true,
+                    "Estacionamento na rua pago": true,
+                    "Parque de estacionamento pago": true
+                }
+            }
+        },
+        "address": "R. Mateus Leme, 115 - São Francisco, Curitiba - PR, 80510-030, Brasil",
+        "menuLink": null,
+        "orderLink": null,
+        "priceLevel": "20 - 40 R$",
+        "district": "São Francisco",
+        "streetAddress": "R. Mateus Leme, 115",
+        "city": "Curitiba",
+        "zipcode": "80510-030",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "temperada",
+                "reviewCount": 68
+            },
+            {
+                "keyword": "casquinha",
+                "reviewCount": 35
+            },
+            {
+                "keyword": "buffet livre",
+                "reviewCount": 34
+            },
+            {
+                "keyword": "doces",
+                "reviewCount": 27
+            },
+            {
+                "keyword": "salgados",
+                "reviewCount": 18
+            },
+            {
+                "keyword": "farofa",
+                "reviewCount": 15
+            },
+            {
+                "keyword": "custo benefício",
+                "reviewCount": 12
+            },
+            {
+                "keyword": "alfajor",
+                "reviewCount": 9
+            },
+            {
+                "keyword": "coxinha",
+                "reviewCount": 9
+            },
+            {
+                "keyword": "ração",
+                "reviewCount": 7
+            }
+        ],
+        "emailsAndContacts": null
+    },
+    {
+        "businessId": "0x94dce3f4d3b04831:0x1f26fa83996f1338",
+        "googleId": "0x94dce3f4d3b04831:0x1f26fa83996f1338",
+        "placeId": "ChIJMUiw0_Tj3JQROBNvmYP6Jh8",
+        "googleMid": "/g/11cnc1y_sj",
+        "phoneNumber": "+554133474957",
+        "name": "GreenGo Batel",
+        "latitude": -25.4357532,
+        "longitude": -49.2871215,
+        "fullAddress": "GreenGo Batel - Alameda Dr. Carlos de Carvalho, 1282 - Bigorrilho, Curitiba - PR, 80730-200, Brasil",
+        "reviewCount": 1412,
+        "rating": 4.7,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 18:00",
+        "workingHours": {
+            "segunda-feira": ["11:00–15:00", "18:00–22:00"],
+            "terça-feira": ["11:00–15:00", "18:00–22:00"],
+            "quarta-feira": ["11:00–15:00", "18:00–22:00"],
+            "quinta-feira": ["11:00–15:00", "18:00–22:00"],
+            "sexta-feira": ["11:00–15:00", "18:00–22:00"],
+            "sábado": ["11:00–22:00"],
+            "domingo": ["12:00–16:00"]
+        },
+        "website": null,
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce3f4d3b04831:0x1f26fa83996f1338",
+        "cid": "2244756907412624184",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJMUiw0_Tj3JQROBNvmYP6Jh8&authuser=0&hl=pt&gl=PT",
+        "ownerId": "110080783509775725904",
+        "ownerLink": "https://maps.google.com/maps/contrib/110080783509775725904",
+        "ownerName": "GreenGo - Batel",
+        "bookingLink": null,
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Vegetariano",
+        "subtypes": ["Restaurante Vegetariano", "Restaurante Vegano"],
+        "subtypeGcids": ["vegetarian_restaurant", "vegan_restaurant"],
+        "photosSample": [
+            {
+                "photoId": "CIHM0ogKEICAgIC3yvalEA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noz42qekixG7zM49V1w7-4KRcOdYwATCiH8k6AXQcJc2EpCEzEhm2QElBhLtoYFnXaTZiKNGqsBagkg9rsu_MFH51x44AY-_C0WH4UOOipvZ7D5zk-KckrL99EM-moQzW0C_1H6",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noz42qekixG7zM49V1w7-4KRcOdYwATCiH8k6AXQcJc2EpCEzEhm2QElBhLtoYFnXaTZiKNGqsBagkg9rsu_MFH51x44AY-_C0WH4UOOipvZ7D5zk-KckrL99EM-moQzW0C_1H6=w4032-h3024-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358282,
+                "longitude": -49.2870847,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-12-04T00:00:00.000Z",
+                "photoTimestamp": 1733270400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgID0x_fdKQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noW9YFXLa7dWA7U3bO3vDA6Bkn7jmfgebQQg0LnR3ZXlhASbIb7ZoJ-nExCdyplMyg5ofqNViQlmHQHZzvTB9jMHzot463id15FjxbBrTisrnHTVneqCsatPGVVI7kOVK1qojhH",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noW9YFXLa7dWA7U3bO3vDA6Bkn7jmfgebQQg0LnR3ZXlhASbIb7ZoJ-nExCdyplMyg5ofqNViQlmHQHZzvTB9jMHzot463id15FjxbBrTisrnHTVneqCsatPGVVI7kOVK1qojhH=w7200-h3600-k-no-pi-0-ya23.41-ro-0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.43568122811588,
+                "longitude": -49.28714242053595,
+                "type": "street_view",
+                "photoDatetimeUtc": "2019-11-14T00:00:00.000Z",
+                "photoTimestamp": 1573689600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgID0x_fd6gE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4ZxMdvdLL4GRU5S-VTQ7SK5WUTGAQTll61Qm_FVLALbQZzl5q_Y1AxA8eRtccREuKvm_stA9BrqwEfAAqfnIxZLXsrwiV3NUTv7O-L_umP8MpfiFhPWy7clQLQNQQDtKHN1L1ng",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4ZxMdvdLL4GRU5S-VTQ7SK5WUTGAQTll61Qm_FVLALbQZzl5q_Y1AxA8eRtccREuKvm_stA9BrqwEfAAqfnIxZLXsrwiV3NUTv7O-L_umP8MpfiFhPWy7clQLQNQQDtKHN1L1ng=w7200-h3600-k-no-pi-10-ya23.980019-ro-0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.435782605660943,
+                "longitude": -49.28708060894403,
+                "type": "street_view",
+                "photoDatetimeUtc": "2019-11-14T00:00:00.000Z",
+                "photoTimestamp": 1573689600
+            },
+            {
+                "photoId": "AF1QipOa-JhrYmhRezeiLCI9ghTDL4dSgEr9iNGvoyfk",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipOa-JhrYmhRezeiLCI9ghTDL4dSgEr9iNGvoyfk",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipOa-JhrYmhRezeiLCI9ghTDL4dSgEr9iNGvoyfk=w512-h384-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358282,
+                "longitude": -49.2870847,
+                "type": "photo",
+                "photoDatetimeUtc": "2020-07-29T00:00:00.000Z",
+                "photoTimestamp": 1595980800
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICHx9vWlgE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notOJlrgax7vTORBy_lCDQ6jPCNhaj26gtzMXDxuREcnXQZgIpfn_WGWaWEH7zSEBD9k0XtEolr98OWoz_QgcQLjz9OYf1NViXOWQ-diC0dn1uKD2e121xEnnn3bksiDh--92gi",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notOJlrgax7vTORBy_lCDQ6jPCNhaj26gtzMXDxuREcnXQZgIpfn_WGWaWEH7zSEBD9k0XtEolr98OWoz_QgcQLjz9OYf1NViXOWQ-diC0dn1uKD2e121xEnnn3bksiDh--92gi=w4284-h3664-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358282,
+                "longitude": -49.2870847,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-10-09T00:00:00.000Z",
+                "photoTimestamp": 1728432000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICs2sq2bQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npudKRCo4aCGGCWdQTpHSHFiNk4l7PeKd0J2OPecJD-12BiM8S8hJ6shDBHcnXrucu0juIOjWhqDOzJX53M7lmXiRgfyT7RdMxzc7wheJsZtYOu8MoCE5xJTkMTrmqjbxH_ZgBw=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npudKRCo4aCGGCWdQTpHSHFiNk4l7PeKd0J2OPecJD-12BiM8S8hJ6shDBHcnXrucu0juIOjWhqDOzJX53M7lmXiRgfyT7RdMxzc7wheJsZtYOu8MoCE5xJTkMTrmqjbxH_ZgBw=w344-h640-k-no",
+                "latitude": -25.435753181149053,
+                "longitude": -49.287121533006875,
+                "type": "video",
+                "photoDatetimeUtc": "2020-02-29T00:00:00.000Z",
+                "photoTimestamp": 1582934400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDWxODdUA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npht5d0zOxTl-YfzccI7jWCJvcwmaIt8ugdL7Ao60GnHvio_VsROwVP5oIxd-vVE-6oh-x1lTCY3S69H85J1i6Oi4gq93HRj6YNaRd79ZJvvfxHt4G7F_fQfCUhL2uosvGYemey",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npht5d0zOxTl-YfzccI7jWCJvcwmaIt8ugdL7Ao60GnHvio_VsROwVP5oIxd-vVE-6oh-x1lTCY3S69H85J1i6Oi4gq93HRj6YNaRd79ZJvvfxHt4G7F_fQfCUhL2uosvGYemey=w3096-h4128-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358282,
+                "longitude": -49.2870847,
+                "type": "photo",
+                "photoDatetimeUtc": "2022-04-15T00:00:00.000Z",
+                "photoTimestamp": 1649980800
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIC10KzpxAE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3rLDdbzASTMUromBANelXXnDg8e2DZk47JONs6eFdVN2FSX_o_Su57DQRqeRlbuSufhjFWt5UJhYjxqBxn9vlXSc4kDszDisNPM3ZIAC7PLfy6a7CBOJTS3sNNAnatfjeI5fQLg",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3rLDdbzASTMUromBANelXXnDg8e2DZk47JONs6eFdVN2FSX_o_Su57DQRqeRlbuSufhjFWt5UJhYjxqBxn9vlXSc4kDszDisNPM3ZIAC7PLfy6a7CBOJTS3sNNAnatfjeI5fQLg=w3472-h4624-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358282,
+                "longitude": -49.2870847,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-01-20T00:00:00.000Z",
+                "photoTimestamp": 1705708800
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICHx9vWDg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq2x9lQ_3KHa6edwimj0qXON25hFHEkmT-2X3cXcgxnNmC1ULTgIKaQPbYItMHZg8zlDfpCywNKxXJpU_ev4K8WFPajFVzhEwYH0EetX6G4oJkrnFPsqTdSrlhnug0LpgY9BHAr",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq2x9lQ_3KHa6edwimj0qXON25hFHEkmT-2X3cXcgxnNmC1ULTgIKaQPbYItMHZg8zlDfpCywNKxXJpU_ev4K8WFPajFVzhEwYH0EetX6G4oJkrnFPsqTdSrlhnug0LpgY9BHAr=w4284-h5712-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358282,
+                "longitude": -49.2870847,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-10-09T00:00:00.000Z",
+                "photoTimestamp": 1728432000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIC55Y616gE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no72rchcq4e0P3O1P8ExbvHNunBBQokm7yrdh8hQAE0xES5tQdfPK7LnYSznYJkOrswD0s36YBGeS5usPFz2LaG6EFS_IWfhN4QHK7kfQZVx5yrevOCJCFDCmUBfTTlwHBz4ALAMw",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no72rchcq4e0P3O1P8ExbvHNunBBQokm7yrdh8hQAE0xES5tQdfPK7LnYSznYJkOrswD0s36YBGeS5usPFz2LaG6EFS_IWfhN4QHK7kfQZVx5yrevOCJCFDCmUBfTTlwHBz4ALAMw=w1200-h1600-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358282,
+                "longitude": -49.2870847,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-11-15T00:00:00.000Z",
+                "photoTimestamp": 1700006400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgID_x6SXLQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noO1eedNlrikCYtxwDlfXFPXJuC5KLAwpcRiHnZ1f5MM3NJ97DVU6k_q1sPbARYnFGHUpNat0aBqLiLcgYyBVV6vLdHZA1IDoki4INQZLkNqkIstbWMHka_fKawUdMZ4XG-8S5n",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noO1eedNlrikCYtxwDlfXFPXJuC5KLAwpcRiHnZ1f5MM3NJ97DVU6k_q1sPbARYnFGHUpNat0aBqLiLcgYyBVV6vLdHZA1IDoki4INQZLkNqkIstbWMHka_fKawUdMZ4XG-8S5n=w1600-h1200-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358282,
+                "longitude": -49.2870847,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-02-27T00:00:00.000Z",
+                "photoTimestamp": 1740614400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDmwt3_Ow",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nohjqAO8E-idie8AHbkb3Xs4-_3WZfiSDBkGjfzkXOAF_jI20Y9WP66BU3MVBiye-9Lg88MyxS6kCNC0BCvMSwuZuYv6rNgBWpgZGM-QQyEYzfH1iNt6deh-iKkwZcQ35-T2-ce",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nohjqAO8E-idie8AHbkb3Xs4-_3WZfiSDBkGjfzkXOAF_jI20Y9WP66BU3MVBiye-9Lg88MyxS6kCNC0BCvMSwuZuYv6rNgBWpgZGM-QQyEYzfH1iNt6deh-iKkwZcQ35-T2-ce=w4032-h2268-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358282,
+                "longitude": -49.2870847,
+                "type": "photo",
+                "photoDatetimeUtc": "2022-02-23T00:00:00.000Z",
+                "photoTimestamp": 1645574400
+            },
+            {
+                "photoId": "AF1QipPtPRsU7_oLy-UxvfIQmk-a0tGaOeidDiHdm5Fb",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipPtPRsU7_oLy-UxvfIQmk-a0tGaOeidDiHdm5Fb",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipPtPRsU7_oLy-UxvfIQmk-a0tGaOeidDiHdm5Fb=w2048-h1536-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358282,
+                "longitude": -49.2870847,
+                "type": "photo",
+                "photoDatetimeUtc": "2017-12-25T00:00:00.000Z",
+                "photoTimestamp": 1514160000
+            }
+        ],
+        "globalPlusCode": "586GHP77+M5",
+        "compoundPlusCode": "HP77+M5 Bigorrilho, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 42,
+            "2": 7,
+            "3": 31,
+            "4": 122,
+            "5": 1210
+        },
+        "photoCount": 787,
+        "about": {
+            "summary": "A gastronomia de pratos vegetarianos criativos e  individuais, com sobremesas e porções em espaço descolado.",
+            "details": {
+                "Opções de serviço": {
+                    "Entrega sem contacto": true,
+                    "Entrega": true,
+                    "Take away": true,
+                    "Comer no local": true
+                },
+                "Destaques": {
+                    "Boa seleção de chás": true,
+                    "Ótimas sobremesas": true,
+                    "Ótimo café": true
+                },
+                "Popularidade": {
+                    "Almoço": true,
+                    "Jantar": true,
+                    "Jantar sozinho": true
+                },
+                "Acessibilidade": {
+                    "Entrada acessível a pessoas em cadeiras de rodas": true,
+                    "Lugares para pessoas em cadeiras de rodas": true,
+                    "WC público acessível a pessoas em cadeiras de rodas": true,
+                    "Com estacionamento acessível a pessoas em cadeiras de rodas": false
+                },
+                "Ofertas": {
+                    "Bebidas alcoólicas": true,
+                    "Café": true,
+                    "Cerveja": true,
+                    "Happy hour de bebidas": true,
+                    "Happy hour de comida": true,
+                    "Opções veganas": true,
+                    "Opções vegetarianas": true,
+                    "Pratos pequenos": true,
+                    "Refeição rápida": true,
+                    "Vinho": true
+                },
+                "Opções gastronómicas": {
+                    "Almoço": true,
+                    "Jantar": true,
+                    "Sobremesa": true,
+                    "Lugares sentados": true,
+                    "Serviço de mesa": true
+                },
+                "Serviços": {
+                    "WC público": true,
+                    "WC público unissexo": true,
+                    "Wi-Fi": true
+                },
+                "Atmosfera": {
+                    "Acolhedor": true,
+                    "Casual": true,
+                    "Popular": true,
+                    "Romântico": true,
+                    "Sossegado": true
+                },
+                "Tipo de clientes": {
+                    "Espaço seguro para transexuais": true,
+                    "Grupos": true,
+                    "Turistas": true,
+                    "Universitários": true
+                },
+                "Planeamento": {
+                    "Aceita reservas": true
+                },
+                "Pagamentos": {
+                    "Alelo": true,
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pagamentos móveis com NFC": true,
+                    "Pluxee": true,
+                    "Senhas de refeição": true
+                },
+                "Crianças": {
+                    "Indicado para crianças": true
+                },
+                "Estacionamento": {
+                    "Estacionamento": true,
+                    "Estacionamento na rua gratuito": true,
+                    "Estacionamento na rua pago": true
+                }
+            }
+        },
+        "address": "Alameda Dr. Carlos de Carvalho, 1282 - Bigorrilho, Curitiba - PR, 80730-200, Brasil",
+        "menuLink": "http://www.greengovegetariano.com/cardapio2",
+        "orderLink": null,
+        "priceLevel": "40 - 60 R$",
+        "district": "Bigorrilho",
+        "streetAddress": "Alameda Dr. Carlos de Carvalho, 1282",
+        "city": "Curitiba",
+        "zipcode": "80730-200",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "opções",
+                "reviewCount": 37
+            },
+            {
+                "keyword": "temperada",
+                "reviewCount": 33
+            },
+            {
+                "keyword": "suco",
+                "reviewCount": 31
+            },
+            {
+                "keyword": "quibe",
+                "reviewCount": 24
+            },
+            {
+                "keyword": "Buda",
+                "reviewCount": 17
+            },
+            {
+                "keyword": "entrada",
+                "reviewCount": 11
+            },
+            {
+                "keyword": "happy hour",
+                "reviewCount": 10
+            },
+            {
+                "keyword": "motoboy",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "couve",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "bolinhos",
+                "reviewCount": 5
+            }
+        ],
+        "emailsAndContacts": null
+    },
+    {
+        "businessId": "0x94dce4732f59c7d3:0x6f8acfdfd41b2e75",
+        "googleId": "0x94dce4732f59c7d3:0x6f8acfdfd41b2e75",
+        "placeId": "ChIJ08dZL3Pk3JQRdS4b1N_Pim8",
+        "googleMid": "/g/11b73_bmwf",
+        "phoneNumber": "+554130855405",
+        "name": "Veg Veg",
+        "latitude": -25.4284727,
+        "longitude": -49.2797707,
+        "fullAddress": "Veg Veg - Rua Visconde de Nácar, 655 - São Francisco, Curitiba - PR, 80410-200, Brasil",
+        "reviewCount": 2492,
+        "rating": 4.8,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 11:30 de terça",
+        "workingHours": {
+            "segunda-feira": ["Encerrado"],
+            "terça-feira": ["11:30–18:30"],
+            "quarta-feira": ["11:30–18:30"],
+            "quinta-feira": ["11:30–18:30"],
+            "sexta-feira": ["11:30–18:30"],
+            "sábado": ["11:30–18:30"],
+            "domingo": ["11:30–18:30"]
+        },
+        "website": null,
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce4732f59c7d3:0x6f8acfdfd41b2e75",
+        "cid": "8037465045239279221",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJ08dZL3Pk3JQRdS4b1N_Pim8&authuser=0&hl=pt&gl=PT",
+        "ownerId": "101921127228975187516",
+        "ownerLink": "https://maps.google.com/maps/contrib/101921127228975187516",
+        "ownerName": "Veg Veg",
+        "bookingLink": null,
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Vegano",
+        "subtypes": ["Restaurante Vegano", "Diner norte-americano"],
+        "subtypeGcids": ["vegan_restaurant", "diner"],
+        "photosSample": [
+            {
+                "photoId": "CIHM0ogKEICAgICk1bn3bA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQ_SZ-1BCn1U0SDPnZJDZ8zb31HmuW3dgKe965pnqZvNBUpTUcr2jhKDvIlY6VZ0lHszTGQJWKj5oP2-pza8-CuaIYEMJA14cSVTOkYmRp60g5K8SabYJV9sOoLeDS0IkxLa_K",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQ_SZ-1BCn1U0SDPnZJDZ8zb31HmuW3dgKe965pnqZvNBUpTUcr2jhKDvIlY6VZ0lHszTGQJWKj5oP2-pza8-CuaIYEMJA14cSVTOkYmRp60g5K8SabYJV9sOoLeDS0IkxLa_K=w4032-h3024-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2019-01-03T00:00:00.000Z",
+                "photoTimestamp": 1546473600
+            },
+            {
+                "photoId": "YPEPbDDgSotgepN3S44mnQ",
+                "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YPEPbDDgSotgepN3S44mnQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=65.266846&pitch=0&thumbfov=100",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": null,
+                "latitude": -25.42853267310965,
+                "longitude": -49.27991485817971,
+                "type": "street_view",
+                "photoDatetimeUtc": "2024-01-13T00:00:00.000Z",
+                "photoTimestamp": 1705104000
+            },
+            {
+                "photoId": "AF1QipPgr-SFs5NSUkHoiuiSOCj7tc3S5DlSpwJejEdT",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipPgr-SFs5NSUkHoiuiSOCj7tc3S5DlSpwJejEdT",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipPgr-SFs5NSUkHoiuiSOCj7tc3S5DlSpwJejEdT=w2000-h2500-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-04-12T00:00:00.000Z",
+                "photoTimestamp": 1744416000
+            },
+            {
+                "photoId": "CIABIhB7vCE1HW87DeHyghuih59c",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np43HazNjUdSAy5JFXG0936J7ah7XURuLJxBBZDy8WLvl6lksywWZSukcsIv67bQtb2yIr-ng64KzbFrzlAjHvJGlmQ-iy1INLWqwpG-ltQs2nt5rmm-gdHHt-0wmegaOQwp_9E8DnJP2aS=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np43HazNjUdSAy5JFXG0936J7ah7XURuLJxBBZDy8WLvl6lksywWZSukcsIv67bQtb2yIr-ng64KzbFrzlAjHvJGlmQ-iy1INLWqwpG-ltQs2nt5rmm-gdHHt-0wmegaOQwp_9E8DnJP2aS=w360-h640-k-no",
+                "latitude": -25.42848220648998,
+                "longitude": -49.27979542751062,
+                "type": "video",
+                "photoDatetimeUtc": "2025-08-05T00:00:00.000Z",
+                "photoTimestamp": 1754352000
+            },
+            {
+                "photoId": "CIABIhADyc5ULRxvFme171wAAvSb",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEItKqpqFRCwtngjl1QuqfeG9GEwITG6SebslT_cocyVF0J6CU1n8evqdRcYZonPlOczIxCrHuyOEEagXVaLAy0xk3kw9xL3xEhdQg8UeW18fKLhz-ObyfgfH68a0VMx24C-rpQYq48zf2=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEItKqpqFRCwtngjl1QuqfeG9GEwITG6SebslT_cocyVF0J6CU1n8evqdRcYZonPlOczIxCrHuyOEEagXVaLAy0xk3kw9xL3xEhdQg8UeW18fKLhz-ObyfgfH68a0VMx24C-rpQYq48zf2=w360-h640-k-no",
+                "latitude": -25.428472675162315,
+                "longitude": -49.279770675071255,
+                "type": "video",
+                "photoDatetimeUtc": "2025-03-19T00:00:00.000Z",
+                "photoTimestamp": 1742342400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICyzvTpxQE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr3B--JXryHdOVanhuo9FbdwTQ-cQOJF7Ec2k99dNtYF3RyO3hB4RaKLXyrv_qT9zBstLOlTWEnC97-bUmEurFakpJBYlP9TZwiJ8R2lLU4ac9FH5_gLgDKsVL4mlauqG8UaSKfRw",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr3B--JXryHdOVanhuo9FbdwTQ-cQOJF7Ec2k99dNtYF3RyO3hB4RaKLXyrv_qT9zBstLOlTWEnC97-bUmEurFakpJBYlP9TZwiJ8R2lLU4ac9FH5_gLgDKsVL4mlauqG8UaSKfRw=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2021-03-02T00:00:00.000Z",
+                "photoTimestamp": 1614643200
+            },
+            {
+                "photoId": "CIABIhADyc5ULRxvFme176AAABnj",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr_6vKVvlgpTAFyL-OYnoTpeJZGKvwyWhBw6E7lRp7mHp6qfYj-AWDjs2T9PjkHQdZJeDdjvYwHf6PEOKC8blqguIThj3MPwOcSHRY139g0LIWSc_Xj6iZNeu5asw9jt7gVtSvvivuyRlw=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr_6vKVvlgpTAFyL-OYnoTpeJZGKvwyWhBw6E7lRp7mHp6qfYj-AWDjs2T9PjkHQdZJeDdjvYwHf6PEOKC8blqguIThj3MPwOcSHRY139g0LIWSc_Xj6iZNeu5asw9jt7gVtSvvivuyRlw=w640-h360-k-no",
+                "latitude": -25.428472675162315,
+                "longitude": -49.279770675071255,
+                "type": "video",
+                "photoDatetimeUtc": "2025-03-19T00:00:00.000Z",
+                "photoTimestamp": 1742342400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDEmof-7AE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZRmcNYE-7w7BfLUBC_jIJX3tIawM6kpgNN5lBEN7BF-W3SUN5jXpK_CMdyvaPCJdP92RjmEcDUtnl98X59wx7e1U_yQSW5l6YKStAocMS4JKMj2gyzeLpg10kWRmnglGL3i0Q-Q",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZRmcNYE-7w7BfLUBC_jIJX3tIawM6kpgNN5lBEN7BF-W3SUN5jXpK_CMdyvaPCJdP92RjmEcDUtnl98X59wx7e1U_yQSW5l6YKStAocMS4JKMj2gyzeLpg10kWRmnglGL3i0Q-Q=w3264-h1836-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2019-05-19T00:00:00.000Z",
+                "photoTimestamp": 1558224000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgMDo3dHlggE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npov8ynJW5bPB38R5O-lObOaAlMQWz92tcnBXlRpsyHAzDoJfd9Exru1lc6Te3U09d0N2tWI3j5zyYt3eL1Hn7W_JK1HnzK9QSwjDEzf47c2aoD9tIR0MOOBencGov7DAwrNhwIZA",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npov8ynJW5bPB38R5O-lObOaAlMQWz92tcnBXlRpsyHAzDoJfd9Exru1lc6Te3U09d0N2tWI3j5zyYt3eL1Hn7W_JK1HnzK9QSwjDEzf47c2aoD9tIR0MOOBencGov7DAwrNhwIZA=w3120-h4160-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-05-27T00:00:00.000Z",
+                "photoTimestamp": 1748304000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIC4lcWErwE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npJ_TZjiByvQJW2OprjLckA-a2uK6T7KfBH1WobXyPb-_3pyLF6N9C1uH_bIIMHJxpfCqm-a6EU40-GiPEbS1-CqW0InI3lyDKRx5WrxMLLmn0YP98vd1ufPxSMzGpmce1sYFsYzg",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npJ_TZjiByvQJW2OprjLckA-a2uK6T7KfBH1WobXyPb-_3pyLF6N9C1uH_bIIMHJxpfCqm-a6EU40-GiPEbS1-CqW0InI3lyDKRx5WrxMLLmn0YP98vd1ufPxSMzGpmce1sYFsYzg=w3096-h4128-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2018-10-16T00:00:00.000Z",
+                "photoTimestamp": 1539648000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICM5pfR_QE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojYVqIOxfylEkiVqPfAAosN3XOpxjDWKeT4fIfAi5HNNScISkp4kehWkwTKDf57lp7KHd9rxOidUQmiEUtHbOwxpa7bNcFENhGTe8GkjHZ_00_FIrlrc3Y0LzvtI-XVBZ3Ng5yCg",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojYVqIOxfylEkiVqPfAAosN3XOpxjDWKeT4fIfAi5HNNScISkp4kehWkwTKDf57lp7KHd9rxOidUQmiEUtHbOwxpa7bNcFENhGTe8GkjHZ_00_FIrlrc3Y0LzvtI-XVBZ3Ng5yCg=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2019-12-11T00:00:00.000Z",
+                "photoTimestamp": 1576022400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIC42rykHA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrwobB7KfdoOcedyxcA5B_4OdqlgQCZZpSH0G6zUtyz_nS-Fcq13Ns964dYWG39EffAFdb8xDJJWQlPfZkUPaK3LxhZ2irpozhs8hjTktDd6wFZs3a0KNu2qefTSDh9vi_Njgnf",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrwobB7KfdoOcedyxcA5B_4OdqlgQCZZpSH0G6zUtyz_nS-Fcq13Ns964dYWG39EffAFdb8xDJJWQlPfZkUPaK3LxhZ2irpozhs8hjTktDd6wFZs3a0KNu2qefTSDh9vi_Njgnf=w3096-h4128-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2018-12-15T00:00:00.000Z",
+                "photoTimestamp": 1544832000
+            },
+            {
+                "photoId": "AF1QipMxtohC98j9x2vLDBwykWR5FSGnG2nGgqguhdxy",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipMxtohC98j9x2vLDBwykWR5FSGnG2nGgqguhdxy",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipMxtohC98j9x2vLDBwykWR5FSGnG2nGgqguhdxy=w2000-h2500-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-04-25T00:00:00.000Z",
+                "photoTimestamp": 1745539200
+            },
+            {
+                "photoId": "AF1QipOjk-VK1DvTyYAXAs9RLGzn18EVCbuCaM3eAURX",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipOjk-VK1DvTyYAXAs9RLGzn18EVCbuCaM3eAURX",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipOjk-VK1DvTyYAXAs9RLGzn18EVCbuCaM3eAURX=w1200-h1600-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-04-25T00:00:00.000Z",
+                "photoTimestamp": 1745539200
+            },
+            {
+                "photoId": "AF1QipNEVOPcoeYCs85-BE9394PCXRqrDBoCltLQVP6f",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipNEVOPcoeYCs85-BE9394PCXRqrDBoCltLQVP6f",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipNEVOPcoeYCs85-BE9394PCXRqrDBoCltLQVP6f=w1080-h1920-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.428528699999998,
+                "longitude": -49.2799167,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-04-14T00:00:00.000Z",
+                "photoTimestamp": 1744588800
+            }
+        ],
+        "globalPlusCode": "586GHPCC+J3",
+        "compoundPlusCode": "HPCC+J3 São Francisco, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 42,
+            "2": 20,
+            "3": 71,
+            "4": 253,
+            "5": 2106
+        },
+        "photoCount": 1517,
+        "about": {
+            "summary": "Restaurante moderno com sanduíches, aperitivos e hambúrgueres vegetais, decorado com arte urbana e área externa.",
+            "details": {
+                "Da empresa": {
+                    "Identifica-se como pertencente a mulheres": true
+                },
+                "Opções de serviço": {
+                    "Com esplanada": true,
+                    "Com recolha móvel": true,
+                    "Entrega sem contacto": true,
+                    "Entrega": true,
+                    "Take away": true,
+                    "Comer no local": true
+                },
+                "Destaques": {
+                    "Boa seleção de chás": true,
+                    "Lugares sentados no terraço": true,
+                    "Ótimas sobremesas": true,
+                    "Ótimo café": true
+                },
+                "Popularidade": {
+                    "Almoço": true,
+                    "Jantar": true,
+                    "Jantar sozinho": true
+                },
+                "Acessibilidade": {
+                    "Anel de indução magnética de assistência": false,
+                    "Com estacionamento acessível a pessoas em cadeiras de rodas": false,
+                    "Entrada acessível a pessoas em cadeiras de rodas": false,
+                    "Lugares para pessoas em cadeiras de rodas": false,
+                    "WC público acessível a pessoas em cadeiras de rodas": false
+                },
+                "Ofertas": {
+                    "Bebidas alcoólicas": true,
+                    "Bebidas espirituosas de elevado teor alcoólico": true,
+                    "Café": true,
+                    "Cerveja": true,
+                    "Cocktails": true,
+                    "Opções veganas": true,
+                    "Opções vegetarianas": true,
+                    "Pratos pequenos": true,
+                    "Refeição rápida": true,
+                    "Refeições biológicas": true,
+                    "Sala de jantar privada": true
+                },
+                "Opções gastronómicas": {
+                    "Almoço": true,
+                    "Jantar": true,
+                    "Serviço de balcão": true,
+                    "Sobremesa": true,
+                    "Lugares sentados": true,
+                    "Serviço de mesa": true
+                },
+                "Serviços": {
+                    "Bar no local": true,
+                    "WC público": true,
+                    "WC público unissexo": true,
+                    "Wi-Fi": true
+                },
+                "Atmosfera": {
+                    "Acolhedor": true,
+                    "Casual": true,
+                    "Popular": true,
+                    "Sossegado": true
+                },
+                "Tipo de clientes": {
+                    "Adequado para famílias": true,
+                    "Adequado para LGBTQ+": true,
+                    "Espaço seguro para transexuais": true,
+                    "Grupos": true,
+                    "Turistas": true,
+                    "Universitários": true
+                },
+                "Planeamento": {
+                    "Reservas de almoços recomendadas": true,
+                    "Aceita reservas": true
+                },
+                "Pagamentos": {
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pluxee": true,
+                    "Senhas de refeição": true
+                },
+                "Crianças": {
+                    "Indicado para crianças": true
+                },
+                "Estacionamento": {
+                    "Estacionamento na rua gratuito": true,
+                    "Local de estacionamento gratuito": true
+                },
+                "Animais de estimação": {
+                    "Aceita cães": true,
+                    "Aceita cães no exterior": true,
+                    "Cães permitidos no interior": true
+                }
+            }
+        },
+        "address": "Rua Visconde de Nácar, 655 - São Francisco, Curitiba - PR, 80410-200, Brasil",
+        "menuLink": "https://vegvegcwb-presencial.goomer.app",
+        "orderLink": null,
+        "priceLevel": "20 - 40 R$",
+        "district": "São Francisco",
+        "streetAddress": "Rua Visconde de Nácar, 655",
+        "city": "Curitiba",
+        "zipcode": "80410-200",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "lanches",
+                "reviewCount": 86
+            },
+            {
+                "keyword": "opções",
+                "reviewCount": 56
+            },
+            {
+                "keyword": "coxinha",
+                "reviewCount": 45
+            },
+            {
+                "keyword": "feijoada",
+                "reviewCount": 32
+            },
+            {
+                "keyword": "jardim",
+                "reviewCount": 15
+            },
+            {
+                "keyword": "congelados",
+                "reviewCount": 12
+            },
+            {
+                "keyword": "educados",
+                "reviewCount": 11
+            },
+            {
+                "keyword": "salgados",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "gosto",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "linguiça",
+                "reviewCount": 5
+            }
+        ],
+        "emailsAndContacts": null
+    },
+    {
+        "businessId": "0x94dce3ec411982d1:0x22588407a1d70324",
+        "googleId": "0x94dce3ec411982d1:0x22588407a1d70324",
+        "placeId": "ChIJ0YIZQezj3JQRJAPXoQeEWCI",
+        "googleMid": "/g/1ptvx1pl7",
+        "phoneNumber": "+554133353216",
+        "name": "Sorella Restaurante Vegetariano",
+        "latitude": -25.4360288,
+        "longitude": -49.2978622,
+        "fullAddress": "Sorella Restaurante Vegetariano - Alameda Princesa Izabel, 2191 - Bigorrilho, Curitiba - PR, 80730-080, Brasil",
+        "reviewCount": 1313,
+        "rating": 4.7,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 11:30 de terça",
+        "workingHours": {
+            "segunda-feira": ["11:30–14:30"],
+            "terça-feira": ["11:30–14:30"],
+            "quarta-feira": ["11:30–14:30"],
+            "quinta-feira": ["11:30–14:30"],
+            "sexta-feira": ["11:30–14:30"],
+            "sábado": ["Encerrado"],
+            "domingo": ["11:30–14:30"]
+        },
+        "website": "https://maquinacaptacao.com.br/sorella-champagnat",
+        "tld": "maquinacaptacao.com.br",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce3ec411982d1:0x22588407a1d70324",
+        "cid": "2474873163554947876",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJ0YIZQezj3JQRJAPXoQeEWCI&authuser=0&hl=pt&gl=PT",
+        "ownerId": "108545619028433269946",
+        "ownerLink": "https://maps.google.com/maps/contrib/108545619028433269946",
+        "ownerName": "Sorella Restaurante Vegetariano",
+        "bookingLink": "https://maquinacaptacao.com.br/sorella-champagnat",
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Vegetariano",
+        "subtypes": ["Restaurante Vegetariano", "Restaurante de bufete"],
+        "subtypeGcids": ["vegetarian_restaurant", "buffet_restaurant"],
+        "photosSample": [
+            {
+                "photoId": "CIHM0ogKEICAgICkvLPMcg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4novM7UL-5njk1GmlrJz4k5cTIHyRdEWmeNDnd0c1eNbYhoIKmwC5kuCFd_OlPKRoLLyjeE7QIxsYN7y2QuSNI6QMpK7H55-ImUhcVtgqHQquMjeMTAwVWRK-3ocPS-D9MOqjcY",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4novM7UL-5njk1GmlrJz4k5cTIHyRdEWmeNDnd0c1eNbYhoIKmwC5kuCFd_OlPKRoLLyjeE7QIxsYN7y2QuSNI6QMpK7H55-ImUhcVtgqHQquMjeMTAwVWRK-3ocPS-D9MOqjcY=w4032-h3024-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.43602883008187,
+                "longitude": -49.29786220077836,
+                "type": "photo",
+                "photoDatetimeUtc": "2017-02-21T00:00:00.000Z",
+                "photoTimestamp": 1487635200
+            },
+            {
+                "photoId": "N76XO-eWS6ufgsYS71-Dnw",
+                "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N76XO-eWS6ufgsYS71-Dnw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=153.11264&pitch=0&thumbfov=100",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": null,
+                "latitude": -25.435876935169894,
+                "longitude": -49.29794746874082,
+                "type": "street_view",
+                "photoDatetimeUtc": "2025-06-23T00:00:00.000Z",
+                "photoTimestamp": 1750636800
+            },
+            {
+                "photoId": "AF1QipP40V1_LWI6eRd56CRJuLOt2iry1ddFohNQz4nF",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipP40V1_LWI6eRd56CRJuLOt2iry1ddFohNQz4nF",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipP40V1_LWI6eRd56CRJuLOt2iry1ddFohNQz4nF=w500-h500-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358763,
+                "longitude": -49.2979342,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-09-25T00:00:00.000Z",
+                "photoTimestamp": 1695600000
+            },
+            {
+                "photoId": "CIABIhAkVij-lA2bnbGmPy9iSZbb",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMpYsQ8kyrt8-pgxfZpBy7ZLnYSDGYlrOWHt5X_ENYWWoO3qFoanmWMjfVo6e0YEfkIDZw4wPXes1oX1Ofy6L1_oNUaIpabPRqLTiPrfFZQY9q-lpsWyq-OhgidxeeXCmCDyLLLHxvT6mo",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMpYsQ8kyrt8-pgxfZpBy7ZLnYSDGYlrOWHt5X_ENYWWoO3qFoanmWMjfVo6e0YEfkIDZw4wPXes1oX1Ofy6L1_oNUaIpabPRqLTiPrfFZQY9q-lpsWyq-OhgidxeeXCmCDyLLLHxvT6mo=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358763,
+                "longitude": -49.2979342,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-07-26T00:00:00.000Z",
+                "photoTimestamp": 1753488000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICz_-zCPQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqIdboOqTZ6GqQKoXo2k7R5uYb2APC1Zt_2w9t8eQdhiWB9te7rGXzks9QKi4EUwR68ygQXlUk74xLTHzgWmTvmDaJZQCQX1TauJTT2hWj5G5SBzwR0_i2u-PVcIhslEiPYsaFg=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqIdboOqTZ6GqQKoXo2k7R5uYb2APC1Zt_2w9t8eQdhiWB9te7rGXzks9QKi4EUwR68ygQXlUk74xLTHzgWmTvmDaJZQCQX1TauJTT2hWj5G5SBzwR0_i2u-PVcIhslEiPYsaFg=w360-h640-k-no",
+                "latitude": -25.435999720367118,
+                "longitude": -49.29787589625932,
+                "type": "video",
+                "photoDatetimeUtc": "2024-07-06T00:00:00.000Z",
+                "photoTimestamp": 1720224000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICz_-zC_QE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqExpG0W-6Zz4KQqZ5IX8Wyhb29-vln8jkh6Lyh0vJM2kkPGlo5dVbh9T5mHW3__yMh9uwBqsj4tojBdIqC3n42kCSKJhcyobx9k5qZga3IuBMQ_M6UQKGYsb-47Us3O5kXE_Za",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqExpG0W-6Zz4KQqZ5IX8Wyhb29-vln8jkh6Lyh0vJM2kkPGlo5dVbh9T5mHW3__yMh9uwBqsj4tojBdIqC3n42kCSKJhcyobx9k5qZga3IuBMQ_M6UQKGYsb-47Us3O5kXE_Za=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358763,
+                "longitude": -49.2979342,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-07-06T00:00:00.000Z",
+                "photoTimestamp": 1720224000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgID7o6_iQQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrhMdZqfcUl8Gum_T1E3CtU44SbIMdBMqkgE4uwN_zNjJpi7_x3GE_QZqHzx02N8swMFhFWYhARwTlY98Ejn1exPBCwcbxYg2PEDL_22ev6A0vx_sZ72-m5VAyOFZ61EGQB0OQ",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrhMdZqfcUl8Gum_T1E3CtU44SbIMdBMqkgE4uwN_zNjJpi7_x3GE_QZqHzx02N8swMFhFWYhARwTlY98Ejn1exPBCwcbxYg2PEDL_22ev6A0vx_sZ72-m5VAyOFZ61EGQB0OQ=w2268-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358763,
+                "longitude": -49.2979342,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-09-28T00:00:00.000Z",
+                "photoTimestamp": 1727481600
+            },
+            {
+                "photoId": "AF1QipMdy8bwvLgoHSj0W-mXKDhNXewmZzpAoMOXjcNM",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipMdy8bwvLgoHSj0W-mXKDhNXewmZzpAoMOXjcNM",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipMdy8bwvLgoHSj0W-mXKDhNXewmZzpAoMOXjcNM=w500-h500-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4358763,
+                "longitude": -49.2979342,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-09-25T00:00:00.000Z",
+                "photoTimestamp": 1695600000
+            }
+        ],
+        "globalPlusCode": "586GHP72+HV",
+        "compoundPlusCode": "HP72+HV Bigorrilho, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 12,
+            "2": 11,
+            "3": 58,
+            "4": 224,
+            "5": 1008
+        },
+        "photoCount": 163,
+        "about": {
+            "summary": "Restaurante e mercearia que serve buffet de almoço vegetariano e receitas criativas de comida integral.",
+            "details": {
+                "Opções de serviço": {
+                    "Entrega sem contacto": true,
+                    "Entrega": true,
+                    "Take away": true,
+                    "Comer no local": true
+                },
+                "Destaques": {
+                    "Ótimas sobremesas": true
+                },
+                "Popularidade": {
+                    "Almoço": true,
+                    "Jantar sozinho": true
+                },
+                "Acessibilidade": {
+                    "Com estacionamento acessível a pessoas em cadeiras de rodas": true,
+                    "Entrada acessível a pessoas em cadeiras de rodas": true,
+                    "Lugares para pessoas em cadeiras de rodas": true,
+                    "WC público acessível a pessoas em cadeiras de rodas": true
+                },
+                "Ofertas": {
+                    "Comida à discrição": true,
+                    "Opções veganas": true,
+                    "Opções vegetarianas": true,
+                    "Refeições biológicas": true
+                },
+                "Opções gastronómicas": {
+                    "Almoço": true,
+                    "Catering": true,
+                    "Sobremesa": true,
+                    "Lugares sentados": true,
+                    "Serviço de mesa": false
+                },
+                "Serviços": {
+                    "WC público": true
+                },
+                "Atmosfera": {
+                    "Casual": true,
+                    "Popular": true,
+                    "Sossegado": true
+                },
+                "Tipo de clientes": {
+                    "Grupos": true
+                },
+                "Planeamento": {
+                    "Aceita reservas": true
+                },
+                "Pagamentos": {
+                    "Alelo": true,
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pagamentos móveis com NFC": true,
+                    "Pluxee": true,
+                    "Senhas de refeição": true
+                },
+                "Crianças": {
+                    "Cadeiras de refeição para crianças": true,
+                    "Indicado para crianças": true
+                },
+                "Estacionamento": {
+                    "Estacionamento": true,
+                    "Estacionamento na rua gratuito": true,
+                    "Local de estacionamento gratuito": true
+                }
+            }
+        },
+        "address": "Alameda Princesa Izabel, 2191 - Bigorrilho, Curitiba - PR, 80730-080, Brasil",
+        "menuLink": "https://www.ifood.com.br/delivery/curitiba-pr/sorella-vegetariano-champagnat-bigorrilho/1123d02e-3f1a-46f8-8405-8938847853a8?UTM_Medium=share",
+        "orderLink": null,
+        "priceLevel": "40 - 60 R$",
+        "district": "Bigorrilho",
+        "streetAddress": "Alameda Princesa Izabel, 2191",
+        "city": "Curitiba",
+        "zipcode": "80730-080",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "buffet",
+                "reviewCount": 46
+            },
+            {
+                "keyword": "sucos",
+                "reviewCount": 36
+            },
+            {
+                "keyword": "veganos",
+                "reviewCount": 30
+            },
+            {
+                "keyword": "saladas",
+                "reviewCount": 20
+            },
+            {
+                "keyword": "temperada",
+                "reviewCount": 16
+            },
+            {
+                "keyword": "ambiente",
+                "reviewCount": 15
+            },
+            {
+                "keyword": "doces",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "vale",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "salgados",
+                "reviewCount": 5
+            },
+            {
+                "keyword": "opções",
+                "reviewCount": 5
+            }
+        ],
+        "emailsAndContacts": null
+    },
+    {
+        "businessId": "0x94dce40af0032bf9:0xd0ddf0d65344948d",
+        "googleId": "0x94dce40af0032bf9:0xd0ddf0d65344948d",
+        "placeId": "ChIJ-SsD8Ark3JQRjZREU9bw3dA",
+        "googleMid": "/g/1tfl1c3z",
+        "phoneNumber": "+554133229597",
+        "name": "Restaurante Clorofila",
+        "latitude": -25.432399999999998,
+        "longitude": -49.282321599999996,
+        "fullAddress": "Restaurante Clorofila - R. Saldanha Marinho, 1110 - Centro, Curitiba - PR, 80430-160, Brasil",
+        "reviewCount": 859,
+        "rating": 4.6,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 11:30 de terça",
+        "workingHours": {
+            "segunda-feira": ["11:30–14:30"],
+            "terça-feira": ["11:30–14:30"],
+            "quarta-feira": ["11:30–14:30"],
+            "quinta-feira": ["11:30–14:30"],
+            "sexta-feira": ["11:30–14:30"],
+            "sábado": ["11:30–14:30"],
+            "domingo": ["Encerrado"]
+        },
+        "website": "https://www.instagram.com/clorofilacuritiba",
+        "tld": "instagram.com",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce40af0032bf9:0xd0ddf0d65344948d",
+        "cid": "15050450333052736653",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJ-SsD8Ark3JQRjZREU9bw3dA&authuser=0&hl=pt&gl=PT",
+        "ownerId": "115112443089273067750",
+        "ownerLink": "https://maps.google.com/maps/contrib/115112443089273067750",
+        "ownerName": "Restaurante Clorofila",
+        "bookingLink": null,
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Vegetariano",
+        "subtypes": [
+            "Restaurante Vegetariano",
+            "Restaurante de bufete",
+            "Restaurante de Comida Saudável",
+            "Restaurante Macrobiótico"
+        ],
+        "subtypeGcids": [
+            "vegetarian_restaurant",
+            "buffet_restaurant",
+            "health_food_restaurant",
+            "macrobiotic_restaurant"
+        ],
+        "photosSample": [
+            {
+                "photoId": "CIHM0ogKEICAgIDegr6tBA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqTt87cdPJgtBImH3i2bZpsF6D7WZaq1ifBJWM3l5CNhaFmNC6J1UZVrwgFvf0ktwTMTHcNqcPhGQoGBkgiquiT0nL6RPcOudNgFMVfels56kBYpr6kjzM5brF-HBwXXyPNfQY2",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqTt87cdPJgtBImH3i2bZpsF6D7WZaq1ifBJWM3l5CNhaFmNC6J1UZVrwgFvf0ktwTMTHcNqcPhGQoGBkgiquiT0nL6RPcOudNgFMVfels56kBYpr6kjzM5brF-HBwXXyPNfQY2=w4624-h3472-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.43240142143495,
+                "longitude": -49.28232642045974,
+                "type": "photo",
+                "photoDatetimeUtc": "2022-11-05T00:00:00.000Z",
+                "photoTimestamp": 1667606400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICknLG1LA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npWkh8w3-mZQelL8nYxYj308soMYTTTOp4pKPhfji29QCk7fWmo0ou3ES3MFt3Swsh4n8ExeraUZWHYV5LNUPLrfbjjoon8P26s1fFiyGyN3JpZLjOUiTm9xu1I8JPDhf9P8Rw",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npWkh8w3-mZQelL8nYxYj308soMYTTTOp4pKPhfji29QCk7fWmo0ou3ES3MFt3Swsh4n8ExeraUZWHYV5LNUPLrfbjjoon8P26s1fFiyGyN3JpZLjOUiTm9xu1I8JPDhf9P8Rw=w13312-h6656-k-no-pi-10-ya44.03378-ro-0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.432452712311456,
+                "longitude": -49.28241901420666,
+                "type": "street_view",
+                "photoDatetimeUtc": "2017-10-08T00:00:00.000Z",
+                "photoTimestamp": 1507420800
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICknLG2vQE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyPusrQm8ArMqTUEI9DBNHAcPeHuSgbI1vpwdTnTStxTNE-vX8dUhLXI8_CywGQII0tWIqu026Hk_nA2eOUPfvfnp-ltEMsLkV2zmt8GPZe74LRx5gXgdZQyVCMupe5y3s_MdQ-A",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyPusrQm8ArMqTUEI9DBNHAcPeHuSgbI1vpwdTnTStxTNE-vX8dUhLXI8_CywGQII0tWIqu026Hk_nA2eOUPfvfnp-ltEMsLkV2zmt8GPZe74LRx5gXgdZQyVCMupe5y3s_MdQ-A=w13312-h6656-k-no-pi-0-ya96.942245-ro-0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.432519496787247,
+                "longitude": -49.282271034463214,
+                "type": "street_view",
+                "photoDatetimeUtc": "2017-10-08T00:00:00.000Z",
+                "photoTimestamp": 1507420800
+            },
+            {
+                "photoId": "AF1QipNpTL6KPi30fA8tUMz5CHKD7ErfJI2QW_yZ6z7Z",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipNpTL6KPi30fA8tUMz5CHKD7ErfJI2QW_yZ6z7Z",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipNpTL6KPi30fA8tUMz5CHKD7ErfJI2QW_yZ6z7Z=w2048-h1365-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.432552899999997,
+                "longitude": -49.282248900000006,
+                "type": "photo",
+                "photoDatetimeUtc": "2015-06-22T00:00:00.000Z",
+                "photoTimestamp": 1434931200
+            },
+            {
+                "photoId": "CIABIhCe81DONIJiY8CG-4L2hO9J",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5Jnrxtr2A82zqWYjIqsqIJyNMIlqrYnk9n90AjzqprSy83NLl126xAKreHFfMZZZrvPrRLbyN3CJKQI-dslph_WZSaMFr9oqYgp13NHzkZTtNsrm6s413XFjn-80Bhuj4ppQa-iIE_Bc",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5Jnrxtr2A82zqWYjIqsqIJyNMIlqrYnk9n90AjzqprSy83NLl126xAKreHFfMZZZrvPrRLbyN3CJKQI-dslph_WZSaMFr9oqYgp13NHzkZTtNsrm6s413XFjn-80Bhuj4ppQa-iIE_Bc=w1200-h1600-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.432552899999997,
+                "longitude": -49.282248900000006,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-08-06T00:00:00.000Z",
+                "photoTimestamp": 1754438400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICFqdSqNg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqODi0vQUSu3hHmPbRtuy8_Rb2Na8wqUHn9JFu49DVS0X86B2mzkOURHAIukCJ6E0RcP8d8k3p40YKbDPpjF00o5BCCa9RRfD0jKKEKY3WbZOW6QMsHRH6DThD5t4uM9qFUXGE3=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqODi0vQUSu3hHmPbRtuy8_Rb2Na8wqUHn9JFu49DVS0X86B2mzkOURHAIukCJ6E0RcP8d8k3p40YKbDPpjF00o5BCCa9RRfD0jKKEKY3WbZOW6QMsHRH6DThD5t4uM9qFUXGE3=w640-h360-k-no",
+                "latitude": -25.43248003193321,
+                "longitude": -49.28228410741011,
+                "type": "video",
+                "photoDatetimeUtc": "2023-11-28T00:00:00.000Z",
+                "photoTimestamp": 1701129600
+            },
+            {
+                "photoId": "CIABIhBrKprAlKxu_axQfCtCsJio",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np8zXQmv4-JXd_Uav1IZ4dVy9zaKPuE6ZNN7TekkWgcPw8160a_zL5-_NRYR5IH0AvR5QVf6oYEu03QUm0tgUAHZrineoHJDZ_pnRc_SDrz_PFAuVF36TtO6XCPtkz6km9xXGB4gQy388FC",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np8zXQmv4-JXd_Uav1IZ4dVy9zaKPuE6ZNN7TekkWgcPw8160a_zL5-_NRYR5IH0AvR5QVf6oYEu03QUm0tgUAHZrineoHJDZ_pnRc_SDrz_PFAuVF36TtO6XCPtkz6km9xXGB4gQy388FC=w1599-h899-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.432552899999997,
+                "longitude": -49.282248900000006,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-08-03T00:00:00.000Z",
+                "photoTimestamp": 1754179200
+            },
+            {
+                "photoId": "CIHM0ogKEICAgID8m8ukkQE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqGlgCDXi0yzp3UZ8uXPA5-2g0cosSqexx6FFZ3L3E5zfSz6Btc_FDsyFNcsg4n1i-mp87-Ahg-53znazRK8aKRp3vdQlyU-YtSkEk32axhlAxvPK80bh7AtpqX26W2scUNpIxB",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqGlgCDXi0yzp3UZ8uXPA5-2g0cosSqexx6FFZ3L3E5zfSz6Btc_FDsyFNcsg4n1i-mp87-Ahg-53znazRK8aKRp3vdQlyU-YtSkEk32axhlAxvPK80bh7AtpqX26W2scUNpIxB=w4128-h3096-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.432552899999997,
+                "longitude": -49.282248900000006,
+                "type": "photo",
+                "photoDatetimeUtc": "2020-08-30T00:00:00.000Z",
+                "photoTimestamp": 1598745600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICknLG2_QE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npvRk6R49FvQuruZzv9-J564RpvJGl8TuUgcmkPaV7iIWUV9AgMBTepuyq6c1zvzdFdZGqXginV8RF0nC_gUVnNN4AIV04WvFYVkVzyHodSI6NgNwYz-M8J9BQ0F_I7x4iZPk7y",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npvRk6R49FvQuruZzv9-J564RpvJGl8TuUgcmkPaV7iIWUV9AgMBTepuyq6c1zvzdFdZGqXginV8RF0nC_gUVnNN4AIV04WvFYVkVzyHodSI6NgNwYz-M8J9BQ0F_I7x4iZPk7y=w13312-h6656-k-no-pi-10-ya284.0784-ro-0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.432468923573445,
+                "longitude": -49.28240942219925,
+                "type": "street_view",
+                "photoDatetimeUtc": "2017-10-08T00:00:00.000Z",
+                "photoTimestamp": 1507420800
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICd77O9VA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3_AaWKD56e4QDnUq20Vk4QfiZA7m_LTJD6Ei2XXq-z1sAe9-JEXYhCdGCQCPPaM257g7vrne4MVpxrBGsXC2euntUZ3IF0J3uzu3aQGy0gO6iqCb9J-CKK6lw9qIKfjKtdWN3",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3_AaWKD56e4QDnUq20Vk4QfiZA7m_LTJD6Ei2XXq-z1sAe9-JEXYhCdGCQCPPaM257g7vrne4MVpxrBGsXC2euntUZ3IF0J3uzu3aQGy0gO6iqCb9J-CKK6lw9qIKfjKtdWN3=w4080-h3072-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.432552899999997,
+                "longitude": -49.282248900000006,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-03-19T00:00:00.000Z",
+                "photoTimestamp": 1710806400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICknLG1mgE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaVbbbwmALwVs999d2vzYS2Ug3CEk1vu6yGe8rEASfYHRO2hAceeOwXB-cblMO6NzdyvrzQheXVTEbQxYjNOzaVf5BhXWpp5FU5_aaBWqqpBEt4h43bN2uSuFafbmnVdqtpuRj",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaVbbbwmALwVs999d2vzYS2Ug3CEk1vu6yGe8rEASfYHRO2hAceeOwXB-cblMO6NzdyvrzQheXVTEbQxYjNOzaVf5BhXWpp5FU5_aaBWqqpBEt4h43bN2uSuFafbmnVdqtpuRj=w13312-h6656-k-no-pi-20-ya294.64047-ro-0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.43224489596886,
+                "longitude": -49.28245227682535,
+                "type": "street_view",
+                "photoDatetimeUtc": "2017-10-08T00:00:00.000Z",
+                "photoTimestamp": 1507420800
+            }
+        ],
+        "globalPlusCode": "586GHP99+23",
+        "compoundPlusCode": "HP99+23 Centro, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 8,
+            "2": 11,
+            "3": 53,
+            "4": 144,
+            "5": 643
+        },
+        "photoCount": 253,
+        "about": {
+            "summary": "Buffet livre e a quilo de culinária vegana e vegetariana, opções macrobióticas, diversas sobremesas e empório.",
+            "details": {
+                "Opções de serviço": {
+                    "Com esplanada": true,
+                    "Entrega sem contacto": true,
+                    "Entrega": true,
+                    "Take away": true,
+                    "Comer no local": true
+                },
+                "Destaques": {
+                    "Boa seleção de chás": true,
+                    "Ótimas sobremesas": true
+                },
+                "Popularidade": {
+                    "Almoço": true,
+                    "Jantar sozinho": true
+                },
+                "Acessibilidade": {
+                    "Entrada acessível a pessoas em cadeiras de rodas": true,
+                    "Lugares para pessoas em cadeiras de rodas": true,
+                    "WC público acessível a pessoas em cadeiras de rodas": true,
+                    "Com estacionamento acessível a pessoas em cadeiras de rodas": false
+                },
+                "Ofertas": {
+                    "Comida à discrição": true,
+                    "Opções veganas": true,
+                    "Opções vegetarianas": true,
+                    "Refeição rápida": true,
+                    "Refeições biológicas": true
+                },
+                "Opções gastronómicas": {
+                    "Almoço": true,
+                    "Catering": true,
+                    "Sobremesa": true,
+                    "Lugares sentados": true,
+                    "Serviço de mesa": false
+                },
+                "Serviços": {
+                    "WC público": true
+                },
+                "Atmosfera": {
+                    "Acolhedor": true,
+                    "Casual": true,
+                    "Popular": true,
+                    "Sossegado": true
+                },
+                "Tipo de clientes": {
+                    "Adequado para famílias": true,
+                    "Adequado para LGBTQ+": true,
+                    "Espaço seguro para transexuais": true,
+                    "Grupos": true,
+                    "Universitários": true
+                },
+                "Pagamentos": {
+                    "Cartões de crédito": true,
+                    "Pagamentos móveis com NFC": true
+                },
+                "Crianças": {
+                    "Cadeiras de refeição para crianças": true,
+                    "Indicado para crianças": true
+                },
+                "Estacionamento": {
+                    "Estacionamento na rua pago": true
+                },
+                "Animais de estimação": {
+                    "Aceita cães no exterior": true
+                }
+            }
+        },
+        "address": "R. Saldanha Marinho, 1110 - Centro, Curitiba - PR, 80430-160, Brasil",
+        "menuLink": null,
+        "orderLink": null,
+        "priceLevel": "20 - 40 R$",
+        "district": "Centro",
+        "streetAddress": "R. Saldanha Marinho, 1110",
+        "city": "Curitiba",
+        "zipcode": "80430-160",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "buffet",
+                "reviewCount": 39
+            },
+            {
+                "keyword": "ambiente",
+                "reviewCount": 34
+            },
+            {
+                "keyword": "macrobiótica",
+                "reviewCount": 27
+            },
+            {
+                "keyword": "jardim",
+                "reviewCount": 15
+            },
+            {
+                "keyword": "peixes",
+                "reviewCount": 11
+            },
+            {
+                "keyword": "mercearia",
+                "reviewCount": 7
+            },
+            {
+                "keyword": "produtos naturais",
+                "reviewCount": 7
+            },
+            {
+                "keyword": "padaria",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "armazém",
+                "reviewCount": 5
+            },
+            {
+                "keyword": "produtos orgânicos",
+                "reviewCount": 5
+            }
+        ],
+        "emailsAndContacts": null
+    },
+    {
+        "businessId": "0x94dce384de25c83b:0x52f2570a7002d8c5",
+        "googleId": "0x94dce384de25c83b:0x52f2570a7002d8c5",
+        "placeId": "ChIJO8gl3oTj3JQRxdgCcApX8lI",
+        "googleMid": "/g/1tdkyv5d",
+        "phoneNumber": "+554130769884",
+        "name": "Sorella Água Verde",
+        "latitude": -25.450330299999997,
+        "longitude": -49.2928271,
+        "fullAddress": "Sorella Água Verde - R. Herculano Carlos Franco de Souza, 427 - Água Verde, Curitiba - PR, 80240-290, Brasil",
+        "reviewCount": 1081,
+        "rating": 4.7,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 11:30 de terça",
+        "workingHours": {
+            "segunda-feira": ["11:30–14:00"],
+            "terça-feira": ["11:30–14:00"],
+            "quarta-feira": ["11:30–14:00"],
+            "quinta-feira": ["11:30–14:00"],
+            "sexta-feira": ["11:30–14:00"],
+            "sábado": ["Encerrado"],
+            "domingo": ["11:30–14:30"]
+        },
+        "website": "https://www.instagram.com/sorella_agua_verde?igsh=MWxlMnN2ZWZpazhyOQ==",
+        "tld": "instagram.com",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce384de25c83b:0x52f2570a7002d8c5",
+        "cid": "5976935357814593733",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJO8gl3oTj3JQRxdgCcApX8lI&authuser=0&hl=pt&gl=PT",
+        "ownerId": "106760466432284833895",
+        "ownerLink": "https://maps.google.com/maps/contrib/106760466432284833895",
+        "ownerName": "Sorella - Água Verde",
+        "bookingLink": null,
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Vegetariano",
+        "subtypes": ["Restaurante Vegetariano", "Bar", "Restaurante de bufete", "Restaurante"],
+        "subtypeGcids": ["vegetarian_restaurant", "bar", "buffet_restaurant", "restaurant"],
+        "photosSample": [
+            {
+                "photoId": "AF1QipMeCaCN0_DrsKX8Kl2E7U9uvv6UQhtDnBKovKI",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipMeCaCN0_DrsKX8Kl2E7U9uvv6UQhtDnBKovKI",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipMeCaCN0_DrsKX8Kl2E7U9uvv6UQhtDnBKovKI=w1600-h1199-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4503961,
+                "longitude": -49.2930035,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-07-08T00:00:00.000Z",
+                "photoTimestamp": 1688774400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIC45dDdQg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3IS89LGhSupD5UCFix7LMKuL_6EI87Wi9hkl0A0ckY3frh0Qo1YNKRk0epA-kfhCIqIYQMr9ISIG7s9P4u63m2N_iUQgFbMShwdm7kbAN16tAQaUK_PdD3CeDYztgux73AhQ",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3IS89LGhSupD5UCFix7LMKuL_6EI87Wi9hkl0A0ckY3frh0Qo1YNKRk0epA-kfhCIqIYQMr9ISIG7s9P4u63m2N_iUQgFbMShwdm7kbAN16tAQaUK_PdD3CeDYztgux73AhQ=w13312-h6656-k-no-pi-20-ya179.89395-ro0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.450265601925135,
+                "longitude": -49.29269776573763,
+                "type": "street_view",
+                "photoDatetimeUtc": "2018-09-04T00:00:00.000Z",
+                "photoTimestamp": 1536019200
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIC45fDkjwE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplk8hL5P7jy2d9cbTPBUnoYU5q5pdsghqe4PaNsxGEDazdXYtr5nBIGTflWoxTN2QBsgaYpu-cabWCZW86R98J7WJXdKtWPzUW2BoqB8vYTVrPv44qv9cyBs356rd8Chf8133S1Q",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplk8hL5P7jy2d9cbTPBUnoYU5q5pdsghqe4PaNsxGEDazdXYtr5nBIGTflWoxTN2QBsgaYpu-cabWCZW86R98J7WJXdKtWPzUW2BoqB8vYTVrPv44qv9cyBs356rd8Chf8133S1Q=w13312-h6656-k-no-pi-0-ya3.0081248-ro-0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.450344977982247,
+                "longitude": -49.29284762905288,
+                "type": "street_view",
+                "photoDatetimeUtc": "2018-09-04T00:00:00.000Z",
+                "photoTimestamp": 1536019200
+            },
+            {
+                "photoId": "CIHM0ogKEIiU69rMwezNBg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noWgMQUq9-fzfIf1hEwkius9Q76XbjPv-z2Dfy0YEwTkfad6NPBnuAccZIljc3r2sjMvpULwd5-cWYliiqGIDfq_uHlPXxLa9wMXp28JUVh-Z8QsVfZjDbU7R0onn1cIuLiBusa",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noWgMQUq9-fzfIf1hEwkius9Q76XbjPv-z2Dfy0YEwTkfad6NPBnuAccZIljc3r2sjMvpULwd5-cWYliiqGIDfq_uHlPXxLa9wMXp28JUVh-Z8QsVfZjDbU7R0onn1cIuLiBusa=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4503961,
+                "longitude": -49.2930035,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-07-16T00:00:00.000Z",
+                "photoTimestamp": 1752624000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgID6vZCbuAE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nruP4sB-hOctpJYpoygA-ebKHIQuNkOHjWU4CfNcdn2BdJCg84rjLlF2jjzN2xghIAC_4u_GRzEJM6tYkJAcY_Ax-OH6VLAsU1DjahQIAF9KABh3U4rmSNAAsSFz8JJn2iYh84Xfg=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nruP4sB-hOctpJYpoygA-ebKHIQuNkOHjWU4CfNcdn2BdJCg84rjLlF2jjzN2xghIAC_4u_GRzEJM6tYkJAcY_Ax-OH6VLAsU1DjahQIAF9KABh3U4rmSNAAsSFz8JJn2iYh84Xfg=w640-h360-k-no",
+                "latitude": -25.4503961,
+                "longitude": -49.2930035,
+                "type": "video",
+                "photoDatetimeUtc": "2021-11-08T00:00:00.000Z",
+                "photoTimestamp": 1636329600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDDnbGHggE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq4d6LJAF65aNNHA7y3Y2sBnWHOX1d4KNUfAO-l6rq5LlakBV0KOQHS-2WxPO0qB3Hs1p8INwY1qMa3Iz5XnMpTvQEGQGXwtGzuxaEllRZN08wHmeg_whbUZwFnr_FL-8l6hnMZNw",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq4d6LJAF65aNNHA7y3Y2sBnWHOX1d4KNUfAO-l6rq5LlakBV0KOQHS-2WxPO0qB3Hs1p8INwY1qMa3Iz5XnMpTvQEGQGXwtGzuxaEllRZN08wHmeg_whbUZwFnr_FL-8l6hnMZNw=w3000-h4000-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4503961,
+                "longitude": -49.2930035,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-05-13T00:00:00.000Z",
+                "photoTimestamp": 1715558400
+            },
+            {
+                "photoId": "AF1QipNaAbOWFa7gwMrbbncV3eW2h4e0q_VkrCzYYPg",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipNaAbOWFa7gwMrbbncV3eW2h4e0q_VkrCzYYPg",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipNaAbOWFa7gwMrbbncV3eW2h4e0q_VkrCzYYPg=w677-h366-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4503961,
+                "longitude": -49.2930035,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-10-09T00:00:00.000Z",
+                "photoTimestamp": 1696809600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDp_cm7VQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq_aYam2HXqjTpEMsNjbu-mtBOSUxG4jOpV79MK60xMqJdfSoVE-D0kxtqdRSblUTe2PYycOvLoQB83XR3X1GVrUo8fjwouI2u4ZRsDoZ31uLIZaeplA1nIuXtp67TQg-uMz6FE=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq_aYam2HXqjTpEMsNjbu-mtBOSUxG4jOpV79MK60xMqJdfSoVE-D0kxtqdRSblUTe2PYycOvLoQB83XR3X1GVrUo8fjwouI2u4ZRsDoZ31uLIZaeplA1nIuXtp67TQg-uMz6FE=w360-h640-k-no",
+                "latitude": -25.450337778129022,
+                "longitude": -49.292847087470754,
+                "type": "video",
+                "photoDatetimeUtc": "2023-09-27T00:00:00.000Z",
+                "photoTimestamp": 1695772800
+            },
+            {
+                "photoId": "AF1QipMxCLouNkwnstc5TCrzmpCJ1WYp0ucf7v4TwFE",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipMxCLouNkwnstc5TCrzmpCJ1WYp0ucf7v4TwFE",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipMxCLouNkwnstc5TCrzmpCJ1WYp0ucf7v4TwFE=w4000-h3000-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4503961,
+                "longitude": -49.2930035,
+                "type": "photo",
+                "photoDatetimeUtc": "2018-12-12T00:00:00.000Z",
+                "photoTimestamp": 1544572800
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIC45dC4WQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noPGVL1Q-YfIdJn2StX-uJ2EoP7ro7zmT_p5p7XKYCystWvV-G8R8DpLeiDznpdH3itNCGoKaQO541RKUCdGBw89TA4_uKHSHqYWRdajQyRY3jgfSdI3aJJtqTHZRdj0eNg8Hkf",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noPGVL1Q-YfIdJn2StX-uJ2EoP7ro7zmT_p5p7XKYCystWvV-G8R8DpLeiDznpdH3itNCGoKaQO541RKUCdGBw89TA4_uKHSHqYWRdajQyRY3jgfSdI3aJJtqTHZRdj0eNg8Hkf=w13312-h6656-k-no-pi-0-ya35.05845-ro-0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.450260925832453,
+                "longitude": -49.29270008679788,
+                "type": "street_view",
+                "photoDatetimeUtc": "2018-09-04T00:00:00.000Z",
+                "photoTimestamp": 1536019200
+            }
+        ],
+        "globalPlusCode": "586GGPX4+VV",
+        "compoundPlusCode": "GPX4+VV Água Verde, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 9,
+            "2": 17,
+            "3": 50,
+            "4": 189,
+            "5": 816
+        },
+        "photoCount": 432,
+        "about": {
+            "summary": "Buffet de saladas e pratos quentes vegetarianos em espaço contemporâneo, além de lojinha de pães e granolas.",
+            "details": {
+                "Opções de serviço": {
+                    "Com esplanada": true,
+                    "Take away": true,
+                    "Comer no local": true,
+                    "Entrega": false
+                },
+                "Destaques": {
+                    "Lareira": true,
+                    "Lugares sentados no terraço": true,
+                    "Ótimas sobremesas": true
+                },
+                "Popularidade": {
+                    "Almoço": true,
+                    "Jantar sozinho": true
+                },
+                "Acessibilidade": {
+                    "Entrada acessível a pessoas em cadeiras de rodas": true,
+                    "Lugares para pessoas em cadeiras de rodas": true,
+                    "WC público acessível a pessoas em cadeiras de rodas": true
+                },
+                "Ofertas": {
+                    "Bebidas alcoólicas": true,
+                    "Buffet de saladas": true,
+                    "Comida à discrição": true,
+                    "Opções veganas": true,
+                    "Opções vegetarianas": true,
+                    "Refeições biológicas": true
+                },
+                "Opções gastronómicas": {
+                    "Almoço": true,
+                    "Catering": true,
+                    "Sobremesa": true,
+                    "Lugares sentados": true,
+                    "Serviço de mesa": false
+                },
+                "Serviços": {
+                    "WC público": true,
+                    "Wi-Fi": true
+                },
+                "Atmosfera": {
+                    "Acolhedor": true,
+                    "Casual": true,
+                    "Popular": true,
+                    "Sossegado": true
+                },
+                "Tipo de clientes": {
+                    "Adequado para famílias": true,
+                    "Grupos": true
+                },
+                "Planeamento": {
+                    "Aceita reservas": true
+                },
+                "Pagamentos": {
+                    "Alelo": true,
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pagamentos móveis com NFC": true,
+                    "Pluxee": true,
+                    "Senhas de refeição": true
+                },
+                "Crianças": {
+                    "Cadeiras de refeição para crianças": true,
+                    "Indicado para crianças": true,
+                    "Menu infantil": true
+                },
+                "Estacionamento": {
+                    "Estacionamento na rua gratuito": true
+                }
+            }
+        },
+        "address": "R. Herculano Carlos Franco de Souza, 427 - Água Verde, Curitiba - PR, 80240-290, Brasil",
+        "menuLink": null,
+        "orderLink": null,
+        "priceLevel": "40 - 60 R$",
+        "district": "Água Verde",
+        "streetAddress": "R. Herculano Carlos Franco de Souza, 427",
+        "city": "Curitiba",
+        "zipcode": "80240-290",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "buffet",
+                "reviewCount": 49
+            },
+            {
+                "keyword": "sucos",
+                "reviewCount": 31
+            },
+            {
+                "keyword": "variedade",
+                "reviewCount": 21
+            },
+            {
+                "keyword": "saladas",
+                "reviewCount": 19
+            },
+            {
+                "keyword": "tempero",
+                "reviewCount": 18
+            },
+            {
+                "keyword": "opções",
+                "reviewCount": 10
+            },
+            {
+                "keyword": "sábado",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "aperitivos",
+                "reviewCount": 7
+            },
+            {
+                "keyword": "gosto",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "glúten",
+                "reviewCount": 6
+            }
+        ],
+        "emailsAndContacts": null
+    },
+    {
+        "businessId": "0x94dce4406c86b135:0x8de4c8dc8e4db4d",
+        "googleId": "0x94dce4406c86b135:0x8de4c8dc8e4db4d",
+        "placeId": "ChIJNbGGbEDk3JQRTdvkyI1M3gg",
+        "googleMid": "/g/11c3tnyhkn",
+        "phoneNumber": "+5541999339317",
+        "name": "Páprica Vegan",
+        "latitude": -25.4287693,
+        "longitude": -49.262303599999996,
+        "fullAddress": "Páprica Vegan - R. Francisco Torres, 107 - Centro, Curitiba - PR, 80060-130, Brasil",
+        "reviewCount": 737,
+        "rating": 4.8,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 17:00 de quarta",
+        "workingHours": {
+            "segunda-feira": ["Encerrado"],
+            "terça-feira": ["Encerrado"],
+            "quarta-feira": ["17:00–22:00"],
+            "quinta-feira": ["17:00–22:00"],
+            "sexta-feira": ["17:00–22:00"],
+            "sábado": ["17:00–22:00"],
+            "domingo": ["17:00–22:00"]
+        },
+        "website": "https://www.instagram.com/papricavegan",
+        "tld": "instagram.com",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce4406c86b135:0x8de4c8dc8e4db4d",
+        "cid": "639032368977730381",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJNbGGbEDk3JQRTdvkyI1M3gg&authuser=0&hl=pt&gl=PT",
+        "ownerId": "114971676517457498946",
+        "ownerLink": "https://maps.google.com/maps/contrib/114971676517457498946",
+        "ownerName": "Páprica Vegan",
+        "bookingLink": "http://papricavegan.saipos.com",
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Vegano",
+        "subtypes": [
+            "Snack bar",
+            "Hamburgueria",
+            "Restaurante de cachorros-quentes",
+            "Restaurante Vegano"
+        ],
+        "subtypeGcids": [
+            "snack_bar",
+            "hamburger_restaurant",
+            "hot_dog_restaurant",
+            "vegan_restaurant"
+        ],
+        "photosSample": [
+            {
+                "photoId": "CIHM0ogKEICAgIDBrZCHOQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noK4ISixO7FTiSwnszLtV9BhjRknz0g-rmzkQAMwLCthzNFMUETwOf5sxhaFf-DsQKxBi06UBmG4rh52laDH5io1QLYElp1CSqDEzZSll-07_DP9xeUOBJpA8mlFHPesXxj3lGk",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noK4ISixO7FTiSwnszLtV9BhjRknz0g-rmzkQAMwLCthzNFMUETwOf5sxhaFf-DsQKxBi06UBmG4rh52laDH5io1QLYElp1CSqDEzZSll-07_DP9xeUOBJpA8mlFHPesXxj3lGk=w4096-h3072-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4288037,
+                "longitude": -49.262387499999996,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-02-25T00:00:00.000Z",
+                "photoTimestamp": 1677283200
+            },
+            {
+                "photoId": "QAFSjDYeRmhapQksLDu8AQ",
+                "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QAFSjDYeRmhapQksLDu8AQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=68.754196&pitch=0&thumbfov=100",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": null,
+                "latitude": -25.42879316393035,
+                "longitude": -49.26237156364611,
+                "type": "street_view",
+                "photoDatetimeUtc": "2024-01-13T00:00:00.000Z",
+                "photoTimestamp": 1705104000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgMDw9--8_AE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noPlyN-us6YH6KptEp5zgTtr1oQ5vf1_rjVjnp5QwMuvUuAquRsniMOJCgs46nVA4jJKzGm66qRuyyL231qOs0m_TsYu1Hv88yqKU65-5i2tjOSZ3bGjc-YynK7lGGVvkOaKfKa9g",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noPlyN-us6YH6KptEp5zgTtr1oQ5vf1_rjVjnp5QwMuvUuAquRsniMOJCgs46nVA4jJKzGm66qRuyyL231qOs0m_TsYu1Hv88yqKU65-5i2tjOSZ3bGjc-YynK7lGGVvkOaKfKa9g=w3000-h4000-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4288037,
+                "longitude": -49.262387499999996,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-04-29T00:00:00.000Z",
+                "photoTimestamp": 1745884800
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDssrjF7QE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noI2Qs2sKUFC6qqxkEBSz-SOZmonpQ6ARPp4KD68YEPcG2uvZvpYlC-IGl1luM72q8vzIi0H4K_IzH08BVvSs7VzFvMoMKWITlCsYIOmtPORdL4QgBP4qEu8wzI2S-QzR8tAgMz",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noI2Qs2sKUFC6qqxkEBSz-SOZmonpQ6ARPp4KD68YEPcG2uvZvpYlC-IGl1luM72q8vzIi0H4K_IzH08BVvSs7VzFvMoMKWITlCsYIOmtPORdL4QgBP4qEu8wzI2S-QzR8tAgMz=w1080-h1920-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4288037,
+                "longitude": -49.262387499999996,
+                "type": "photo",
+                "photoDatetimeUtc": "2020-03-28T00:00:00.000Z",
+                "photoTimestamp": 1585353600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICj68blKw",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZS2JrITGIT3lbcTJwtcn3dQbjw0I2slQXPFDtmD2CIaywbZESuxYxo6trjACDWT8jINhyKJdq9kfdR4RDpa1r81Vvz_ZsIA72Os5BeorSPx6e4w7rHMaewXtp1iyD7e57V_OV=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZS2JrITGIT3lbcTJwtcn3dQbjw0I2slQXPFDtmD2CIaywbZESuxYxo6trjACDWT8jINhyKJdq9kfdR4RDpa1r81Vvz_ZsIA72Os5BeorSPx6e4w7rHMaewXtp1iyD7e57V_OV=w360-h640-k-no",
+                "latitude": -25.428769267417792,
+                "longitude": -49.26230359234416,
+                "type": "video",
+                "photoDatetimeUtc": "2024-05-26T00:00:00.000Z",
+                "photoTimestamp": 1716681600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICZiqXQVQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0lNbreY79oMcppXvLQJND5HkP08KVOpunKa-Znp0jVRDr50pCYJz6T0Hmcv0q-S7RvnwmphC-1SywjrHUhKGNPiHiPLCKdDJla1CE-kQxJGT65A5BlkDBmDPgao__XF7pPDZx=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0lNbreY79oMcppXvLQJND5HkP08KVOpunKa-Znp0jVRDr50pCYJz6T0Hmcv0q-S7RvnwmphC-1SywjrHUhKGNPiHiPLCKdDJla1CE-kQxJGT65A5BlkDBmDPgao__XF7pPDZx=w360-h640-k-no",
+                "latitude": -25.428744255500334,
+                "longitude": -49.26229307574488,
+                "type": "video",
+                "photoDatetimeUtc": "2023-10-08T00:00:00.000Z",
+                "photoTimestamp": 1696723200
+            },
+            {
+                "photoId": "CIHM0ogKEICAgID7iPXvOA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzueJmHZffsUVqYmQWNd3BgadkTGPFVsfF15V_zCjg7zgYU4Fwge8jI8vbsz0YGXuWO4oAw_Y7nvXCCQvawgp7vi4yRm9Y79MmPlPc1eqx9AWLIsynKAeYv1zx6RhHdRn9aIFC",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzueJmHZffsUVqYmQWNd3BgadkTGPFVsfF15V_zCjg7zgYU4Fwge8jI8vbsz0YGXuWO4oAw_Y7nvXCCQvawgp7vi4yRm9Y79MmPlPc1eqx9AWLIsynKAeYv1zx6RhHdRn9aIFC=w3000-h4000-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4288037,
+                "longitude": -49.262387499999996,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-09-20T00:00:00.000Z",
+                "photoTimestamp": 1726790400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICP9Lv6Pw",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgJ7rEWghIaoNPP1rhw8xXGeyEueBWt9j3MlSoIyykckEDBEECanBZGvm0TGx906ERBVd1MyGhy0snXsWqgxtme_GPgErVx5zaDxWe_fQwDq-Wx1vPgMuzO1yAea-ZTVWOkBT3",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgJ7rEWghIaoNPP1rhw8xXGeyEueBWt9j3MlSoIyykckEDBEECanBZGvm0TGx906ERBVd1MyGhy0snXsWqgxtme_GPgErVx5zaDxWe_fQwDq-Wx1vPgMuzO1yAea-ZTVWOkBT3=w4080-h3072-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4288037,
+                "longitude": -49.262387499999996,
+                "type": "photo",
+                "photoDatetimeUtc": "2024-12-22T00:00:00.000Z",
+                "photoTimestamp": 1734825600
+            }
+        ],
+        "globalPlusCode": "586GHPCQ+F3",
+        "compoundPlusCode": "HPCQ+F3 Centro, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 18,
+            "2": 10,
+            "3": 16,
+            "4": 45,
+            "5": 648
+        },
+        "photoCount": 246,
+        "about": {
+            "summary": "Especializada em comida vegana, a lanchonete serve hot dogs, salgados e doces, em ambiente simples e familiar.",
+            "details": {
+                "Opções de serviço": {
+                    "Entrega sem contacto": true,
+                    "Entrega": true,
+                    "Comer no local": true
+                },
+                "Destaques": {
+                    "Ótimo café": true
+                },
+                "Popularidade": {
+                    "Jantar sozinho": true
+                },
+                "Acessibilidade": {
+                    "Com estacionamento acessível a pessoas em cadeiras de rodas": false,
+                    "Entrada acessível a pessoas em cadeiras de rodas": false
+                },
+                "Ofertas": {
+                    "Bebidas alcoólicas": true,
+                    "Café": true,
+                    "Cerveja": true,
+                    "Comida fora de horas": true,
+                    "Opções veganas": true,
+                    "Opções vegetarianas": true,
+                    "Pratos pequenos": true,
+                    "Refeição rápida": true
+                },
+                "Opções gastronómicas": {
+                    "Jantar": true,
+                    "Sobremesa": true,
+                    "Lugares sentados": true
+                },
+                "Serviços": {
+                    "WC público": true
+                },
+                "Atmosfera": {
+                    "Acolhedor": true,
+                    "Casual": true,
+                    "Popular": true,
+                    "Sossegado": true
+                },
+                "Tipo de clientes": {
+                    "Grupos": true,
+                    "Turistas": true,
+                    "Universitários": true
+                },
+                "Pagamentos": {
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pagamentos móveis com NFC": true,
+                    "Pluxee": true,
+                    "Senhas de refeição": true
+                },
+                "Crianças": {
+                    "Indicado para crianças": true
+                }
+            }
+        },
+        "address": "R. Francisco Torres, 107 - Centro, Curitiba - PR, 80060-130, Brasil",
+        "menuLink": null,
+        "orderLink": null,
+        "priceLevel": "20 - 40 R$",
+        "district": "Centro",
+        "streetAddress": "R. Francisco Torres, 107",
+        "city": "Curitiba",
+        "zipcode": "80060-130",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "hot dog",
+                "reviewCount": 34
+            },
+            {
+                "keyword": "doces",
+                "reviewCount": 16
+            },
+            {
+                "keyword": "ambiente",
+                "reviewCount": 16
+            },
+            {
+                "keyword": "opções",
+                "reviewCount": 14
+            },
+            {
+                "keyword": "torta",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "custo",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "jaca",
+                "reviewCount": 7
+            },
+            {
+                "keyword": "animais",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "criativos",
+                "reviewCount": 5
+            },
+            {
+                "keyword": "kibe",
+                "reviewCount": 5
+            }
+        ],
+        "locatedIn": {
+            "googleId": "0x94dce46a9fdc1407:0x5308584acb99f341",
+            "name": "Condomínio Edifício Curitiba Business Center"
+        },
+        "emailsAndContacts": null
+    },
+    {
+        "businessId": "0x94dce6a07ec48c3f:0xb016ed7049677f3f",
+        "googleId": "0x94dce6a07ec48c3f:0xb016ed7049677f3f",
+        "placeId": "ChIJP4zEfqDm3JQRP39nSXDtFrA",
+        "googleMid": "/g/1thkydmj",
+        "phoneNumber": "+554130265794",
+        "name": "Sorella Restaurante Vegetariano - Centro Cívico",
+        "latitude": -25.4122906,
+        "longitude": -49.2655368,
+        "fullAddress": "Sorella Restaurante Vegetariano - Centro Cívico - R. Mal. Hermes, 728 - Centro Cívico, Curitiba - PR, 80530-230, Brasil",
+        "reviewCount": 2116,
+        "rating": 4.7,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 11:30 de terça",
+        "workingHours": {
+            "segunda-feira": ["11:30–15:00"],
+            "terça-feira": ["11:30–15:00"],
+            "quarta-feira": ["11:30–15:00"],
+            "quinta-feira": ["11:30–15:00"],
+            "sexta-feira": ["11:30–15:00"],
+            "sábado": ["Encerrado"],
+            "domingo": ["11:30–15:30"]
+        },
+        "website": "https://www.instagram.com/sorellacentrocivico",
+        "tld": "instagram.com",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce6a07ec48c3f:0xb016ed7049677f3f",
+        "cid": "12688590066686590783",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJP4zEfqDm3JQRP39nSXDtFrA&authuser=0&hl=pt&gl=PT",
+        "ownerId": "118368850968292265174",
+        "ownerLink": "https://maps.google.com/maps/contrib/118368850968292265174",
+        "ownerName": "Sorella Restaurante Vegetariano - Centro Cívico",
+        "bookingLink": null,
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Vegetariano",
+        "subtypes": [
+            "Restaurante Vegetariano",
+            "Restaurante de bufete",
+            "Loja de produtos naturais"
+        ],
+        "subtypeGcids": ["vegetarian_restaurant", "buffet_restaurant", "health_food_store"],
+        "photosSample": [
+            {
+                "photoId": "AF1QipNObBEGxWfi0oYXhThtJ2gpbsmzdVq-To_VGrWg",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipNObBEGxWfi0oYXhThtJ2gpbsmzdVq-To_VGrWg",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipNObBEGxWfi0oYXhThtJ2gpbsmzdVq-To_VGrWg=w4032-h3024-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4123155,
+                "longitude": -49.2657806,
+                "type": "photo",
+                "photoDatetimeUtc": "2020-10-02T00:00:00.000Z",
+                "photoTimestamp": 1601596800
+            },
+            {
+                "photoId": "qMGqjTkt1_XYj8LmDMggsg",
+                "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qMGqjTkt1_XYj8LmDMggsg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=79.38017&pitch=0&thumbfov=100",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": null,
+                "latitude": -25.412331548549226,
+                "longitude": -49.265778582807734,
+                "type": "street_view",
+                "photoDatetimeUtc": "2024-02-03T00:00:00.000Z",
+                "photoTimestamp": 1706918400
+            },
+            {
+                "photoId": "AF1QipMoJz-EZ22JHIKasB8VkhhGqqfR-9eJiJLKGqd1",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipMoJz-EZ22JHIKasB8VkhhGqqfR-9eJiJLKGqd1",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipMoJz-EZ22JHIKasB8VkhhGqqfR-9eJiJLKGqd1=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4123155,
+                "longitude": -49.2657806,
+                "type": "photo",
+                "photoDatetimeUtc": "2020-10-02T00:00:00.000Z",
+                "photoTimestamp": 1601596800
+            },
+            {
+                "photoId": "CIHM0ogKENCL1MnB2JuyhgE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npEAt0XvIWyxzOfpFYnX0UIWe_0K0Qfeb3TEXA5XhQsWC6ugkf5kswfKlikelhLksgIfit7sWxNyrZbadsU3AnJ3aaQkvZrCdgYhNmj8wbUt6510fAeolbKiilx59DqDqjEGgkdWg",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npEAt0XvIWyxzOfpFYnX0UIWe_0K0Qfeb3TEXA5XhQsWC6ugkf5kswfKlikelhLksgIfit7sWxNyrZbadsU3AnJ3aaQkvZrCdgYhNmj8wbUt6510fAeolbKiilx59DqDqjEGgkdWg=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4123155,
+                "longitude": -49.2657806,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-07-15T00:00:00.000Z",
+                "photoTimestamp": 1752537600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDD2f_WPQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrXbXTWTKITC_g0mWPSoTSK-nftrqb6ipx9kRkgPTscfGeJDEuVDRzpxK9m5tgNVQd83Qdt4AyuCiryZm4uUvJyviaqXYdaWTa8EgegmKWOXVTJcrekycRsoA4mdTBVQrh74vgC=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrXbXTWTKITC_g0mWPSoTSK-nftrqb6ipx9kRkgPTscfGeJDEuVDRzpxK9m5tgNVQd83Qdt4AyuCiryZm4uUvJyviaqXYdaWTa8EgegmKWOXVTJcrekycRsoA4mdTBVQrh74vgC=w360-h640-k-no",
+                "latitude": -25.41229062099112,
+                "longitude": -49.265536764267225,
+                "type": "video",
+                "photoDatetimeUtc": "2024-05-11T00:00:00.000Z",
+                "photoTimestamp": 1715385600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICZrpfW0wE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npOoKQpq_TlHlU2JGlVZuAJogyxT0kYxUSvuWgEGF3xssKJpDR14jBWJMcGkSFQ12whYkNovcIoYi0Hovm1f6eEE-G5GjKodC386V9YutLkmoBZDZ0kvj0Lbj_qPDEGdv6JDcMyew",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npOoKQpq_TlHlU2JGlVZuAJogyxT0kYxUSvuWgEGF3xssKJpDR14jBWJMcGkSFQ12whYkNovcIoYi0Hovm1f6eEE-G5GjKodC386V9YutLkmoBZDZ0kvj0Lbj_qPDEGdv6JDcMyew=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4123155,
+                "longitude": -49.2657806,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-10-10T00:00:00.000Z",
+                "photoTimestamp": 1696896000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDdlb7BfA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4dk7E14VdIPZYArp-MkUIh0ANkSBhRoPvgZA1No2F62zkBa9NCEaP3T4poetk6UHzXEULyJdkvyZZ1WXOFirFO85nn2COXOlQwURJrRdhhacMWe8K17Qq5Q_A-cLIontF8NSJ=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4dk7E14VdIPZYArp-MkUIh0ANkSBhRoPvgZA1No2F62zkBa9NCEaP3T4poetk6UHzXEULyJdkvyZZ1WXOFirFO85nn2COXOlQwURJrRdhhacMWe8K17Qq5Q_A-cLIontF8NSJ=w360-h640-k-no",
+                "latitude": -25.41229062099112,
+                "longitude": -49.265536764267225,
+                "type": "video",
+                "photoDatetimeUtc": "2024-03-25T00:00:00.000Z",
+                "photoTimestamp": 1711324800
+            },
+            {
+                "photoId": "AF1QipOJw3skcB8nTgaEqVLUCbqbo2fnGQe7MCpRQPnd",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipOJw3skcB8nTgaEqVLUCbqbo2fnGQe7MCpRQPnd",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipOJw3skcB8nTgaEqVLUCbqbo2fnGQe7MCpRQPnd=w4032-h3024-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4123155,
+                "longitude": -49.2657806,
+                "type": "photo",
+                "photoDatetimeUtc": "2020-10-02T00:00:00.000Z",
+                "photoTimestamp": 1601596800
+            }
+        ],
+        "globalPlusCode": "586GHPQM+3Q",
+        "compoundPlusCode": "HPQM+3Q Centro Cívico, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 26,
+            "2": 29,
+            "3": 84,
+            "4": 299,
+            "5": 1678
+        },
+        "photoCount": 346,
+        "about": {
+            "summary": "Self-service com diversos pratos vegetarianos, além de pães e sucos, em espaço contemporâneo com lojinha.",
+            "details": {
+                "Opções de serviço": {
+                    "Com esplanada": true,
+                    "Entrega sem contacto": true,
+                    "Entrega": true,
+                    "Take away": true,
+                    "Comer no local": true
+                },
+                "Destaques": {
+                    "Boa seleção de chás": true
+                },
+                "Popularidade": {
+                    "Almoço": true,
+                    "Jantar sozinho": true
+                },
+                "Acessibilidade": {
+                    "Com estacionamento acessível a pessoas em cadeiras de rodas": true,
+                    "Entrada acessível a pessoas em cadeiras de rodas": true,
+                    "Lugares para pessoas em cadeiras de rodas": true,
+                    "WC público acessível a pessoas em cadeiras de rodas": true
+                },
+                "Ofertas": {
+                    "Buffet de saladas": true,
+                    "Comida à discrição": true,
+                    "Opções veganas": true,
+                    "Opções vegetarianas": true
+                },
+                "Opções gastronómicas": {
+                    "Almoço": true,
+                    "Catering": true,
+                    "Serviço de balcão": true,
+                    "Sobremesa": true,
+                    "Lugares sentados": true,
+                    "Serviço de mesa": false
+                },
+                "Serviços": {
+                    "WC público": true,
+                    "Wi-Fi": true
+                },
+                "Atmosfera": {
+                    "Acolhedor": true,
+                    "Casual": true,
+                    "Popular": true,
+                    "Sossegado": true
+                },
+                "Tipo de clientes": {
+                    "Adequado para famílias": true,
+                    "Grupos": true,
+                    "Turistas": true
+                },
+                "Planeamento": {
+                    "Aceita reservas": true
+                },
+                "Pagamentos": {
+                    "Alelo": true,
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pagamentos móveis com NFC": true,
+                    "Pluxee": true,
+                    "Senhas de refeição": true
+                },
+                "Crianças": {
+                    "Cadeiras de refeição para crianças": true,
+                    "Indicado para crianças": true
+                },
+                "Estacionamento": {
+                    "Estacionamento": true,
+                    "Estacionamento na rua gratuito": true,
+                    "Estacionamento na rua pago": true,
+                    "Local de estacionamento gratuito": true,
+                    "Local de estacionamento pago": true
+                },
+                "Animais de estimação": {
+                    "Aceita cães": true
+                }
+            }
+        },
+        "address": "R. Mal. Hermes, 728 - Centro Cívico, Curitiba - PR, 80530-230, Brasil",
+        "menuLink": null,
+        "orderLink": null,
+        "priceLevel": "40 - 60 R$",
+        "district": "Centro Cívico",
+        "streetAddress": "R. Mal. Hermes, 728",
+        "city": "Curitiba",
+        "zipcode": "80530-230",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "sucos",
+                "reviewCount": 90
+            },
+            {
+                "keyword": "saladas",
+                "reviewCount": 45
+            },
+            {
+                "keyword": "opções",
+                "reviewCount": 37
+            },
+            {
+                "keyword": "tempero",
+                "reviewCount": 30
+            },
+            {
+                "keyword": "variedade",
+                "reviewCount": 19
+            },
+            {
+                "keyword": "buffet livre",
+                "reviewCount": 15
+            },
+            {
+                "keyword": "máquina de sorvete",
+                "reviewCount": 10
+            },
+            {
+                "keyword": "museu",
+                "reviewCount": 7
+            },
+            {
+                "keyword": "gosto",
+                "reviewCount": 7
+            },
+            {
+                "keyword": "frios",
+                "reviewCount": 7
+            }
+        ],
+        "emailsAndContacts": null
+    }
+]

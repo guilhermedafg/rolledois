@@ -1,0 +1,23 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "name": "@rolle/api",
+    "type": "module",
+    "version": "0.0.1",
+    "main": "./index.ts",
+    "dependencies": {
+        "@rolle/error": "*",
+        "axios": "*"
+    },
+    "devDependencies": {
+        "@rolle/geo": "*",
+        "@rolle/types": "*",
+        "@rolle/config": "*",
+        "@eslint/compat": "*",
+        "@eslint/js": "*",
+        "eslint": "*",
+        "eslint-config-prettier": "*",
+        "prettier": "*",
+        "typescript": "*",
+        "typescript-eslint": "*"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig.json",
+    "compilerOptions": {
+        "lib": ["ESNext", "DOM"],
+        "strict": true,
+        "noEmit": true,
+        "checkJs": false,
+        "forceConsistentCasingInFileNames": true,
+        "allowImportingTsExtensions": true,
+        "moduleResolution": "bundler"
+    }
+}

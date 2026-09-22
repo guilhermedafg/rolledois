@@ -1,0 +1,28 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "type": "module",
+    "name": "@rolle/form",
+    "version": "0.0.1",
+    "main": "./index.ts",
+    "scripts": {
+        "format": "prettier --config ./../../.prettierrc --write .",
+        "lint": "prettier --config ./../../.prettierrc --check . && eslint ."
+    },
+    "dependencies": {
+        "throttle-debounce": "*"
+    },
+    "devDependecies": {
+        "svelte": "*",
+        "typescript": "*",
+        "@rolle/config": "*",
+        "eslint": "*",
+        "eslint-config-prettier": "*",
+        "@types/throttle-debounce": "*",
+        "prettier": "*",
+        "typescript-eslint": "*",
+        "@eslint/js": "*"
+    },
+    "peerDependencies": {
+        "svelte": "*"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "type": "module",
+    "name": "@rolle/ui",
+    "version": "0.0.1",
+    "main": "./index.ts",
+    "scripts": {
+        "check": "svelte-check --tsconfig ./tsconfig.json",
+        "format": "prettier --config ./../../.prettierrc --write .",
+        "lint": "prettier --config ./../../.prettierrc --check . && eslint ."
+    },
+    "typesVersions": {
+        "*": {
+            "*": [
+                "./src/index.ts"
+            ]
+        }
+    },
+    "peerDependencies": {
+        "svelte": "*",
+        "@rolle/form": "*"
+    },
+    "dependencies": {
+        "@rolle/form": "*"
+    },
+    "devDependencies": {
+        "@eslint/compat": "*",
+        "@eslint/js": "*",
+        "autoprefixer": "*",
+        "eslint": "*",
+        "eslint-config-prettier": "*",
+        "eslint-plugin-svelte": "*",
+        "globals": "*",
+        "phosphor-svelte": "*",
+        "prettier": "*",
+        "prettier-plugin-svelte": "*",
+        "prettier-plugin-tailwindcss": "*",
+        "svelte": "*",
+        "svelte-check": "*",
+        "tailwindcss": "*",
+        "typescript": "*",
+        "typescript-eslint": "*",
+        "typescript-svelte-plugin": "*"
+    }
+}

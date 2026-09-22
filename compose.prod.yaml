@@ -1,0 +1,50 @@
+services:
+    redis:
+        image: redis:8
+        container_name: rolle_redis
+        command: redis-server --appendonly yes
+        ports:
+            - 6379:6379
+        volumes:
+            - redis_data:/data
+        networks:
+            - rolle_network
+
+    backend:
+        container_name: rolle_backend
+        build:
+            context: .
+            dockerfile: ./Dockerfile.back.prod
+        ports:
+            - 3000:3000
+        volumes:
+            - ./:/usr/rolle/
+            - node_modules:/usr/rolle/node_modules
+        environment:
+            - NODE_ENV=production
+        networks:
+            - rolle_network
+
+    frontend:
+        container_name: rolle_frontend
+        build:
+            context: .
+            dockerfile: ./Dockerfile.front.prod
+        depends_on:
+            - backend
+        ports:
+            - 4173:4173
+        volumes:
+            - ./:/usr/rolle/
+            - node_modules:/usr/rolle/node_modules
+            - ./apps/frontend/.svelte-kit/:/usr/rolle/apps/frontend/.svelte-kit/
+        networks:
+            - rolle_network
+
+volumes:
+    node_modules:
+    redis_data:
+
+networks:
+    rolle_network:
+        driver: bridge

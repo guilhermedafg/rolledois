@@ -1,0 +1,19 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "name": "@rolle/geo",
+    "type": "module",
+    "version": "0.0.1",
+    "main": "./index.ts",
+    "dependencies": {
+        "axios": "*"
+    },
+    "devDependencies": {
+        "@eslint/compat": "*",
+        "@eslint/js": "*",
+        "eslint": "*",
+        "eslint-config-prettier": "*",
+        "prettier": "*",
+        "typescript": "*",
+        "typescript-eslint": "*"
+    }
+}

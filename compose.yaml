@@ -1,0 +1,105 @@
+services:
+    surrealdb:
+        container_name: rolle_surreal
+        user: root
+        image: surrealdb/surrealdb:v2.6.3
+        entrypoint:
+            - /surreal
+            - start
+            - --user
+            - root
+            - --pass
+            - root
+            - --log
+            - info
+            - rocksdb:/database/rolle.db
+        ports:
+            - 8000:8000
+        volumes:
+            - rolle_db_data:/database
+        networks:
+            - rolle_network
+
+    s3mock:
+        image: adobe/s3mock:latest
+        environment:
+            - initialBuckets=rolleimages
+            - retainFilesOnExit=true
+            - root=s3data
+        ports:
+            - 9090:9090
+            - 9191:9191
+        volumes:
+            - s3data:/s3data
+        networks:
+            - rolle_network
+
+    redis:
+        image: redis:8
+        container_name: rolle_redis
+        command: redis-server --appendonly yes
+        ports:
+            - 6379:6379
+        volumes:
+            - redis_data:/data
+        networks:
+            - rolle_network
+
+    backend:
+        container_name: rolle_backend
+        build:
+            context: .
+            dockerfile: ./Dockerfile.back.dev
+        depends_on:
+            - s3mock
+            - surrealdb
+            - redis
+        ports:
+            - 3000:3000
+        volumes:
+            - ./:/usr/rolle/
+            - node_modules:/usr/rolle/node_modules
+        environment:
+            - NODE_ENV=development
+        networks:
+            - rolle_network
+
+    frontend:
+        container_name: rolle_frontend
+        build:
+            context: .
+            dockerfile: ./Dockerfile.front.dev
+        depends_on:
+            - backend
+        ports:
+            - 5173:5173
+        volumes:
+            - ./:/usr/rolle/
+            - node_modules:/usr/rolle/node_modules
+        networks:
+            - rolle_network
+
+    ngrok:
+        image: ngrok/ngrok:latest
+        container_name: rolle_ngrok
+        depends_on:
+            - backend
+        command:
+            - http
+            - backend:3000
+        environment:
+            - NGROK_AUTHTOKEN=${NGROK_AUTHTOKEN}
+        ports:
+            - 4040:4040
+        networks:
+            - rolle_network
+
+volumes:
+    node_modules:
+    rolle_db_data:
+    s3data:
+    redis_data:
+
+networks:
+    rolle_network:
+        driver: bridge

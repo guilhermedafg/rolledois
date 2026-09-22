@@ -1,0 +1,13 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "type": "module",
+    "name": "@rolle/config",
+    "files": [
+        "./tailwind_preset.js",
+        "./eslint_rules.js",
+        "./style.css"
+    ],
+    "devDependencies": {
+        "tailwindcss": "*"
+    }
+}

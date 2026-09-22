@@ -1,0 +1,20 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "type": "module",
+    "name": "@rolle/error",
+    "version": "0.0.1",
+    "main": "./index.ts",
+    "scripts": {
+        "format": "prettier --config ./../../.prettierrc --write .",
+        "lint": "prettier --config ./../../.prettierrc --check . && eslint ."
+    },
+    "devDependecies": {
+        "typescript": "*",
+        "@rolle/config": "*",
+        "eslint": "*",
+        "eslint-config-prettier": "*",
+        "prettier": "*",
+        "typescript-eslint": "*",
+        "@eslint/js": "*"
+    }
+}

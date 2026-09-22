@@ -1,0 +1,45 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig.json",
+    "extends": "./.svelte-kit/tsconfig.json",
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "sourceMap": true,
+        "strict": true,
+        "moduleResolution": "bundler",
+        "allowImportingTsExtensions": true
+    },
+    "include": [
+        "../../packages/**/*.ts",
+        "../../packages/**/*.svelte",
+
+        "./.svelte-kit/ambient.d.ts",
+        "./types/**/$types.d.ts",
+        "./vite.config.ts",
+        "./src/**/*.js",
+        "./src/**/*.ts",
+        "./src/**/*.svelte",
+        "./src/**/*.js",
+        "./src/**/*.ts",
+        "./src/**/*.svelte",
+        "./tests/**/*.js",
+        "./tests/**/*.ts",
+        "./tests/**/*.svelte"
+    ],
+    "exclude": [
+        "./node_modules/**",
+        "./.svelte-kit/[!ambient.d.ts]**",
+
+        "../../packages/**/node_modules/**",
+        "../../packages/**/.svelte-kit/[!ambient.d.ts]**"
+    ]
+    // Path aliases are handled by https://svelte.dev/docs/kit/configuration#alias
+    // except $lib which is handled by https://svelte.dev/docs/kit/configuration#files
+    //
+    // If you want to overwrite includes/excludes, make sure to copy over the relevant includes/excludes
+    // from the referenced tsconfig.json - TypeScript does not merge them in
+}

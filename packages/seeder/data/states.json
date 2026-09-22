@@ -1,0 +1,137 @@
+[
+    {
+        "fullName": "Acre",
+        "shortName": "AC",
+        "country": "BR"
+    },
+    {
+        "fullName": "Alagoas",
+        "shortName": "AL",
+        "country": "BR"
+    },
+    {
+        "fullName": "Amazonas",
+        "shortName": "AM",
+        "country": "BR"
+    },
+    {
+        "fullName": "Amapá",
+        "shortName": "AP",
+        "country": "BR"
+    },
+    {
+        "fullName": "Bahia",
+        "shortName": "BA",
+        "country": "BR"
+    },
+    {
+        "fullName": "Ceará",
+        "shortName": "CE",
+        "country": "BR"
+    },
+    {
+        "fullName": "Distrito Federal",
+        "shortName": "DF",
+        "country": "BR"
+    },
+    {
+        "fullName": "Espírito Santo",
+        "shortName": "ES",
+        "country": "BR"
+    },
+    {
+        "fullName": "Goiás",
+        "shortName": "GO",
+        "country": "BR"
+    },
+    {
+        "fullName": "Maranhão",
+        "shortName": "MA",
+        "country": "BR"
+    },
+    {
+        "fullName": "Minas Gerais",
+        "shortName": "MG",
+        "country": "BR"
+    },
+    {
+        "fullName": "Mato Grosso do Sul",
+        "shortName": "MS",
+        "country": "BR"
+    },
+    {
+        "fullName": "Mato Grosso",
+        "shortName": "MT",
+        "country": "BR"
+    },
+    {
+        "fullName": "Pará",
+        "shortName": "PA",
+        "country": "BR"
+    },
+    {
+        "fullName": "Paraíba",
+        "shortName": "PB",
+        "country": "BR"
+    },
+    {
+        "fullName": "Pernambuco",
+        "shortName": "PE",
+        "country": "BR"
+    },
+    {
+        "fullName": "Piauí",
+        "shortName": "PI",
+        "country": "BR"
+    },
+    {
+        "fullName": "Paraná",
+        "shortName": "PR",
+        "country": "BR"
+    },
+    {
+        "fullName": "Rio de Janeiro",
+        "shortName": "RJ",
+        "country": "BR"
+    },
+    {
+        "fullName": "Rio Grande do Norte",
+        "shortName": "RN",
+        "country": "BR"
+    },
+    {
+        "fullName": "Rondônia",
+        "shortName": "RO",
+        "country": "BR"
+    },
+    {
+        "fullName": "Roraima",
+        "shortName": "RR",
+        "country": "BR"
+    },
+    {
+        "fullName": "Rio Grande do Sul",
+        "shortName": "RS",
+        "country": "BR"
+    },
+    {
+        "fullName": "Santa Catarina",
+        "shortName": "SC",
+        "country": "BR"
+    },
+    {
+        "fullName": "Sergipe",
+        "shortName": "SE",
+        "country": "BR"
+    },
+    {
+        "fullName": "São Paulo",
+        "shortName": "SP",
+        "country": "BR"
+    },
+    {
+        "fullName": "Tocantins",
+        "shortName": "TO",
+        "country": "BR"
+    }
+]

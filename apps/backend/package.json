@@ -1,0 +1,36 @@
+{
+    "name": "@rolle/backend",
+    "type": "module",
+    "scripts": {
+        "dev": "tsx watch src/index.ts"
+    },
+    "dependencies": {
+        "@rolle/api": "*",
+        "@rolle/error": "*",
+        "@rolle/api_places": "*",
+        "@rolle/api_redis": "*",
+        "@rolle/core": "*",
+        "@rolle/config": "*",
+        "@rolle/mail": "*",
+        "@rolle/s3": "*",
+        "@hono/node-server": "*",
+        "hono": "*",
+        "openai": "*",
+        "dotenv": "*",
+        "surrealdb": "*",
+        "google-auth-library": "*",
+        "winston": "*",
+        "argon2": "*"
+    },
+    "devDependencies": {
+        "@rolle/seeder": "*",
+        "@rolle/types": "*",
+        "@types/node": "*",
+        "tsx": "*",
+        "eslint": "*",
+        "@eslint/js": "*",
+        "eslint-config-prettier": "*",
+        "typescript-eslint": "*",
+        "prettier": "*"
+    }
+}

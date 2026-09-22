@@ -1,0 +1,312 @@
+[
+    [
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Centro",
+            "full": "R. Des. Ermelino de Leão, 170 - Centro, Curitiba - PR, 80410230, Brasil",
+            "id": "address:34bqtsnvzk7a6whusver",
+            "number": "170",
+            "state": "state:PR",
+            "street": "R. Des. Ermelino de Leão",
+            "zipcode": "80410230"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "São Lourenço",
+            "full": "r vista, 3041 - São Lourenço, Curitiba - PR, 82200000, Brasil",
+            "id": "address:3ad44tivj2nxscv19cr8",
+            "number": "3041",
+            "state": "state:PR",
+            "street": "r vista",
+            "zipcode": "82200000"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Bigorrilho",
+            "full": "Alameda Princesa Izabel, 2191 - Bigorrilho, Curitiba - PR, 80730080, Brasil",
+            "id": "address:3d4oqoecchrv38pck0wx",
+            "number": "2191",
+            "state": "state:PR",
+            "street": "Alameda Princesa Izabel",
+            "zipcode": "80730080"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Batel",
+            "full": "R. Comendador Araújo, 969 - Batel, Curitiba - PR, 80420063, Brasil",
+            "id": "address:544qdie8zfeoedw6avde",
+            "number": "969",
+            "state": "state:PR",
+            "street": "R. Comendador Araújo",
+            "zipcode": "80420063"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Batel",
+            "full": "R. Cel. Dulcídio, 558 - Batel, Curitiba - PR, 80420170, Brasil",
+            "id": "address:570awi2bdfimq6xp8p53",
+            "number": "558",
+            "state": "state:PR",
+            "street": "R. Cel. Dulcídio",
+            "zipcode": "80420170"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Rebouças",
+            "full": "R. Chile, 2077 - Rebouças, Curitiba - PR, 80220181, Brasil",
+            "id": "address:6544uyaqd7uwans79idt",
+            "number": "2077",
+            "state": "state:PR",
+            "street": "R. Chile",
+            "zipcode": "80220181"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Bigorrilho",
+            "full": "Alameda Dr. Carlos de Carvalho, 1282 - Bigorrilho, Curitiba - PR, 80730200, Brasil",
+            "id": "address:8xqpuhcoj9vui39e1v9y",
+            "number": "1282",
+            "state": "state:PR",
+            "street": "Alameda Dr. Carlos de Carvalho",
+            "zipcode": "80730200"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Portão",
+            "full": "Av. Rep. Argentina, 2140 - Portão, Curitiba - PR, 80620010, Brasil",
+            "id": "address:997itm81wwv9xngu01vm",
+            "number": "2140",
+            "state": "state:PR",
+            "street": "Av. Rep. Argentina",
+            "zipcode": "80620010"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Água Verde",
+            "full": "R. Herculano Carlos Franco de Souza, 427 - Água Verde, Curitiba - PR, 80240290, Brasil",
+            "id": "address:9afep4abzseq26zk9nx8",
+            "number": "427",
+            "state": "state:PR",
+            "street": "R. Herculano Carlos Franco de Souza",
+            "zipcode": "80240290"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Cabral",
+            "full": "R. São Pedro, 696 - Cabral, Curitiba - PR, 80035020, Brasil",
+            "id": "address:b8w9hmft4ckng7ewufky",
+            "number": "696",
+            "state": "state:PR",
+            "street": "R. São Pedro",
+            "zipcode": "80035020"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Batel",
+            "full": "Alameda Dr. Carlos de Carvalho, 695 - Batel, Curitiba - PR, 80430180, Brasil",
+            "id": "address:dgazp9rxkyo7hydqpe2b",
+            "number": "695",
+            "state": "state:PR",
+            "street": "Alameda Dr. Carlos de Carvalho",
+            "zipcode": "80430180"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "São Francisco",
+            "full": "R. Mateus Leme, 115 - São Francisco, Curitiba - PR, 80510030, Brasil",
+            "id": "address:dr5wcchmyphqagqx8yd3",
+            "number": "115",
+            "state": "state:PR",
+            "street": "R. Mateus Leme",
+            "zipcode": "80510030"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Cristo Rei",
+            "full": "Av. Presidente Affonso Camargo, 1939 - Cristo Rei, Curitiba - PR, 80050370, Brasil",
+            "id": "address:e77jikxak9bpov54eb3z",
+            "number": "1939",
+            "state": "state:PR",
+            "street": "Av. Presidente Affonso Camargo",
+            "zipcode": "80050370"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Rebouças",
+            "full": "Av. Pres. Getúlio Vargas, 659 - Rebouças, Curitiba - PR, 80240040, Brasil",
+            "id": "address:eeb3k0ca4m5uq02dqo86",
+            "number": "659",
+            "state": "state:PR",
+            "street": "Av. Pres. Getúlio Vargas",
+            "zipcode": "80240040"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Batel",
+            "full": "Av. do Batel, 1868 - Batel, Curitiba - PR, 80420090, Brasil",
+            "id": "address:idc91f3cr57dic2aa1ts",
+            "number": "1868",
+            "state": "state:PR",
+            "street": "Av. do Batel",
+            "zipcode": "80420090"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Centro",
+            "full": "Alameda Augusto Stellfeld, 795 - Centro, Curitiba - PR, 80410140, Brasil",
+            "id": "address:ig70za1wzujxhsvlgjl6",
+            "number": "795",
+            "state": "state:PR",
+            "street": "Alameda Augusto Stellfeld",
+            "zipcode": "80410140"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Centro",
+            "full": "R. São Francisco, 179 - Centro, Curitiba - PR, 80020190, Brasil",
+            "id": "address:iu9di96pb9e5numutnml",
+            "number": "179",
+            "state": "state:PR",
+            "street": "R. São Francisco",
+            "zipcode": "80020190"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "São Francisco",
+            "full": "Rua Visconde de Nácar, 655 - São Francisco, Curitiba - PR, 80410200, Brasil",
+            "id": "address:ky9puyncos2hyoylqabz",
+            "number": "655",
+            "state": "state:PR",
+            "street": "Rua Visconde de Nácar",
+            "zipcode": "80410200"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Centro",
+            "full": "R. Saldanha Marinho, 1110 - Centro, Curitiba - PR, 80430160, Brasil",
+            "id": "address:l93ze5xqi0mlh4vgrd7k",
+            "number": "1110",
+            "state": "state:PR",
+            "street": "R. Saldanha Marinho",
+            "zipcode": "80430160"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Centro",
+            "full": "R. Francisco Torres, 107 - Centro, Curitiba - PR, 80060130, Brasil",
+            "id": "address:n97gmkc5pkkkvlba5xh3",
+            "number": "107",
+            "state": "state:PR",
+            "street": "R. Francisco Torres",
+            "zipcode": "80060130"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Rebouças",
+            "full": "Av. Silva Jardim, 837 - Rebouças, Curitiba - PR, 80230000, Brasil",
+            "id": "address:nnu8d2nvq51v35fjrypu",
+            "number": "837",
+            "state": "state:PR",
+            "street": "Av. Silva Jardim",
+            "zipcode": "80230000"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Batel",
+            "full": "Alameda Pres. Taunay, 40 - Batel, Curitiba - PR, 80420180, Brasil",
+            "id": "address:no4xo7smj2w3omnzyfrj",
+            "number": "40",
+            "state": "state:PR",
+            "street": "Alameda Pres. Taunay",
+            "zipcode": "80420180"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Centro",
+            "full": "Praça Gen. Osório, 205 - Centro, Curitiba - PR, 80020010, Brasil",
+            "id": "address:odvzg0gqtd3xw3p1rtx7",
+            "number": "205",
+            "state": "state:PR",
+            "street": "Praça Gen. Osório",
+            "zipcode": "80020010"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "full": "Alameda Augusto Stellfeld, 1281 - Bigorrilho, Curitiba - PR, 80430140, Brasil",
+            "id": "address:p0lpch56hf1l1tv7i1pp",
+            "district": "Bigorrilho",
+            "number": "1281",
+            "state": "state:PR",
+            "street": "Alameda Augusto Stellfeld",
+            "zipcode": "80430140"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Bigorrilho",
+            "full": "R. Des. Otávio do Amaral, 67 - Bigorrilho, Curitiba - PR, 80730400, Brasil",
+            "id": "address:rfohfjqib5jpm0imaaz7",
+            "number": "67",
+            "state": "state:PR",
+            "street": "R. Des. Otávio do Amaral",
+            "zipcode": "80730400"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Centro Cívico",
+            "full": "R. Mal. Hermes, 728 - Centro Cívico, Curitiba - PR, 80530230, Brasil",
+            "id": "address:t5ft2pn5x4ubdkt7fvl4",
+            "number": "728",
+            "state": "state:PR",
+            "street": "R. Mal. Hermes",
+            "zipcode": "80530230"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Centro",
+            "full": "Alameda Prudente de Moraes, 780 - Centro, Curitiba - PR, 80430234, Brasil",
+            "id": "address:t9ljhyte7klu68226wo4",
+            "number": "780",
+            "state": "state:PR",
+            "street": "Alameda Prudente de Moraes",
+            "zipcode": "80430234"
+        },
+        {
+            "city": "city:wdhlslg3iv3dw24laarn",
+            "country": "country:BR",
+            "district": "Centro Cívico",
+            "full": "R. Mal. Hermes, 104 - Centro Cívico, Curitiba - PR, 80530230, Brasil",
+            "id": "address:w8ll8fyn3icp2gczryzn",
+            "number": "104",
+            "state": "state:PR",
+            "street": "R. Mal. Hermes",
+            "zipcode": "80530230"
+        }
+    ]
+]

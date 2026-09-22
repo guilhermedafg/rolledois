@@ -1,0 +1,316 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+/* SF Pro Rounded */
+@font-face {
+    font-family: "SF Pro Rounded";
+    src: url("/fonts/SF-Pro-Rounded-Thin.otf") format("opentype");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src: url("/fonts/SF-Pro-Rounded-Ultralight.otf") format("opentype");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src: url("/fonts/SF-Pro-Rounded-Light.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src: url("/fonts/SF-Pro-Rounded-Regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src: url("/fonts/SF-Pro-Rounded-Medium.otf") format("opentype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src: url("/fonts/SF-Pro-Rounded-Semibold.otf") format("opentype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src: url("/fonts/SF-Pro-Rounded-Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src: url("/fonts/SF-Pro-Rounded-Heavy.otf") format("opentype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Rounded";
+    src: url("/fonts/SF-Pro-Rounded-Black.otf") format("opentype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* SF Pro Text */
+@font-face {
+    font-family: "SF Pro Text";
+    src: url("/fonts/SF-Pro-Text-Thin.otf") format("opentype");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Text";
+    src: url("/fonts/SF-Pro-Text-Ultralight.otf") format("opentype");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Text";
+    src: url("/fonts/SF-Pro-Text-Light.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Text";
+    src: url("/fonts/SF-Pro-Text-Regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Text";
+    src: url("/fonts/SF-Pro-Text-Medium.otf") format("opentype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Text";
+    src: url("/fonts/SF-Pro-Text-Semibold.otf") format("opentype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Text";
+    src: url("/fonts/SF-Pro-Text-Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Text";
+    src: url("/fonts/SF-Pro-Text-Heavy.otf") format("opentype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SF Pro Text";
+    src: url("/fonts/SF-Pro-Text-Black.otf") format("opentype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@import "tailwindcss";
+@source "../ui";
+
+@theme {
+    --font-rounded: "SF Pro Rounded";
+    --font-sans: "SF Pro Text";
+    --font-serif: "SF Pro Text";
+    --font-roboto: "Roboto";
+
+    /* Extra text sizes */
+    --text-2xs: 0.625rem;
+    --text-6xl: 3.75rem;
+
+    /* Base colors */
+    --color-transparent: transparent;
+
+    --color-text: rgba(0, 0, 0, 0.85);
+    --color-secondary-text: var(--color-black-60);
+    --color-disabled: rgba(0, 0, 0, 0.25);
+    --color-border: #f1e8d8;
+    --color-divisor: rgba(0, 0, 0, 0.06);
+    --color-background: #fcf9f3;
+
+    /* Theme colors */
+    --color-primary-400: #eefd96;
+    --color-secondary: #b355f5;
+
+    /* Complementary palette */
+    --color-orange-dark: #feba87;
+    --color-green-light: #d0f1cb;
+    --color-green-dark: #9bc385;
+    --color-purple: #e2c7f1;
+    --color-orange-light: #f1e4d5;
+    --color-blue-dark: #3d81c2;
+    --color-blue-light: #cacff4;
+    --color-pink: #ffb6a9;
+    --color-yellow: #fdf6b7;
+    --color-teal: #b5d8db;
+    --color-blue-neon: #81e9d1;
+
+    /* Functional colors */
+    --color-negative: #ff7878;
+    --color-link: #1da9ff;
+    --color-positive: #14ae5c;
+    --color-star: #ffab38;
+
+    --color-success: var(--color-positive);
+    --color-warning: var(--color-star);
+    --color-error: var(--color-negative);
+
+    /* Extended B&W tokens */
+    --color-black: #000000;
+    --color-black-85: rgba(0, 0, 0, 0.85);
+    --color-black-60: rgba(0, 0, 0, 0.6);
+    --color-black-50: rgba(0, 0, 0, 0.5);
+    --color-black-45: rgba(0, 0, 0, 0.45);
+    --color-black-25: rgba(0, 0, 0, 0.25);
+    --color-black-15: rgba(0, 0, 0, 0.15);
+    --color-black-6: rgba(0, 0, 0, 0.06);
+
+    --color-white: #ffffff;
+    --color-white-70: rgba(255, 255, 255, 0.7);
+    --color-white-50: rgba(255, 255, 255, 0.5);
+    --color-white-20: rgba(255, 255, 255, 0.2);
+    --color-white-12: rgba(255, 255, 255, 0.12);
+    --color-white-5: rgba(255, 255, 255, 0.05);
+
+    --animate-scroll-50: scroll-50 30s linear infinite;
+
+    @keyframes scroll-50 {
+        to {
+            transform: translate3d(-50%, 0, 0);
+        }
+    }
+}
+
+@layer base {
+    html {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 120%;
+        letter-spacing: 0;
+        vertical-align: top;
+        @apply text-text;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    h7 {
+        @apply font-rounded;
+    }
+
+    h1 {
+        @apply text-7xl/tight;
+    }
+
+    h2 {
+        @apply text-6xl/tight;
+    }
+
+    h3 {
+        @apply text-5xl/tight;
+    }
+
+    h4 {
+        @apply text-4xl/tight;
+    }
+
+    h5 {
+        @apply text-3xl/tight;
+    }
+
+    h6 {
+        @apply text-2xl/tight;
+    }
+
+    h7 {
+        @apply leading-6;
+    }
+}
+
+@layer components {
+    .textfield {
+        @apply !outline-hidden w-full rounded-lg border bg-white p-4 transition-all;
+    }
+}
+
+@utility drag-none {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    user-drag: none;
+}
+
+@utility hide-scrollbar {
+    scrollbar-height: none;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+
+    ::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+@utility static-fluffy {
+    box-shadow:
+        0 2px 4px rgba(0, 0, 0, 0.1),
+        inset 0 -4px 4px rgba(0, 0, 0, 0.1);
+}
+
+@utility fluffy {
+    box-shadow:
+        0 2px 4px rgba(0, 0, 0, 0.1),
+        inset 0 -4px 4px rgba(0, 0, 0, 0.1);
+
+    &.active,
+    &:active {
+        box-shadow:
+            0 0 0 transparent,
+            inset 0 2px 4px rgba(0, 0, 0, 0.1);
+        scale: 96%;
+    }
+}

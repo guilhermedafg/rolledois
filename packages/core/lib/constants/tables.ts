@@ -1,0 +1,17 @@
+export const TABLE_MIGRATION = "migration";
+export const TABLE_COUNTRY = "country";
+export const TABLE_STATE = "state";
+export const TABLE_CITY = "city";
+export const TABLE_ADDRESS = "address";
+export const TABLE_USER = "user";
+export const TABLE_RESET_PASSWORD = "resetPassword";
+export const TABLE_FOLLOWS = "follows";
+export const TABLE_TAG = "tag";
+export const TABLE_BOOKMARK = "bookmarks";
+export const TABLE_ALREADY_BEEN = "alreadyBeen";
+export const TABLE_VENUE_CATEGORY = "venueCategory";
+export const TABLE_VENUE = "venue";
+export const TABLE_ATTRACTION = "attraction";
+export const TABLE_EVENT_CATEGORY = "eventCategory";
+export const TABLE_EVENT = "event";
+export const TABLE_LIST = "list";

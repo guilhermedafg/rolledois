@@ -1,0 +1,61 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "name": "rolle",
+    "workspaces": [
+        "./apps/*",
+        "./packages/*"
+    ],
+    "scripts": {
+        "format": "prettier --write .",
+        "check:front": "svelte-check --workspace ./apps/frontend",
+        "check:back": "npx tsc --noEmit -p ./apps/backend/tsconfig.json"
+    },
+    "dependencies": {
+        "@aws-sdk/client-s3": "^3.817.0",
+        "@hono/node-server": "^1.13.7",
+        "argon2": "^0.41.1",
+        "axios": "^1.7.9",
+        "dotenv": "^16.4.7",
+        "google-auth-library": "^9.15.1",
+        "hono": "^4.6.18",
+        "mapbox-gl": "^3.15.0",
+        "mixpanel-browser": "^2.69.1",
+        "openai": "^6.48.0",
+        "redis": "^6.0.0",
+        "resend": "^6.9.1",
+        "sharp": "^0.34.3",
+        "supercluster": "^8.0.1",
+        "surrealdb": "^1.1.0",
+        "throttle-debounce": "^5.0.2",
+        "winston": "^3.17.0"
+    },
+    "devDependencies": {
+        "@eslint/compat": "^1.2.5",
+        "@eslint/js": "^9.18.0",
+        "@sveltejs/adapter-auto": "^4.0.0",
+        "@sveltejs/adapter-node": "^5.2.12",
+        "@sveltejs/kit": "^2.16.0",
+        "@sveltejs/vite-plugin-svelte": "^5.0.0",
+        "@tailwindcss/vite": "^4.1.0",
+        "@types/node": "^20.11.17",
+        "@types/supercluster": "^7.1.3",
+        "@types/throttle-debounce": "^5.0.2",
+        "autoprefixer": "^10.4.20",
+        "eslint": "^9.18.0",
+        "eslint-config-prettier": "^10.0.1",
+        "eslint-plugin-svelte": "^2.46.1",
+        "globals": "^15.14.0",
+        "phosphor-svelte": "^3.0.1",
+        "prettier": "^3.4.2",
+        "prettier-plugin-svelte": "^4.0.0",
+        "prettier-plugin-tailwindcss": "^0.8.0",
+        "svelte": "^5.0.0",
+        "svelte-check": "^4.2.2",
+        "tailwindcss": "^4.1.0",
+        "tsx": "^4.7.1",
+        "typescript": "^5.0.0",
+        "typescript-eslint": "^8.21.0",
+        "typescript-svelte-plugin": "^0.3.45",
+        "vite": "^6.0.0"
+    }
+}

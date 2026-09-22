@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "cover": {
+                "thumbUrl": "",
+                "url": ""
+            },
+            "description": "Cafeterias que se destacam pelo uso de grãos especiais (specialty coffee), métodos de extração variados (V60, Chemex, Aeropress, etc.) e baristas qualificados.",
+            "events": [],
+            "id": "list:e84wfbxrot0bh6cu9jbd",
+            "name": "Excelência em Cafés",
+            "owner": "user:f01fneivnbjvsrzw96st",
+            "private": false,
+            "uri": "excelencia-em-cafes-c10146c5-9f6b-4649-8050-8d488e2e8ff1",
+            "venues": [
+                "venue:5kp87nqhj4dmly7lhupz",
+                "venue:vawewszinyp43r5s65d0",
+                "venue:br6dvt8at1iqwh0n5oqk",
+                "venue:qw2ucqs75z430civvpwx",
+                "venue:z00g09w9p8x8ofs5t3kb",
+                "venue:0wtglc87gmfl12wcgfyt",
+                "venue:ur27x2mv9figjob382ji",
+                "venue:qtvj5q8dnlewoi6ndtln",
+                "venue:b2ghjfrlxuw5tqn59qf6",
+                "venue:8s5fnjd6bglui27r3kuc",
+                "venue:f1iwayfs9snw2x0bz6zw",
+                "venue:71klcn5og3fv9jnw6iz9",
+                "venue:lkjjicpgcbbe74gr2bwv",
+                "venue:id7qf8yp8ufipzsnaadz",
+                "venue:634gj930ka7mtl90n3qz"
+            ]
+        },
+        {
+            "cover": {
+                "thumbUrl": "",
+                "url": ""
+            },
+            "description": "Estabelecimentos que oferecem variedade de jogos de tabuleiro, cartas, sinuca, dardos ou videogames para entretenimento dos clientes.",
+            "events": [],
+            "id": "list:ljysvklvnyzjjqzhof3c",
+            "name": "Bares com Jogos",
+            "owner": "user:f01fneivnbjvsrzw96st",
+            "private": false,
+            "uri": "bares-com-jogos-29525da7-7bd1-40a5-a2cf-296d8dda2201",
+            "venues": [
+                "venue:896bvhqq8xlq9bb93zyv",
+                "venue:x3goj15b4r4zanmjx1p2",
+                "venue:n8yg2ywh1u6gnsyzojjj",
+                "venue:y32o1p13duphr9dungmf"
+            ]
+        },
+        {
+            "cover": {
+                "thumbUrl": "",
+                "url": ""
+            },
+            "description": "Espaços (cafés, bares, restaurantes) que permitem a permanência de animais de estimação em áreas externas.",
+            "events": [],
+            "id": "list:tckyfpl07auuvpribvlz",
+            "name": "Pet Friendly",
+            "owner": "user:f01fneivnbjvsrzw96st",
+            "private": false,
+            "uri": "pet-friendly-b14ce250-5e36-43c5-b304-85acdf6a5856",
+            "venues": [
+                "venue:8f6a3vp53gwu94rfbe44",
+                "venue:duk6pbjpmrguyag6ga9z",
+                "venue:hkfjbevh8vfl8cmulaou",
+                "venue:9kvt5doa0ymlbf00hd0x",
+                "venue:3s8nfsd9m1rpp0a38r4c",
+                "venue:ibhbvbb3bzgm6p3p8w1f",
+                "venue:vln7ji90c1lb80r64sq4",
+                "venue:cidl09d2qzenpyg63c77",
+                "venue:kntzxrq22zr22ntmkzya"
+            ]
+        }
+    ]
+]

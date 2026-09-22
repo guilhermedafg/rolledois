@@ -1,0 +1,25 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "name": "@rolle/seeder",
+    "version": "0.0.1",
+    "type": "module",
+    "exports": {
+        "import": "./index.ts",
+        "types": "./index.ts"
+    },
+    "dependencies": {
+        "surrealdb": "*"
+    },
+    "devDependencies": {
+        "@rolle/core": "*",
+        "@rolle/types": "*",
+        "@rolle/config": "*",
+        "@eslint/compat": "*",
+        "@eslint/js": "*",
+        "eslint": "*",
+        "eslint-config-prettier": "*",
+        "prettier": "*",
+        "typescript": "*",
+        "typescript-eslint": "*"
+    }
+}

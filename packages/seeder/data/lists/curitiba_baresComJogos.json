@@ -1,0 +1,953 @@
+[
+    {
+        "businessId": "0x94dce5521d6af963:0xe72a03e370da31bc",
+        "googleId": "0x94dce5521d6af963:0xe72a03e370da31bc",
+        "placeId": "ChIJY_lqHVLl3JQRvDHacOMDKuc",
+        "googleMid": "/g/11h4tbyt38",
+        "phoneNumber": "+554130789343",
+        "name": "BoardZ Game Pub",
+        "latitude": -25.452186299999997,
+        "longitude": -49.268752799999994,
+        "fullAddress": "BoardZ Game Pub - R. Chile, 2077 - Rebouças, Curitiba - PR, 80220-181, Brasil",
+        "reviewCount": 676,
+        "rating": 4.8,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 18:00 de terça",
+        "workingHours": {
+            "segunda-feira": ["Encerrado"],
+            "terça-feira": ["18:00–23:00"],
+            "quarta-feira": ["18:00–23:00"],
+            "quinta-feira": ["18:00–23:00"],
+            "sexta-feira": ["18:00–00:30"],
+            "sábado": ["16:00–00:30"],
+            "domingo": ["17:00–22:00"]
+        },
+        "website": "https://boardzgamepub.com.br",
+        "tld": "boardzgamepub.com.br",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce5521d6af963:0xe72a03e370da31bc",
+        "cid": "16657130447169008060",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJY_lqHVLl3JQRvDHacOMDKuc&authuser=0&hl=pt&gl=PT",
+        "ownerId": "104814033286574653962",
+        "ownerLink": "https://maps.google.com/maps/contrib/104814033286574653962",
+        "ownerName": "BoardZ Game Pub",
+        "bookingLink": "https://api.whatsapp.com/send?phone=5541992151170&text=Ol%C3%A1%2C%20como%20fa%C3%A7o%20para%20reservar%20uma%20mesa%3F%20",
+        "reservationsLink": "https://api.whatsapp.com/send?phone=5541992151170&text=Ol%C3%A1%2C%20como%20fa%C3%A7o%20para%20reservar%20uma%20mesa%3F%20",
+        "businessStatus": "OPEN",
+        "type": "Hamburgueria",
+        "subtypes": ["Hamburgueria"],
+        "subtypeGcids": ["hamburger_restaurant"],
+        "photosSample": [
+            {
+                "photoId": "AF1QipPLc2ccldfEw0WoYoMCH41EYoUlMDvKVvznBk9C",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipPLc2ccldfEw0WoYoMCH41EYoUlMDvKVvznBk9C",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipPLc2ccldfEw0WoYoMCH41EYoUlMDvKVvznBk9C=w3986-h4982-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.452033500000002,
+                "longitude": -49.2688341,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-08-26T00:00:00.000Z",
+                "photoTimestamp": 1693008000
+            },
+            {
+                "photoId": "cXJHgORtFESpyO68EjOezA",
+                "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cXJHgORtFESpyO68EjOezA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=149.4143&pitch=0&thumbfov=100",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": null,
+                "latitude": -25.452040754896032,
+                "longitude": -49.26884807279231,
+                "type": "street_view",
+                "photoDatetimeUtc": "2025-06-21T00:00:00.000Z",
+                "photoTimestamp": 1750464000
+            },
+            {
+                "photoId": "AF1QipPRmjQ_mrPbe76XuwQcV4ThYriXPtm70yPzEZxS",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipPRmjQ_mrPbe76XuwQcV4ThYriXPtm70yPzEZxS",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipPRmjQ_mrPbe76XuwQcV4ThYriXPtm70yPzEZxS=w2250-h2250-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.452033500000002,
+                "longitude": -49.2688341,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-08-26T00:00:00.000Z",
+                "photoTimestamp": 1693008000
+            },
+            {
+                "photoId": "CIHM0ogKELjA68qo6Oryew",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaG1pvhWhPbNTx-h0E1_mBaB3Dl62erTHrRxsDBaFwSvFU8V9yt9K5tCW02737pGrMTfMaVQ2dEDPHk4VVqSrZ9TaBoRhpiSaQIkTdICiDagAVebVb0mz6p-5ORtWElj_J8QYn",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaG1pvhWhPbNTx-h0E1_mBaB3Dl62erTHrRxsDBaFwSvFU8V9yt9K5tCW02737pGrMTfMaVQ2dEDPHk4VVqSrZ9TaBoRhpiSaQIkTdICiDagAVebVb0mz6p-5ORtWElj_J8QYn=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.452033500000002,
+                "longitude": -49.2688341,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-06-22T00:00:00.000Z",
+                "photoTimestamp": 1750550400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDTzqjTQg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npv_MhNlVoGUXNmbj7NHDDM53ZKJsK1K7DRBvZ9SFHl5h1yptsU67cnCo6a-YTzrdb58lXXKy32UYyY2-d8StG3qGBff7-7g6icVUTiFvdMHRlkFC7fds3ka4B47PzU7elOx4HN=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npv_MhNlVoGUXNmbj7NHDDM53ZKJsK1K7DRBvZ9SFHl5h1yptsU67cnCo6a-YTzrdb58lXXKy32UYyY2-d8StG3qGBff7-7g6icVUTiFvdMHRlkFC7fds3ka4B47PzU7elOx4HN=w362-h640-k-no",
+                "latitude": -25.452186292379608,
+                "longitude": -49.268752794035194,
+                "type": "video",
+                "photoDatetimeUtc": "2024-06-24T00:00:00.000Z",
+                "photoTimestamp": 1719187200
+            },
+            {
+                "photoId": "AF1QipPziN-b-ATnwvJWxKsieJJzFiBS8-lxsgR0jLem",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipPziN-b-ATnwvJWxKsieJJzFiBS8-lxsgR0jLem",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipPziN-b-ATnwvJWxKsieJJzFiBS8-lxsgR0jLem=w2268-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.452033500000002,
+                "longitude": -49.2688341,
+                "type": "photo",
+                "photoDatetimeUtc": "2020-04-15T00:00:00.000Z",
+                "photoTimestamp": 1586908800
+            },
+            {
+                "photoId": "AF1QipM1AfPFmASgRZoDVY7X_ujdTx006nIjl8nJ-Jyo",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipM1AfPFmASgRZoDVY7X_ujdTx006nIjl8nJ-Jyo",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipM1AfPFmASgRZoDVY7X_ujdTx006nIjl8nJ-Jyo=w2048-h1365-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.452033500000002,
+                "longitude": -49.2688341,
+                "type": "photo",
+                "photoDatetimeUtc": "2020-11-07T00:00:00.000Z",
+                "photoTimestamp": 1604707200
+            },
+            {
+                "photoId": "AF1QipNOVXLR-MHoSLpI3-3uHleni17Rn8P65xHogU3n",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipNOVXLR-MHoSLpI3-3uHleni17Rn8P65xHogU3n",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipNOVXLR-MHoSLpI3-3uHleni17Rn8P65xHogU3n=w2048-h1365-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.452033500000002,
+                "longitude": -49.2688341,
+                "type": "photo",
+                "photoDatetimeUtc": "2020-11-07T00:00:00.000Z",
+                "photoTimestamp": 1604707200
+            },
+            {
+                "photoId": "AF1QipPa0JDJZOdm_4ZxGgbWFbAK84UgR8No2alSGl-s",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipPa0JDJZOdm_4ZxGgbWFbAK84UgR8No2alSGl-s",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipPa0JDJZOdm_4ZxGgbWFbAK84UgR8No2alSGl-s=w3900-h4875-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.452033500000002,
+                "longitude": -49.2688341,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-08-26T00:00:00.000Z",
+                "photoTimestamp": 1693008000
+            }
+        ],
+        "globalPlusCode": "586GGPXJ+4F",
+        "compoundPlusCode": "GPXJ+4F Rebouças, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 13,
+            "2": 4,
+            "3": 14,
+            "4": 57,
+            "5": 588
+        },
+        "photoCount": 211,
+        "about": {
+            "summary": null,
+            "details": {
+                "Opções de serviço": {
+                    "Com recolha móvel": true,
+                    "Entrega": true,
+                    "Take away": true,
+                    "Comer no local": true
+                },
+                "Destaques": {
+                    "Boa seleção de cervejas": true
+                },
+                "Popularidade": {
+                    "Jantar": true
+                },
+                "Acessibilidade": {
+                    "Entrada acessível a pessoas em cadeiras de rodas": true
+                },
+                "Ofertas": {
+                    "Alimentação": true,
+                    "Alimentos preparados": true,
+                    "Bebidas alcoólicas": true,
+                    "Bebidas espirituosas de elevado teor alcoólico": true,
+                    "Cerveja": true,
+                    "Cocktails": true,
+                    "Comida fora de horas": true,
+                    "Happy hour de bebidas": true,
+                    "Happy hour de comida": true,
+                    "Opções vegetarianas": true,
+                    "Pratos pequenos": true,
+                    "Refeição rápida": true
+                },
+                "Opções gastronómicas": {
+                    "Jantar": true,
+                    "Serviço de balcão": true,
+                    "Sobremesa": true,
+                    "Lugares sentados": true,
+                    "Serviço de mesa": true
+                },
+                "Serviços": {
+                    "Bar no local": true,
+                    "WC público": true,
+                    "Wi-Fi": true
+                },
+                "Atmosfera": {
+                    "Acolhedor": true,
+                    "Casual": true,
+                    "Popular": true,
+                    "Sossegado": true
+                },
+                "Tipo de clientes": {
+                    "Adequado para famílias": true,
+                    "Adequado para LGBTQ+": true,
+                    "Espaço seguro para transexuais": true,
+                    "Grupos": true,
+                    "Turistas": true,
+                    "Universitários": true
+                },
+                "Planeamento": {
+                    "Aceita reservas": true
+                },
+                "Pagamentos": {
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pagamentos móveis com NFC": true,
+                    "Senhas de refeição": true,
+                    "Ticket Restaurante": true
+                },
+                "Crianças": {
+                    "Indicado para crianças": true
+                },
+                "Estacionamento": {
+                    "Estacionamento na rua gratuito": true
+                },
+                "Animais de estimação": {
+                    "Aceita cães": true
+                }
+            }
+        },
+        "address": "R. Chile, 2077 - Rebouças, Curitiba - PR, 80220-181, Brasil",
+        "menuLink": "https://www.boardzgamepub.com.br/card%C3%A1pio",
+        "orderLink": null,
+        "priceLevel": "40 - 60 R$",
+        "district": "Rebouças",
+        "streetAddress": "R. Chile, 2077",
+        "city": "Curitiba",
+        "zipcode": "80220-181",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "jogos de tabuleiro",
+                "reviewCount": 40
+            },
+            {
+                "keyword": "divertir",
+                "reviewCount": 27
+            },
+            {
+                "keyword": "drinks",
+                "reviewCount": 18
+            },
+            {
+                "keyword": "certeza",
+                "reviewCount": 18
+            },
+            {
+                "keyword": "opções",
+                "reviewCount": 17
+            },
+            {
+                "keyword": "equipe",
+                "reviewCount": 16
+            },
+            {
+                "keyword": "chopp",
+                "reviewCount": 15
+            },
+            {
+                "keyword": "happy hour",
+                "reviewCount": 12
+            },
+            {
+                "keyword": "aluguel",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "simpatia",
+                "reviewCount": 6
+            }
+        ],
+        "emailsAndContacts": {
+            "emails": ["boardzgamepub@gmail.com"],
+            "phoneNumbers": ["4130789343", "41992151170"],
+            "facebook": "https://www.facebook.com/BoardZGamePub",
+            "instagram": "https://www.instagram.com/boardzgamepub",
+            "yelp": null,
+            "tiktok": null,
+            "snapchat": null,
+            "twitter": null,
+            "linkedin": null,
+            "github": null,
+            "youtube": null,
+            "pinterest": null
+        }
+    },
+    {
+        "businessId": "0x94dce53ef3e7cc39:0xa897792fd0b1134",
+        "googleId": "0x94dce53ef3e7cc39:0xa897792fd0b1134",
+        "placeId": "ChIJOczn8z7l3JQRNBEL_ZJ3iQo",
+        "googleMid": "/g/11fv6qvvvj",
+        "phoneNumber": "+5541991769659",
+        "name": "Joyjoy Café",
+        "latitude": -25.4370433,
+        "longitude": -49.241465399999996,
+        "fullAddress": "Joyjoy Café - Av. Presidente Affonso Camargo, 1939 - Loja 02 - Cristo Rei, Curitiba - PR, 80050-370, Brasil",
+        "reviewCount": 578,
+        "rating": 4.8,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 18:00 de terça",
+        "workingHours": {
+            "segunda-feira": ["Encerrado"],
+            "terça-feira": ["18:00–23:00"],
+            "quarta-feira": ["18:00–23:00"],
+            "quinta-feira": ["18:00–23:00"],
+            "sexta-feira": ["18:00–23:00"],
+            "sábado": ["14:00–23:00"],
+            "domingo": ["14:00–22:00"]
+        },
+        "website": "http://www.joyjoycafe.com.br",
+        "tld": "joyjoycafe.com.br",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce53ef3e7cc39:0xa897792fd0b1134",
+        "cid": "759269485382930740",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJOczn8z7l3JQRNBEL_ZJ3iQo&authuser=0&hl=pt&gl=PT",
+        "ownerId": "113561526629689634392",
+        "ownerLink": "https://maps.google.com/maps/contrib/113561526629689634392",
+        "ownerName": "Joyjoy Café",
+        "bookingLink": null,
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Loja de artigos de café",
+        "subtypes": ["Loja de artigos de café", "Clube de jogos de tabuleiro"],
+        "subtypeGcids": ["coffee_store", "board_game_club"],
+        "photosSample": [
+            {
+                "photoId": "AF1QipMmuDu7dWvMZu4-hYxoPVSMG21GKHdt5p0bNjWW",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipMmuDu7dWvMZu4-hYxoPVSMG21GKHdt5p0bNjWW",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipMmuDu7dWvMZu4-hYxoPVSMG21GKHdt5p0bNjWW=w750-h1334-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4372962,
+                "longitude": -49.241488999999994,
+                "type": "photo",
+                "photoDatetimeUtc": "2021-03-13T00:00:00.000Z",
+                "photoTimestamp": 1615593600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICx0bCWGA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4rjufrXDElw-Mm2nhd_ylRiNnua4c1mOrsk0YILoq5RF6MrQq0pCH4-Mi_zr_VK_xAojFIQl14dLyBekNCJHRmDn3M_qPd838S6qAQUr9Hhgoqf7LkQRS3TyqlKctBpPx_3Y",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4rjufrXDElw-Mm2nhd_ylRiNnua4c1mOrsk0YILoq5RF6MrQq0pCH4-Mi_zr_VK_xAojFIQl14dLyBekNCJHRmDn3M_qPd838S6qAQUr9Hhgoqf7LkQRS3TyqlKctBpPx_3Y=w5952-h2976-k-no-pi-0-ya0-ro-0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.437043275677492,
+                "longitude": -49.24146539070818,
+                "type": "street_view",
+                "photoDatetimeUtc": "2023-06-19T00:00:00.000Z",
+                "photoTimestamp": 1687132800
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICx0bCBdQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrpMarc914vi2MBzo6iUA4A_BUFVab8OvXBi8ZfvAhLc2V_qAUXSgVYhgNro5XNofNc-_Szsk65cZ5pouFj9SmBNTC7PiKwzKhrsdIGLs0T6SmevZ_PM2th65rVvepxErbn8pV",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrpMarc914vi2MBzo6iUA4A_BUFVab8OvXBi8ZfvAhLc2V_qAUXSgVYhgNro5XNofNc-_Szsk65cZ5pouFj9SmBNTC7PiKwzKhrsdIGLs0T6SmevZ_PM2th65rVvepxErbn8pV=w5952-h2976-k-no-pi-20-ya180-ro0-fo100",
+                "videoThumbnailUrl": null,
+                "latitude": -25.43693550440405,
+                "longitude": -49.24146539070818,
+                "type": "street_view",
+                "photoDatetimeUtc": "2023-06-19T00:00:00.000Z",
+                "photoTimestamp": 1687132800
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICBmqPEVA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nocXZisTP_Lo__gzKwMgAXA3Uex39pFz4ysLJBLIJSeum3pSFn-tvHGaf9hgq57m_DRUXlR9YUQfDlWwp_fIpiaVeUA5kgIhh-XbVpC92DEheHBlO80Clj8AuhilKGogjdmccoU",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nocXZisTP_Lo__gzKwMgAXA3Uex39pFz4ysLJBLIJSeum3pSFn-tvHGaf9hgq57m_DRUXlR9YUQfDlWwp_fIpiaVeUA5kgIhh-XbVpC92DEheHBlO80Clj8AuhilKGogjdmccoU=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4372962,
+                "longitude": -49.241488999999994,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-01-22T00:00:00.000Z",
+                "photoTimestamp": 1674345600
+            },
+            {
+                "photoId": "CIABIhD-ddUpO9kPsRdY5w5DcLz4",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npbbQBa9Encpi1LRjxOmAwQ0DsnX5V_m25fK9HQ8qwEKJWhs8My0xjbOVYOnE8a05Kabf54XPAAOrD-8zHeA5_SqSLMPghaJwZoePCYBMkue9Phf--YqfjEV2XAvHmqgIZ11unQve9Qu_8R",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npbbQBa9Encpi1LRjxOmAwQ0DsnX5V_m25fK9HQ8qwEKJWhs8My0xjbOVYOnE8a05Kabf54XPAAOrD-8zHeA5_SqSLMPghaJwZoePCYBMkue9Phf--YqfjEV2XAvHmqgIZ11unQve9Qu_8R=w1868-h4000-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4372962,
+                "longitude": -49.241488999999994,
+                "type": "photo",
+                "photoDatetimeUtc": "2025-07-22T00:00:00.000Z",
+                "photoTimestamp": 1753142400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICR8pPttwE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqwf8DZ5llJaQy1bpzojKmu9YILK4LjlSup8WqW_O9ijaHKtnIq1gXxwsRcf2EmGLITyxDufZ1Kop6_kuezuWq74aSnjMX-50DmYANW0mmPLOcdJHOIzqXpeDHu8IUCqe8pjuX5gw=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqwf8DZ5llJaQy1bpzojKmu9YILK4LjlSup8WqW_O9ijaHKtnIq1gXxwsRcf2EmGLITyxDufZ1Kop6_kuezuWq74aSnjMX-50DmYANW0mmPLOcdJHOIzqXpeDHu8IUCqe8pjuX5gw=w360-h640-k-no",
+                "latitude": -25.4372962,
+                "longitude": -49.241488999999994,
+                "type": "video",
+                "photoDatetimeUtc": "2023-04-29T00:00:00.000Z",
+                "photoTimestamp": 1682726400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgICBmqO8aA",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npOKUOWPnKRbLiDMI7GOqCO08olKoWpeVFHwds5Mr5XVBIxLGo59ql1Y73b7rLpxK63QEdiofJq85KRpmxgN8aMxpP0WJaH5R-Dl04HQ2YzP_CEcEOU13n_PGtVey0w8tydfJw",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npOKUOWPnKRbLiDMI7GOqCO08olKoWpeVFHwds5Mr5XVBIxLGo59ql1Y73b7rLpxK63QEdiofJq85KRpmxgN8aMxpP0WJaH5R-Dl04HQ2YzP_CEcEOU13n_PGtVey0w8tydfJw=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4372962,
+                "longitude": -49.241488999999994,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-01-22T00:00:00.000Z",
+                "photoTimestamp": 1674345600
+            },
+            {
+                "photoId": "AF1QipPURrU3XXkSNChQZcP-S1BfjMpyiaHmkBDyDlSM",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipPURrU3XXkSNChQZcP-S1BfjMpyiaHmkBDyDlSM",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipPURrU3XXkSNChQZcP-S1BfjMpyiaHmkBDyDlSM=w5184-h3456-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4372962,
+                "longitude": -49.241488999999994,
+                "type": "photo",
+                "photoDatetimeUtc": "2020-06-27T00:00:00.000Z",
+                "photoTimestamp": 1593216000
+            }
+        ],
+        "globalPlusCode": "586GHQ75+5C",
+        "compoundPlusCode": "HQ75+5C Cristo Rei, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 6,
+            "2": 4,
+            "3": 7,
+            "4": 39,
+            "5": 522
+        },
+        "photoCount": 344,
+        "about": {
+            "summary": null,
+            "details": {
+                "Opções de serviço": {
+                    "Entrega sem contacto": true,
+                    "Entrega": true,
+                    "Levantamento na loja": true,
+                    "Compras na loja": true,
+                    "Comer no local": true
+                },
+                "Acessibilidade": {
+                    "Com estacionamento acessível a pessoas em cadeiras de rodas": true,
+                    "Entrada acessível a pessoas em cadeiras de rodas": true,
+                    "WC público acessível a pessoas em cadeiras de rodas": true
+                },
+                "Serviços": {
+                    "WC público unissexo": true,
+                    "Wi-Fi": true
+                },
+                "Pagamentos": {
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pagamentos móveis com NFC": true
+                }
+            }
+        },
+        "address": "Av. Presidente Affonso Camargo, 1939 - Loja 02 - Cristo Rei, Curitiba - PR, 80050-370, Brasil",
+        "menuLink": null,
+        "orderLink": null,
+        "priceLevel": "20 - 40 R$",
+        "district": "Cristo Rei",
+        "streetAddress": "Av. Presidente Affonso Camargo, 1939 - Loja 02",
+        "city": "Curitiba",
+        "zipcode": "80050-370",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "jogos",
+                "reviewCount": 147
+            },
+            {
+                "keyword": "ambiente",
+                "reviewCount": 30
+            },
+            {
+                "keyword": "família",
+                "reviewCount": 25
+            },
+            {
+                "keyword": "divertir",
+                "reviewCount": 23
+            },
+            {
+                "keyword": "organizado",
+                "reviewCount": 13
+            },
+            {
+                "keyword": "monitores",
+                "reviewCount": 10
+            },
+            {
+                "keyword": "opções",
+                "reviewCount": 9
+            },
+            {
+                "keyword": "alugar",
+                "reviewCount": 7
+            },
+            {
+                "keyword": "trivia",
+                "reviewCount": 5
+            },
+            {
+                "keyword": "quantidade",
+                "reviewCount": 5
+            }
+        ],
+        "emailsAndContacts": {
+            "emails": [],
+            "phoneNumbers": [],
+            "facebook": null,
+            "instagram": "https://www.instagram.com/joyjoycafe",
+            "yelp": null,
+            "tiktok": null,
+            "snapchat": null,
+            "twitter": null,
+            "linkedin": null,
+            "github": null,
+            "youtube": null,
+            "pinterest": null
+        }
+    },
+    {
+        "businessId": "0x94dce538b40be9dd:0xba800d62824d0b1f",
+        "googleId": "0x94dce538b40be9dd:0xba800d62824d0b1f",
+        "placeId": "ChIJ3ekLtDjl3JQRHwtNgmINgLo",
+        "googleMid": "/g/11hkv367vz",
+        "phoneNumber": "+5541998078863",
+        "name": "Alçapão Jogos",
+        "latitude": -25.4180064,
+        "longitude": -49.265488,
+        "fullAddress": "Alçapão Jogos - R. Mal. Hermes, 104 - Centro Cívico, Curitiba - PR, 80530-230, Brasil",
+        "reviewCount": 166,
+        "rating": 5,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 16:00 de quarta",
+        "workingHours": {
+            "segunda-feira": ["Encerrado"],
+            "terça-feira": ["Encerrado"],
+            "quarta-feira": ["16:00–23:00"],
+            "quinta-feira": ["16:00–23:00"],
+            "sexta-feira": ["16:00–00:00"],
+            "sábado": ["15:00–23:00"],
+            "domingo": ["15:00–21:00"]
+        },
+        "website": "http://alcapaojogos.com.br",
+        "tld": "alcapaojogos.com.br",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce538b40be9dd:0xba800d62824d0b1f",
+        "cid": "13438756004817603359",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJ3ekLtDjl3JQRHwtNgmINgLo&authuser=0&hl=pt&gl=PT",
+        "ownerId": "107906118649576406413",
+        "ownerLink": "https://maps.google.com/maps/contrib/107906118649576406413",
+        "ownerName": "Alçapão Jogos",
+        "bookingLink": null,
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Loja de jogos",
+        "subtypes": ["Loja de jogos"],
+        "subtypeGcids": ["game_store"],
+        "photosSample": [
+            {
+                "photoId": "CIHM0ogKEICAgIDRrJfifw",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZhuKGigeTs54bcFSUGXan8jjYBCou4IL-zLI3Lid3DUkyIns4Py29wZObtH_wCCeY92BRvkgVBmcqj60up_lq5n_xa1GUmH3ipg",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZhuKGigeTs54bcFSUGXan8jjYBCou4IL-zLI3Lid3DUkyIns4Py29wZObtH_wCCeY92BRvkgVBmcqj60up_lq5n_xa1GUmH3ipg=w2448-h3264-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4180156,
+                "longitude": -49.2656245,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-05-19T00:00:00.000Z",
+                "photoTimestamp": 1684454400
+            },
+            {
+                "photoId": "0T8NO29MyK-Ka7s5C4RGBg",
+                "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0T8NO29MyK-Ka7s5C4RGBg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=81.797615&pitch=0&thumbfov=100",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": null,
+                "latitude": -25.418023652359143,
+                "longitude": -49.265620515185205,
+                "type": "street_view",
+                "photoDatetimeUtc": "2024-01-12T00:00:00.000Z",
+                "photoTimestamp": 1705017600
+            },
+            {
+                "photoId": "AF1QipMBloJps50sEREzhbexZrJtSGgex70wnd7vDvk4",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipMBloJps50sEREzhbexZrJtSGgex70wnd7vDvk4",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipMBloJps50sEREzhbexZrJtSGgex70wnd7vDvk4=w960-h1280-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4180156,
+                "longitude": -49.2656245,
+                "type": "photo",
+                "photoDatetimeUtc": "2021-04-09T00:00:00.000Z",
+                "photoTimestamp": 1617926400
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDRmNCcZQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noLtF8ajuX1975xTOayD77BO4BXXToECpJD79VI7DV6KO7uozsjDpICs7Txfof09nleuhgPDv26uCDv-zK_kdDIzXBYR48T0pWo",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noLtF8ajuX1975xTOayD77BO4BXXToECpJD79VI7DV6KO7uozsjDpICs7Txfof09nleuhgPDv26uCDv-zK_kdDIzXBYR48T0pWo=w4096-h3072-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.41800642567231,
+                "longitude": -49.265487967620395,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-05-17T00:00:00.000Z",
+                "photoTimestamp": 1684281600
+            },
+            {
+                "photoId": "CIHM0ogKEICAgIDRmNDi8gE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nql_ASOIyw-Y2KlfyBkxiZync1yGpC9BerDrBuK3RZqEqb8mYV4ml19KpWYtCgdGTIm7k0TDGjDkAGHfldTaiuSB_K5n4LCvt4MaVc",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nql_ASOIyw-Y2KlfyBkxiZync1yGpC9BerDrBuK3RZqEqb8mYV4ml19KpWYtCgdGTIm7k0TDGjDkAGHfldTaiuSB_K5n4LCvt4MaVc=w3072-h4096-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4180156,
+                "longitude": -49.2656245,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-05-17T00:00:00.000Z",
+                "photoTimestamp": 1684281600
+            },
+            {
+                "photoId": "CIABIhADydERRBGKV2fshzQAB4_e",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqp8-f9e56X-uxUjGink9UmqI9dfvB60IHfPk6ak8WsGveoCj5IpYEoO-M4E4TYHGgtlD8yAPZnUn6mXUacccGCWzVPoMxeFFSmgWCle1uqdQ=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqp8-f9e56X-uxUjGink9UmqI9dfvB60IHfPk6ak8WsGveoCj5IpYEoO-M4E4TYHGgtlD8yAPZnUn6mXUacccGCWzVPoMxeFFSmgWCle1uqdQ=w360-h640-k-no",
+                "latitude": -25.4180156,
+                "longitude": -49.2656245,
+                "type": "video",
+                "photoDatetimeUtc": "2025-05-02T00:00:00.000Z",
+                "photoTimestamp": 1746144000
+            }
+        ],
+        "globalPlusCode": "586GHPJM+QR",
+        "compoundPlusCode": "HPJM+QR Centro Cívico, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 4,
+            "5": 162
+        },
+        "photoCount": 48,
+        "about": {
+            "summary": null,
+            "details": {
+                "Opções de serviço": {
+                    "Entrega": true,
+                    "Levantamento na loja": true,
+                    "Compras na loja": true
+                },
+                "Acessibilidade": {
+                    "Entrada acessível a pessoas em cadeiras de rodas": true
+                },
+                "Serviços": {
+                    "Wi-Fi": true
+                },
+                "Pagamentos": {
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pagamentos móveis com NFC": true
+                }
+            }
+        },
+        "address": "R. Mal. Hermes, 104 - Centro Cívico, Curitiba - PR, 80530-230, Brasil",
+        "menuLink": null,
+        "orderLink": null,
+        "priceLevel": null,
+        "district": "Centro Cívico",
+        "streetAddress": "R. Mal. Hermes, 104",
+        "city": "Curitiba",
+        "zipcode": "80530-230",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": [
+            {
+                "postId": "CIHM0ogKEICAgMDgiYzGkAE",
+                "postLink": "https://search.google.com/local/posts?q=Al%C3%A7ap%C3%A3o+Jogos&ludocid=13438756004817603359&lpsid=CIHM0ogKEICAgMDgiYzGkAE&source=sh/x/localposts&lsig=AB86z5VJ1RJ2Ev8I4mhr57P10GGM",
+                "postDatetimeUtc": "2025-02-25T16:31:01.000Z",
+                "postTimestamp": 1740501061,
+                "postText": "Estaremos abertos no Carnaval - 2025\nHorários:\nSáb 15 - 23hrs\nDom 15 - 21Hrs\nSeg 16 - 23hrs\nTer 16 - 23hrs\nQua - 16 - 23hrs",
+                "postLinks": null,
+                "postPhotos": [
+                    "https://lh3.googleusercontent.com/geougc/AF1QipOfuPZudWPmS_7hIg42Pdf20e0Fc7Snmu1Dc0WG=h400-no"
+                ]
+            }
+        ],
+        "postsLink": "https://search.google.com/local/posts?q=Al%C3%A7ap%C3%A3o+Jogos&ludocid=13438756004817603359&lpsid=0&lsig=AB86z5VJ1RJ2Ev8I4mhr57P10GGM",
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "ambiente",
+                "reviewCount": 14
+            },
+            {
+                "keyword": "cardápio",
+                "reviewCount": 10
+            },
+            {
+                "keyword": "café",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "preço",
+                "reviewCount": 7
+            },
+            {
+                "keyword": "certeza",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "família",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "parceria",
+                "reviewCount": 5
+            },
+            {
+                "keyword": "locação",
+                "reviewCount": 3
+            },
+            {
+                "keyword": "perfeito",
+                "reviewCount": 3
+            },
+            {
+                "keyword": "chelsea",
+                "reviewCount": 2
+            }
+        ],
+        "emailsAndContacts": {
+            "emails": ["alcapaojogos@gmail.com"],
+            "phoneNumbers": ["41998026256"],
+            "facebook": null,
+            "instagram": null,
+            "yelp": null,
+            "tiktok": null,
+            "snapchat": null,
+            "twitter": null,
+            "linkedin": null,
+            "github": null,
+            "youtube": null,
+            "pinterest": null
+        }
+    },
+    {
+        "businessId": "0x94dce43e24c108d7:0xa4d17ffaaded2e42",
+        "googleId": "0x94dce43e24c108d7:0xa4d17ffaaded2e42",
+        "placeId": "ChIJ1wjBJD7k3JQRQi7trfp_0aQ",
+        "googleMid": "/g/11btwtxxn2",
+        "phoneNumber": "+5541998418643",
+        "name": "Vila Celta Hobby Store - Jogos e Café",
+        "latitude": -25.443019699999997,
+        "longitude": -49.266283099999995,
+        "fullAddress": "Vila Celta Hobby Store - Jogos e Café - Av. Pres. Getúlio Vargas, 659 - Rebouças, Curitiba - PR, 80240-040, Brasil",
+        "reviewCount": 698,
+        "rating": 4.8,
+        "timezone": "America/Sao_Paulo",
+        "openingStatus": "Fechado ⋅ Abre às 12:00 de terça",
+        "workingHours": {
+            "segunda-feira": ["Encerrado"],
+            "terça-feira": ["12:00–23:00"],
+            "quarta-feira": ["12:00–23:00"],
+            "quinta-feira": ["12:00–23:00"],
+            "sexta-feira": ["12:00–23:00"],
+            "sábado": ["12:00–23:00"],
+            "domingo": ["12:00–20:00"]
+        },
+        "website": "https://www.vilacelta.com.br",
+        "tld": "vilacelta.com.br",
+        "verified": true,
+        "placeLink": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x94dce43e24c108d7:0xa4d17ffaaded2e42",
+        "cid": "11876414406989262402",
+        "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJ1wjBJD7k3JQRQi7trfp_0aQ&authuser=0&hl=pt&gl=PT",
+        "ownerId": "100447729362663656936",
+        "ownerLink": "https://maps.google.com/maps/contrib/100447729362663656936",
+        "ownerName": "Vila Celta Hobby Store - Jogos e Café",
+        "bookingLink": null,
+        "reservationsLink": null,
+        "businessStatus": "OPEN",
+        "type": "Loja de passatempos",
+        "subtypes": [
+            "Loja de passatempos",
+            "Clube de jogos de tabuleiro",
+            "Loja de brinquedos",
+            "Loja de cromos"
+        ],
+        "subtypeGcids": ["hobby_store", "board_game_club", "toy_store", "trading_card_store"],
+        "photosSample": [
+            {
+                "photoId": "AF1QipOaQzpku2oXAR03dIInF6BowEe2Q8UER6osrhNK",
+                "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipOaQzpku2oXAR03dIInF6BowEe2Q8UER6osrhNK",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/p/AF1QipOaQzpku2oXAR03dIInF6BowEe2Q8UER6osrhNK=w1080-h1346-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4428353,
+                "longitude": -49.2663721,
+                "type": "photo",
+                "photoDatetimeUtc": "2023-09-09T00:00:00.000Z",
+                "photoTimestamp": 1694217600
+            },
+            {
+                "photoId": "Of3INmWnfaIHNwv3FV0t4Q",
+                "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Of3INmWnfaIHNwv3FV0t4Q&cb_client=search.gws-prod.gps&w=211&h=120&yaw=140.22159&pitch=0&thumbfov=100",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": null,
+                "latitude": -25.44285873009921,
+                "longitude": -49.2664315056644,
+                "type": "street_view",
+                "photoDatetimeUtc": "2024-01-13T00:00:00.000Z",
+                "photoTimestamp": 1705104000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgID4gv3fZg",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nompct2NLfOwqMkEVMprzwxqjVZ7MF5x9fSteCEv5LqDMTKEXflVLcZjxFco0gZqbolsdc84w6uziyDpbw9ZYz1aMzaRGmC2qMJBXFzaRqX6QQo3DWm6Qq34h0RMS_3xMJTH4ek",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nompct2NLfOwqMkEVMprzwxqjVZ7MF5x9fSteCEv5LqDMTKEXflVLcZjxFco0gZqbolsdc84w6uziyDpbw9ZYz1aMzaRGmC2qMJBXFzaRqX6QQo3DWm6Qq34h0RMS_3xMJTH4ek=w3024-h4032-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4428353,
+                "longitude": -49.2663721,
+                "type": "photo",
+                "photoDatetimeUtc": "2017-01-14T00:00:00.000Z",
+                "photoTimestamp": 1484352000
+            },
+            {
+                "photoId": "CIHM0ogKEICAgID4gr3v8wE",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npyvmdyNqfBWZltpDE_bFBZPQs1dPKPyfhJkpBLarPoa9EtRIaB4fQ8RNCU5-ONyQciYyrukAVffVsKq2eGckZ-zoEBgDUhS-mgyAfBrqL5u8xmP5Fqy6NOegBimAgOwS0QdOAVrA",
+                "photoUrlLarge": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npyvmdyNqfBWZltpDE_bFBZPQs1dPKPyfhJkpBLarPoa9EtRIaB4fQ8RNCU5-ONyQciYyrukAVffVsKq2eGckZ-zoEBgDUhS-mgyAfBrqL5u8xmP5Fqy6NOegBimAgOwS0QdOAVrA=w4032-h3024-k-no",
+                "videoThumbnailUrl": null,
+                "latitude": -25.4428353,
+                "longitude": -49.2663721,
+                "type": "photo",
+                "photoDatetimeUtc": "2017-01-14T00:00:00.000Z",
+                "photoTimestamp": 1484352000
+            },
+            {
+                "photoId": "CIHM0ogKEP_4lvqOiY2EAQ",
+                "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqB2aJi0yw0UNxQ9wrcEOyKMS1_-RMkea3jP4yHSwI6KK9-s4V2DSmRuy3TG-Lp3v9I75hqNixqK0-TlUR5__HT_P3PtmAScnuP3fTQjgERpaFknVtGGAsuBiaEQtL3-vJZW-Dg=m18",
+                "photoUrlLarge": null,
+                "videoThumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqB2aJi0yw0UNxQ9wrcEOyKMS1_-RMkea3jP4yHSwI6KK9-s4V2DSmRuy3TG-Lp3v9I75hqNixqK0-TlUR5__HT_P3PtmAScnuP3fTQjgERpaFknVtGGAsuBiaEQtL3-vJZW-Dg=w640-h360-k-no",
+                "latitude": -25.443019669478225,
+                "longitude": -49.266283102911636,
+                "type": "video",
+                "photoDatetimeUtc": "2025-06-27T00:00:00.000Z",
+                "photoTimestamp": 1750982400
+            }
+        ],
+        "globalPlusCode": "586GHP4M+QF",
+        "compoundPlusCode": "HP4M+QF Rebouças, Curitiba - PR, Brasil",
+        "reviewsPerRating": {
+            "1": 11,
+            "2": 5,
+            "3": 10,
+            "4": 56,
+            "5": 616
+        },
+        "photoCount": 71,
+        "about": {
+            "summary": null,
+            "details": {
+                "Opções de serviço": {
+                    "Levantamento na loja": true,
+                    "Compras na loja": true
+                },
+                "Acessibilidade": {
+                    "Com estacionamento acessível a pessoas em cadeiras de rodas": false,
+                    "Entrada acessível a pessoas em cadeiras de rodas": false
+                },
+                "Serviços": {
+                    "Wi-Fi": true
+                },
+                "Planeamento": {
+                    "Visita rápida": true
+                },
+                "Pagamentos": {
+                    "Cartões de crédito": true,
+                    "Cartões de débito": true,
+                    "Pagamentos móveis com NFC": true
+                }
+            }
+        },
+        "address": "Av. Pres. Getúlio Vargas, 659 - Rebouças, Curitiba - PR, 80240-040, Brasil",
+        "menuLink": null,
+        "orderLink": null,
+        "priceLevel": null,
+        "district": "Rebouças",
+        "streetAddress": "Av. Pres. Getúlio Vargas, 659",
+        "city": "Curitiba",
+        "zipcode": "80240-040",
+        "state": "Paraná",
+        "country": "BR",
+        "postsSample": null,
+        "postsLink": null,
+        "keywordsMentionedInReviews": [
+            {
+                "keyword": "board games",
+                "reviewCount": 50
+            },
+            {
+                "keyword": "magic",
+                "reviewCount": 33
+            },
+            {
+                "keyword": "card games",
+                "reviewCount": 26
+            },
+            {
+                "keyword": "locação",
+                "reviewCount": 22
+            },
+            {
+                "keyword": "RPG",
+                "reviewCount": 11
+            },
+            {
+                "keyword": "embalado",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "pagamento",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "ambiente",
+                "reviewCount": 8
+            },
+            {
+                "keyword": "opções",
+                "reviewCount": 6
+            },
+            {
+                "keyword": "dúvida",
+                "reviewCount": 6
+            }
+        ],
+        "emailsAndContacts": {
+            "emails": ["contato@vilacelta.com.br"],
+            "phoneNumbers": ["41998418643"],
+            "facebook": null,
+            "instagram": "https://www.instagram.com/vilacelta",
+            "yelp": null,
+            "tiktok": null,
+            "snapchat": null,
+            "twitter": null,
+            "linkedin": "https://www.linkedin.com/company/vilacelta",
+            "github": null,
+            "youtube": null,
+            "pinterest": null
+        }
+    }
+]

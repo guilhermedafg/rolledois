@@ -1,0 +1,38 @@
+{
+    "name": "Rolle App",
+    "short_name": "Rolle",
+    "description": "Explore lugares autênticos • curados por quem realmente vive a cidade.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#fcf9f3",
+    "theme_color": "#eefd96",
+    "icons": [
+        {
+            "src": "icons/rolle_icon_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/rolle_icon_384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/rolle_icon_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/rolle_icon_768.png",
+            "sizes": "768x768",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/rolle_icon_maskable_512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

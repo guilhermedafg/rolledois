@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "id": "venueCategory:cafe"
+        },
+        {
+            "id": "venueCategory:hamburgueria"
+        },
+        {
+            "id": "venueCategory:jogos"
+        },
+        {
+            "id": "venueCategory:passatempos"
+        },
+        {
+            "id": "venueCategory:torrefatores"
+        },
+        {
+            "id": "venueCategory:vegano"
+        },
+        {
+            "id": "venueCategory:vegetariano"
+        }
+    ]
+]

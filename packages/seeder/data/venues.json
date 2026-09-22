@@ -1,0 +1,2536 @@
+[
+    [
+        {
+            "address": "address:nnu8d2nvq51v35fjrypu",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-a4bf7c75-a45f-4d0e-a654-56f803c46c6d.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-7bd8a8ea-4cb6-4bea-8ee0-fffb690a0935.jpeg"
+            },
+            "description": "Fartos sanduíches, petiscos, cafés, chopes e drinques em espaço simples com toque vintage e opções para levar.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2688874, -25.440457799999997]
+            },
+            "googlePlaceId": "ChIJIYQ0CGbk3JQRCmH2UheQl9o",
+            "id": "venue:0wtglc87gmfl12wcgfyt",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-a4bf7c75-a45f-4d0e-a654-56f803c46c6d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-7bd8a8ea-4cb6-4bea-8ee0-fffb690a0935.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-03d6ded8-dd62-4f7b-8706-c033f45ece3f.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-c43c658b-01bb-4e57-8ad0-9a227a157ecf.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-272e8ae4-8e5f-448e-be9e-5519b30d6975.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-628bf5fe-067d-4f3a-a3e0-1a08827c8b3b.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-37d3cb12-e7ad-4ac4-a97d-1cb9abb7a977.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-889684b2-fbad-4ee8-a3d9-7663baa9ac22.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-34ad6372-4035-43ac-8656-f1c3d7148cf6.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-8fc9cd97-eed2-462e-a8e6-52ca8dc0e6f2.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-91550f2e-e98e-4bdd-b4bf-027bafe7766f.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-202e198c-4940-4212-a3d7-1470a1ab1e2e.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-e78a1884-32c3-4a79-818c-0de5e45e4d49.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-c0174fec-12bf-40ee-a2e4-868348dc277e.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-c3a61065-799c-4d65-8698-0a7d19a2f0b5.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manifesto%20Caf%C3%A9-9c637ee5-17a0-47db-b65d-8b0cd9d72213.jpeg"
+                }
+            ],
+            "name": "Manifesto Café",
+            "phone": "+5541987176129",
+            "socials": {
+                "instagram": "https://www.instagram.com/manifesto.cafe"
+            },
+            "uri": "Manifesto%20Caf%C3%A9%20ChIJIYQ0CGbk3JQRCmH2UheQl9o",
+            "website": "http://manifesto.cafe",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "18:30",
+                        "start": "09:30"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "18:30",
+                        "start": "09:30"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "17:00",
+                        "start": "10:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "18:30",
+                        "start": "09:30"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "18:30",
+                        "start": "09:30"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "18:30",
+                        "start": "09:30"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:3d4oqoecchrv38pck0wx",
+            "category": "venueCategory:vegetariano",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-f336faaf-d168-4c19-ad5e-3efeb3165d13.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-5ea3c544-63bf-4698-b622-64964a6e0c2c.jpeg"
+            },
+            "description": "Restaurante e mercearia que serve buffet de almoço vegetariano e receitas criativas de comida integral.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2978622, -25.4360288]
+            },
+            "googlePlaceId": "ChIJ0YIZQezj3JQRJAPXoQeEWCI",
+            "id": "venue:3s8nfsd9m1rpp0a38r4c",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-f336faaf-d168-4c19-ad5e-3efeb3165d13.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-5ea3c544-63bf-4698-b622-64964a6e0c2c.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-ffce2c19-299f-4c6a-b436-7ff5e28486c1.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-b591016a-3a14-4c3e-82b9-332adad8f662.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-1df9601b-35fe-4891-911d-eecc0b2ec472.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-7375771a-b3a4-4742-a61f-94ff2ae18fb3.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-207f4efe-13de-4179-a952-80e05e2a4cd5.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-07885e3b-3a8d-4a09-a4bf-8ac01d04560e.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-c06fad90-bc34-46ce-890d-8bc3ac78e410.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-b0570c22-7e5e-43dc-8e03-8caedac310d9.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-93ac6508-38e3-4594-bf03-4085da206f93.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano-eef40431-4d9c-44dd-8e66-1ee35cf24532.png"
+                }
+            ],
+            "name": "Sorella Restaurante Vegetariano",
+            "phone": "+554133353216",
+            "socials": {},
+            "uri": "Sorella%20Restaurante%20Vegetariano%20ChIJ0YIZQezj3JQRJAPXoQeEWCI",
+            "website": "https://maquinacaptacao.com.br/sorella-champagnat",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:p0lpch56hf1l1tv7i1pp",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-f5baa68d-94c8-48a3-bd64-d041fd0144ec.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-0adb6499-a41c-4f1c-a940-a4f05e594a62.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2860838, -25.4326811]
+            },
+            "googlePlaceId": "ChIJrQ3DCmvj3JQRBAd3j-qKM54",
+            "id": "venue:5kp87nqhj4dmly7lhupz",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-f5baa68d-94c8-48a3-bd64-d041fd0144ec.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-0adb6499-a41c-4f1c-a940-a4f05e594a62.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-a50125b9-bd17-4665-bd01-173026044368.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-70cd0b5b-5195-41b6-b95c-80545d624078.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-2aa942c0-3472-4c6c-974c-bd5453733feb.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-453a5d58-3a8d-49b3-a914-fee7652317e3.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-638ec3cc-f534-4318-a030-18ae8f45d644.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-96e95488-731c-462a-a05d-e336a8baf9ad.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-bc665c26-3cf6-40b3-aa92-e8477db2a5fb.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-ffa15a38-cbf7-4b4d-b4e4-b0ccae40d3f2.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-051b1e89-f785-4a3f-a94d-b650fdf556e3.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-f892ec6b-b556-44c6-b276-e5468a78d2c0.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-0d81ca42-cb0a-4fff-af44-4cc07fc7d169.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/El%20Tumi%20Caf%C3%A9-3c6f1601-50f9-49b1-95b7-a69cbbb4e82c.jpeg"
+                }
+            ],
+            "name": "El Tumi Café",
+            "phone": "+5541987665193",
+            "socials": {},
+            "uri": "El%20Tumi%20Caf%C3%A9%20ChIJrQ3DCmvj3JQRBAd3j-qKM54",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "19:00",
+                        "start": "09:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "19:00",
+                        "start": "09:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "19:00",
+                        "start": "09:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "19:00",
+                        "start": "09:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "19:00",
+                        "start": "09:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:iu9di96pb9e5numutnml",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-04d3a732-facd-440b-ac2b-8b27aa9da71d.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-376a92f4-9c8a-4b53-bb16-c3bdb22a2709.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2701867, -25.4282257]
+            },
+            "googlePlaceId": "ChIJv7u9lzrl3JQRuObisKj8YmQ",
+            "id": "venue:634gj930ka7mtl90n3qz",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-04d3a732-facd-440b-ac2b-8b27aa9da71d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-376a92f4-9c8a-4b53-bb16-c3bdb22a2709.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-e55ef260-e4bc-41c4-be12-1f035822f82b.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-809d72f3-0fe7-4028-85d4-50e7f4d224ca.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-2b2deb5a-9100-4890-b0cd-1d1cd236695b.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-bc153124-2431-44b1-acf8-60e44a47c251.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-50edb4d8-1755-4523-bd23-68f5aa6e9e47.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-9459f40a-3bdd-4887-b8a1-567d64087943.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-b29f3051-a4cb-4eb6-8d08-70fca089dc64.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-283d3148-aedc-476c-b15f-60ca8b11b03d.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-e0ee96c5-14eb-4258-b6fc-fe5ceb713202.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-c4993986-d36d-4a1e-9321-79b946763c4e.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-77703c03-b434-45c0-9711-c1349d83e36c.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-b0913b22-cfa7-4467-83cc-b22035bcf48d.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-7ad9304f-dc71-4fd1-b27b-ee5eefc4eabc.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-7b36ff53-7fc8-4173-8975-864ea2e8e7c5.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-235b5c7f-b5f8-4b12-bb5b-78623dca738c.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Royalty%20Caf%C3%A9-7b68c8f4-365d-4290-8c8b-485e66c637d7.jpeg"
+                }
+            ],
+            "name": "Royalty Café",
+            "phone": "+5541988457861",
+            "socials": {
+                "instagram": "https://www.instagram.com/royalty.cafe",
+                "x": "https://twitter.com/cafe_royalty"
+            },
+            "uri": "Royalty%20Caf%C3%A9%20ChIJv7u9lzrl3JQRuObisKj8YmQ",
+            "website": "https://www.royaltyqualitycoffee.com",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "00:00",
+                        "start": "10:00"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "20:00",
+                        "start": "10:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "00:00",
+                        "start": "10:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "20:00",
+                        "start": "10:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "00:00",
+                        "start": "10:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "20:00",
+                        "start": "10:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "20:00",
+                        "start": "10:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:rfohfjqib5jpm0imaaz7",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-b123c886-0415-4e37-a763-eba366d53cb7.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-04914efc-ed14-42a7-9694-ab51a27b04e9.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2917098, -25.4357129]
+            },
+            "googlePlaceId": "ChIJE0vp_Cjj3JQR1KNvpf-AXAo",
+            "id": "venue:71klcn5og3fv9jnw6iz9",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-b123c886-0415-4e37-a763-eba366d53cb7.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-04914efc-ed14-42a7-9694-ab51a27b04e9.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-63c27faa-9460-4e94-93bd-1c6cddba68c1.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-d3f8d2e4-c1bc-4a21-93d3-c026828a1ef8.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-3d1b4387-96bf-4e77-940f-341a21dcdc9d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-23e884e8-fe99-4881-8d0e-ab114c618170.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-ac378015-7488-4ace-881a-e522a16a4523.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-f0ce27bb-ed61-4af2-8e2a-addee7e751a9.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-f75c0e4f-5e15-4904-8357-633a1a17a9c5.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-e75813d6-5cc1-4a42-b564-d251bcf4238c.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-dbba6b0b-7b92-446d-8c86-b2622ae52923.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-8b04d3d8-a260-4e35-997e-cc8be93fddfb.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-470d89c8-38ee-4bda-bfd7-9ef305efc0e6.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-f63d57f1-a34e-4c9e-8622-805643691f2e.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-21879647-30ef-4689-8b15-4a58a7636bd5.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Bigorrilho-1382c977-3939-4731-9156-7b91cfdb9aea.jpeg"
+                }
+            ],
+            "name": "Manana Cafés Bigorrilho",
+            "phone": "+554132059046",
+            "socials": {
+                "instagram": "https://www.instagram.com/mananacafes",
+                "tiktok": "https://www.tiktok.com/@mananacafes"
+            },
+            "uri": "Manana%20Caf%C3%A9s%20Bigorrilho%20ChIJE0vp_Cjj3JQR1KNvpf-AXAo",
+            "website": "https://www.mananacafes.com.br",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "19:00",
+                        "start": "10:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "18:00",
+                        "start": "09:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "17:00",
+                        "start": "09:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "19:00",
+                        "start": "10:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "19:00",
+                        "start": "10:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "19:00",
+                        "start": "10:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:6544uyaqd7uwans79idt",
+            "category": "venueCategory:hamburgueria",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-88dcfb02-1813-485e-9ec1-0c9735c47cea.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-5cbe073d-e4dd-4213-a9e6-2734fd1ed953.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.268752799999994, -25.452186299999997]
+            },
+            "googlePlaceId": "ChIJY_lqHVLl3JQRvDHacOMDKuc",
+            "id": "venue:896bvhqq8xlq9bb93zyv",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-88dcfb02-1813-485e-9ec1-0c9735c47cea.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-5cbe073d-e4dd-4213-a9e6-2734fd1ed953.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-ca65e088-07b1-4e47-a438-f4682a734003.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-088592eb-5bb0-484f-acb6-f6fdffee1eb1.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-9a060577-debd-4a1a-b619-a972d37124f4.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-7f431e62-95ef-4852-9570-eb3d81ffbb6e.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-52e3b75c-b0d4-4f73-b55f-23eaa0a56a12.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-1edb7a5e-6c33-41a5-b22d-6af1c8d7abfc.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-f55dd572-6f79-49f8-9ee4-df60773a8276.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-96bc9bc2-9c3d-428d-bb0a-b2a76966c9c3.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-64098dee-fef6-411e-b378-68d6fb654df0.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-6d7c91f3-2bd3-437d-8c39-4cfd3a2c7048.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-96ba2617-0730-401c-95d7-891395a73711.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/BoardZ%20Game%20Pub-038d35f0-7d50-4fd0-afe9-1a0806311e28.jpeg"
+                }
+            ],
+            "name": "BoardZ Game Pub",
+            "phone": "+554130789343",
+            "socials": {
+                "instagram": "https://www.instagram.com/boardzgamepub"
+            },
+            "uri": "BoardZ%20Game%20Pub%20ChIJY_lqHVLl3JQRvDHacOMDKuc",
+            "website": "https://boardzgamepub.com.br",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "00:30",
+                        "start": "18:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "00:30",
+                        "start": "16:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "22:00",
+                        "start": "17:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "23:00",
+                        "start": "18:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "23:00",
+                        "start": "18:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "23:00",
+                        "start": "18:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:997itm81wwv9xngu01vm",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-23c14a45-9990-45aa-bde7-a60ca0e9d082.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-0c8932db-bdeb-430f-80b6-12670319f275.jpeg"
+            },
+            "description": "Cafés, chás, sanduíches e destaque aos pratos com saladas e omeletes, espaço tranquilo e opções para levar.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2917175, -25.465338199999998]
+            },
+            "googlePlaceId": "ChIJlwHi4Xrj3JQRodOnI2ipO08",
+            "id": "venue:8f6a3vp53gwu94rfbe44",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-23c14a45-9990-45aa-bde7-a60ca0e9d082.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-0c8932db-bdeb-430f-80b6-12670319f275.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-96e6a565-d7fa-43ed-a3be-7bf5f9468228.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-f08a9d87-5342-4368-b753-43a1bd13b457.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-55c00bca-2f6b-4479-b527-e5c17107153d.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-0bf33de8-bfdc-4cd7-a214-8ed317e4cac5.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-0a6a22d4-8dcd-43c8-9dbe-79b3f9a295de.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-82abea8d-44c5-40b1-85e0-365cd873fd86.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-a3244e4a-a8d6-4007-b8d7-dfc7005aa4d8.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-ca2b0c57-ee4c-4ded-ba29-aeb110c9f6d0.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-3c8e261c-c303-4670-82b4-3282ff27102c.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-8117a2ce-d421-4bf5-bf0b-4b013949967d.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-9390b4f9-517a-4cc7-9e88-311dce012bdf.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano-fb0c6e3c-368f-439a-aebf-9cd212d1753e.jpeg"
+                }
+            ],
+            "name": "Natural Café - Empório Vegetariano",
+            "phone": "+554130530077",
+            "socials": {},
+            "uri": "Natural%20Caf%C3%A9%20-%20Emp%C3%B3rio%20Vegetariano%20ChIJlwHi4Xrj3JQRodOnI2ipO08",
+            "website": "https://www.facebook.com/naturalcafecwb",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "18:00",
+                        "start": "08:30"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "18:00",
+                        "start": "08:30"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "18:00",
+                        "start": "08:30"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "18:00",
+                        "start": "08:30"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "18:00",
+                        "start": "08:30"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:544qdie8zfeoedw6avde",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-84823095-a8ce-4b68-ba8d-b26ef2226722.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-cc03f38e-a409-45fb-b99c-6c5af8eec576.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2830157, -25.440078399999997]
+            },
+            "googlePlaceId": "ChIJHXOW82Xl3JQRDgNuHFUN9lg",
+            "id": "venue:8s5fnjd6bglui27r3kuc",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-84823095-a8ce-4b68-ba8d-b26ef2226722.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-cc03f38e-a409-45fb-b99c-6c5af8eec576.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-2575402d-3274-4282-af3b-4aa14741ecf7.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-8be84643-b9d1-49c9-995f-1e773d7614f5.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-e88e9287-e15a-40e7-a579-ae312671c2fe.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-539e3740-7d1d-4387-91c0-eba18052f6ca.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-d1ec5a94-8b68-4d3e-91ef-3fca2380cce7.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-e3ccf712-91d9-47b0-8ff4-957d5f204b50.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-a17ae28a-06a5-4550-bed0-9548080f243e.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-aeedc1df-4ec0-4859-a6a5-83e8f3397452.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-d27f60ce-82d9-4da9-92c5-31d46a7076d3.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-8dfc5356-5509-4846-9c18-e6122387dc25.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-3e38c82c-2270-4a4c-ac5b-d7cc2b1bfccf.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-f81c9543-ade6-4cff-9937-83922fa2a3f6.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-fc1f20cf-8efa-4fd1-a3dd-6b142f4b38f4.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Asteristico%20Caf%C3%A9s-7a0997ce-65e9-4044-87b9-75fe94c80bc1.jpeg"
+                }
+            ],
+            "name": "Asteristico Cafés",
+            "phone": "+5541997396046",
+            "socials": {},
+            "uri": "Asteristico%20Caf%C3%A9s%20ChIJHXOW82Xl3JQRDgNuHFUN9lg",
+            "website": "https://instagram.com/asteristico.cafe?igshid=MzRlODBiNWFlZA==",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "20:00",
+                        "start": "10:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "20:00",
+                        "start": "10:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "17:00",
+                        "start": "11:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "20:00",
+                        "start": "10:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "20:00",
+                        "start": "10:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "20:00",
+                        "start": "10:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:ky9puyncos2hyoylqabz",
+            "category": "venueCategory:vegano",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-0967e687-766e-4b91-9ef8-8206798fbb42.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-4549a61e-e319-42d2-929f-7c9f1dac8869.jpeg"
+            },
+            "description": "Restaurante moderno com sanduíches, aperitivos e hambúrgueres vegetais, decorado com arte urbana e área externa.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2797707, -25.4284727]
+            },
+            "googlePlaceId": "ChIJ08dZL3Pk3JQRdS4b1N_Pim8",
+            "id": "venue:9kvt5doa0ymlbf00hd0x",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-0967e687-766e-4b91-9ef8-8206798fbb42.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-4549a61e-e319-42d2-929f-7c9f1dac8869.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-e188834f-aab3-49a5-8fe5-fa97e5a29b16.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-471dc392-ec89-4b7b-a735-ac45c8cad339.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-213bc8dc-2b64-4630-813b-435aa602faf2.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-8d662610-5f8f-4530-be63-553dc16abf95.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-bbad33d9-ae85-4bfc-976d-62fb3218ff6b.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-511d8cb0-2265-4224-ac21-fd568cbfd3ef.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-62f03e15-2d0d-4e66-a958-be952f65d0a7.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-2e0bce94-78be-4306-94bf-30c6371c8093.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-e421584d-a832-40ea-b188-1db4dac1c2ca.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-f5a1f56d-987e-415b-81d7-f7c027a527d7.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-571e71cc-aa9e-43f4-a00a-61075de633df.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-f96bd35d-ef3c-40da-8079-f67d232d97e8.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-f187309d-e284-4be7-b10a-a907321784b4.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-16d9b487-b223-4187-a8f9-99e7864443fb.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-c6f82802-6b26-4601-9b28-63c7c7b21202.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-3b6fe2ea-3258-4bb3-9755-3780ceea7dba.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-0d901555-b69f-4b18-9820-0fc49159fda3.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-90c1f9ac-2a21-47b7-a252-4f98fe2d3839.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-dc9f9ed3-f45d-45fb-8174-c81f6964ba4b.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Veg%20Veg-0c9cc637-2ab3-4044-b507-c7111218feed.png"
+                }
+            ],
+            "name": "Veg Veg",
+            "phone": "+554130855405",
+            "socials": {},
+            "uri": "Veg%20Veg%20ChIJ08dZL3Pk3JQRdS4b1N_Pim8",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "18:30",
+                        "start": "11:30"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "18:30",
+                        "start": "11:30"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "18:30",
+                        "start": "11:30"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "18:30",
+                        "start": "11:30"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "18:30",
+                        "start": "11:30"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "18:30",
+                        "start": "11:30"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:no4xo7smj2w3omnzyfrj",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Lucca%20Caf%C3%A9s%20Especiais-9e52b3cb-d64b-4f9d-a5f6-fdcc8404e64a.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Lucca%20Caf%C3%A9s%20Especiais-2d4260c1-89b0-466b-a8a1-da936d102a78.jpeg"
+            },
+            "description": "Café moderno com sofás, grãos de origens diferentes, utensílios, cursos e aluguel de máquinas.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2823013, -25.4379529]
+            },
+            "googlePlaceId": "ChIJ67SzWiDl3JQR-Xa2kN5Ujhw",
+            "id": "venue:b2ghjfrlxuw5tqn59qf6",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Lucca%20Caf%C3%A9s%20Especiais-9e52b3cb-d64b-4f9d-a5f6-fdcc8404e64a.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Lucca%20Caf%C3%A9s%20Especiais-2d4260c1-89b0-466b-a8a1-da936d102a78.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Lucca%20Caf%C3%A9s%20Especiais-ff97f372-99e1-4aaf-bdf5-970a2a02bda9.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Lucca%20Caf%C3%A9s%20Especiais-6a0e66d8-251d-43a0-82d6-83a25cc1a7b4.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Lucca%20Caf%C3%A9s%20Especiais-aa8b4736-1de7-40b4-a0c3-c9e23073cbe0.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Lucca%20Caf%C3%A9s%20Especiais-c3738965-bd81-4e80-ac52-b6a9f49c3ed7.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Lucca%20Caf%C3%A9s%20Especiais-9023a3c2-4ae1-4fcd-b83e-fb6b3532a469.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Lucca%20Caf%C3%A9s%20Especiais-9996c6a5-3b5c-47eb-91fb-dbb3d8c3c37a.jpeg"
+                }
+            ],
+            "name": "Lucca Cafés Especiais",
+            "phone": "+554130166675",
+            "socials": {
+                "instagram": "https://www.instagram.com/luccacafesespeciais"
+            },
+            "uri": "Lucca%20Caf%C3%A9s%20Especiais%20ChIJ67SzWiDl3JQR-Xa2kN5Ujhw",
+            "website": "https://luccacafesespeciais.com.br",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "20:00",
+                        "start": "07:00"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "20:00",
+                        "start": "07:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "20:00",
+                        "start": "09:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "20:00",
+                        "start": "09:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "20:00",
+                        "start": "07:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "20:00",
+                        "start": "07:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "20:00",
+                        "start": "07:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:odvzg0gqtd3xw3p1rtx7",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-4f797b31-0e24-4f73-b4f7-0c2b2f5f78ee.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-319e8095-14ef-40c4-971d-aeb44710df54.jpeg"
+            },
+            "description": "Cappuccinos, espressos e outros cafés, além de salgados, bolos e brunch, em espaço contemporâneo e acolhedor.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2763802, -25.4338941]
+            },
+            "googlePlaceId": "ChIJTe6BhBjl3JQRHQe9FeMkPrQ",
+            "id": "venue:br6dvt8at1iqwh0n5oqk",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-4f797b31-0e24-4f73-b4f7-0c2b2f5f78ee.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-319e8095-14ef-40c4-971d-aeb44710df54.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-2f8a01f7-9f9e-4caf-ad32-1206448605d9.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-0721b201-2520-46cd-8d63-5b71e18968b0.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-74de88de-33a4-4ab8-ace3-c963d588adac.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-59b1a5ce-9f7f-4e06-8de4-7ee56cc65cf9.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-0df420f8-977d-4c96-9d88-23c59f4b0c1d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-cd2d486d-385b-4bd5-bf3b-8063cd71248a.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-747712d8-eee2-4f43-8f3b-f6c04b5a1a29.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-c6dc7e32-27d5-40be-b701-bc74087f3ad9.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-c5bbdf13-786c-442e-93a1-2dbdc3229074.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-4c89bdb8-743c-45ad-b346-6df5a20ff0be.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-d8104e5a-6a91-4354-8f39-7bf04f1710f5.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-4c836ab6-ccba-474b-bd6f-79bf20ace084.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-c499b9f3-a71f-47b5-9cda-7d1590e676a3.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-dc6cacaf-a701-4fe2-bc8b-70ebdb1897a3.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-1deac12d-33ec-4756-bd3a-911e7eeb956c.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-0f4380d3-15d0-414c-a25f-533e05dec2d7.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-33ebdf3a-024b-4465-9149-37149994ddd2.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-817e70f3-4437-49e2-bb46-f8af8519a51f.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-155669f7-8319-4949-a3a2-4a784509b5a1.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Ben%20Caf%C3%A9-3b63aef8-2597-4856-ab4b-6317101f2c7d.jpeg"
+                }
+            ],
+            "name": "Ben Café",
+            "phone": "+5541998011300",
+            "socials": {},
+            "uri": "Ben%20Caf%C3%A9%20ChIJTe6BhBjl3JQRHQe9FeMkPrQ",
+            "website": "https://bencafe.com.br/home",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "19:00",
+                        "start": "07:30"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "19:00",
+                        "start": "07:30"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "19:00",
+                        "start": "08:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "19:00",
+                        "start": "07:30"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "19:00",
+                        "start": "07:30"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "19:00",
+                        "start": "07:30"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:n97gmkc5pkkkvlba5xh3",
+            "category": "venueCategory:vegano",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-760aa7e8-cb80-4b50-b767-c63b27664a26.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-0f6c11af-d7db-4fc0-8a06-623882733a9b.jpeg"
+            },
+            "description": "Especializada em comida vegana, a lanchonete serve hot dogs, salgados e doces, em ambiente simples e familiar.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.262303599999996, -25.4287693]
+            },
+            "googlePlaceId": "ChIJNbGGbEDk3JQRTdvkyI1M3gg",
+            "id": "venue:cidl09d2qzenpyg63c77",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-760aa7e8-cb80-4b50-b767-c63b27664a26.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-0f6c11af-d7db-4fc0-8a06-623882733a9b.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-8a0c87fe-e77a-4073-bb36-2bf2d13f5b0c.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-76cc3126-d780-4a51-b2f4-f264e642abbc.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-b896aa6f-bcf4-4fac-b772-a208b2bf8fcc.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-7221abb9-5d14-4453-8310-3e1274f220ed.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-76775ced-2a42-4e67-9f7e-32b870e1c2f9.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-00927b72-6196-472f-8efe-3ba5a8421276.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-845b237a-e58b-4c9d-b4cd-328cf60b8e85.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/P%C3%A1prica%20Vegan-13ebc24d-f5de-4380-a48e-89e526183ddc.jpeg"
+                }
+            ],
+            "name": "Páprica Vegan",
+            "phone": "+5541999339317",
+            "socials": {},
+            "uri": "P%C3%A1prica%20Vegan%20ChIJNbGGbEDk3JQRTdvkyI1M3gg",
+            "website": "https://www.instagram.com/papricavegan",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "22:00",
+                        "start": "17:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "22:00",
+                        "start": "17:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "22:00",
+                        "start": "17:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "22:00",
+                        "start": "17:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "22:00",
+                        "start": "17:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:dr5wcchmyphqagqx8yd3",
+            "category": "venueCategory:vegano",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-801c40aa-f6a0-4f88-bb27-bc12332d88e6.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-781b9353-a230-42e8-9bd8-000a77621c11.jpeg"
+            },
+            "description": "Restaurante simples e colorido com buffet à vontade de pratos veganos, além de lanches e outras comidas.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.271879999999996, -25.426689]
+            },
+            "googlePlaceId": "ChIJKb3zyRPk3JQRSFeyinHEksU",
+            "id": "venue:duk6pbjpmrguyag6ga9z",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-801c40aa-f6a0-4f88-bb27-bc12332d88e6.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-781b9353-a230-42e8-9bd8-000a77621c11.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-1efb6df2-6ab0-4af9-90e8-2fa0a42ed39b.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-db3e349e-3e8e-465f-ba79-6928730c9ee1.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-126d74aa-7ab4-4ef2-a32e-1fa7fee4b4b8.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-2aeb4e6e-f1d3-4742-9609-b8942e0e2966.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-9c7b4fbd-9669-41d3-af40-aa21e77ca4ea.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-858b152a-7a24-4f3b-9b4e-5526ba9ee178.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-940d4933-b443-48c7-bd89-06c357ca5172.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-d9f676de-38f2-4967-88e1-435a8c2bfd2b.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-b7d74829-bcf4-4a2e-b7ea-71ea2cdae4d3.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Semente%20de%20Girassol-034f5026-61da-42ed-9ad8-8961e78d59fd.jpeg"
+                }
+            ],
+            "name": "Semente de Girassol",
+            "phone": "+554132035955",
+            "socials": {},
+            "uri": "Semente%20de%20Girassol%20ChIJKb3zyRPk3JQRSFeyinHEksU",
+            "website": "https://www.facebook.com/Sementedegirassol",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "20:00",
+                        "start": "11:00"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "20:00",
+                        "start": "11:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "20:00",
+                        "start": "11:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "17:00",
+                        "start": "11:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "20:00",
+                        "start": "11:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "20:00",
+                        "start": "11:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "20:00",
+                        "start": "11:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:t9ljhyte7klu68226wo4",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-3dcb599c-8238-48f4-885e-616e2fa3c66d.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-43bdf368-ab35-492b-a5ed-00a1c019a9ac.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.283288999999996, -25.4286666]
+            },
+            "googlePlaceId": "ChIJ2RSyBCLl3JQRT3wncdLDS0I",
+            "id": "venue:f1iwayfs9snw2x0bz6zw",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-3dcb599c-8238-48f4-885e-616e2fa3c66d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-43bdf368-ab35-492b-a5ed-00a1c019a9ac.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-95fe3cd8-3305-43c7-8771-4ad1a5b82665.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-642b93af-34a7-425d-a1b3-23cdce60c63e.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-63237cc2-6490-4c28-962f-b07e45f38c1f.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-6e70d8be-a7b6-44e6-ad11-8cabed8eaa33.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-0c28305d-243a-4dfb-9c4e-03f7951cf55a.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-a9b92fe6-7d5b-49e3-aaf3-0b4980807392.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-a7591f0d-b1ca-46e2-9648-08eee3489cc6.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-3bb9c81f-be97-4046-9715-4743d2115bd6.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-daee4b4b-9f81-420f-b0ea-dec524af1571.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-562705e0-f784-481e-88ee-b506470c40b5.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-b15bebfd-5958-4f9d-ac5a-9aae2d022fdb.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-bd6ef744-4cac-4c0d-8948-6560874fdd5b.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-15b67ba1-3bf0-4411-b82a-5267d25c5943.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-8118c0bf-6df9-43e5-982e-957df2fda2a9.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-f14520e2-35b0-49b8-a291-7554e55d8755.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/five%20lab%20co.-53cfa090-9785-405e-88e9-ad9b733f16c5.jpeg"
+                }
+            ],
+            "name": "five lab co.",
+            "socials": {},
+            "uri": "five%20lab%20co.%20ChIJ2RSyBCLl3JQRT3wncdLDS0I",
+            "website": "https://www.instagram.com/fivelab.co?igsh=eWJ3bHZpaXFiZ251",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "18:00",
+                        "start": "12:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "18:00",
+                        "start": "10:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "18:00",
+                        "start": "10:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "18:00",
+                        "start": "12:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "18:00",
+                        "start": "12:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "18:00",
+                        "start": "12:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:8xqpuhcoj9vui39e1v9y",
+            "category": "venueCategory:vegetariano",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-d741f1df-91da-4634-8203-5a49f30ac1ca.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-1d2edfa9-5642-4f16-a0ea-94701c69c742.jpeg"
+            },
+            "description": "A gastronomia de pratos vegetarianos criativos e  individuais, com sobremesas e porções em espaço descolado.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2871215, -25.4357532]
+            },
+            "googlePlaceId": "ChIJMUiw0_Tj3JQROBNvmYP6Jh8",
+            "id": "venue:hkfjbevh8vfl8cmulaou",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-d741f1df-91da-4634-8203-5a49f30ac1ca.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-1d2edfa9-5642-4f16-a0ea-94701c69c742.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-61b0c548-3e03-4c97-aff1-22f642ffcf32.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-5dd77808-d16c-454a-aeb6-f233243bbc71.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-abde7a6a-b473-40d5-9639-504fa82010d9.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-4cbbf79d-889d-4ee7-ac0b-a07ac5f3d93b.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-d32c5e9f-f97d-4f0a-a130-7c858ebeff00.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-f11a1f2c-14e0-4c3f-b676-5464950e664b.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-0651583a-537d-456b-a6cf-35c84ef1b937.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-f1680f33-b72c-4968-9337-2a179eb10164.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-2944d954-f332-43ba-a1c1-2fae0c42827d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-ffaa197c-4dbd-4f12-bff4-9fbb1326ffbd.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-def725c4-864e-49fc-9941-e78f259af512.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-9eb33a03-bfc1-49cc-a5fd-f2aa373b91ac.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-81568a8c-f018-4881-b955-af19a433e7e7.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-a17b5137-af6a-49fd-a7fd-a1614aeb8534.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-14f145fd-e878-49a8-9c86-030cd1cf8783.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-3cc4cb26-9026-4036-babc-0de461a2873d.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-488ba615-9541-49c6-9b2f-1cbd669477ff.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/GreenGo%20Batel-a0a13af5-9a86-4b66-a0b8-27981fb9cb5b.png"
+                }
+            ],
+            "name": "GreenGo Batel",
+            "phone": "+554133474957",
+            "socials": {},
+            "uri": "GreenGo%20Batel%20ChIJMUiw0_Tj3JQROBNvmYP6Jh8",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "15:00",
+                        "start": "11:00"
+                    },
+                    {
+                        "end": "22:00",
+                        "start": "18:00"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "15:00",
+                        "start": "11:00"
+                    },
+                    {
+                        "end": "22:00",
+                        "start": "18:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "22:00",
+                        "start": "11:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "16:00",
+                        "start": "12:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "15:00",
+                        "start": "11:00"
+                    },
+                    {
+                        "end": "22:00",
+                        "start": "18:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "15:00",
+                        "start": "11:00"
+                    },
+                    {
+                        "end": "22:00",
+                        "start": "18:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "15:00",
+                        "start": "11:00"
+                    },
+                    {
+                        "end": "22:00",
+                        "start": "18:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:l93ze5xqi0mlh4vgrd7k",
+            "category": "venueCategory:vegetariano",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-685722cf-a898-4ed4-aa35-a5fcaee11daf.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-96b25dcb-1c97-4ddf-af80-264b6ca4fb59.jpeg"
+            },
+            "description": "Buffet livre e a quilo de culinária vegana e vegetariana, opções macrobióticas, diversas sobremesas e empório.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.282321599999996, -25.432399999999998]
+            },
+            "googlePlaceId": "ChIJ-SsD8Ark3JQRjZREU9bw3dA",
+            "id": "venue:ibhbvbb3bzgm6p3p8w1f",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-685722cf-a898-4ed4-aa35-a5fcaee11daf.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-96b25dcb-1c97-4ddf-af80-264b6ca4fb59.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-02f0255f-4700-4639-bd0e-f3f6d209b457.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-991d860b-f94c-4cbc-91c9-df0217959b13.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-c5055c5a-9d80-4810-b613-c616890df4be.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-34f78177-7e5d-4b5b-887d-0d5be16412c1.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-4f0f7f29-c04c-4ad2-bf11-f16667700dcf.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-fc1fd480-b8eb-4864-a180-e29b46b6fc0e.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-f6ac16d9-4a82-4ed0-8646-39f04a488c2f.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-009478e5-1b1f-4375-a810-6f61ddf40cd4.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-02342aee-aca0-402f-9dc2-f2d67f270ec0.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Restaurante%20Clorofila-1943ab09-b223-4a4c-ae6b-5b682b4ac38e.jpeg"
+                }
+            ],
+            "name": "Restaurante Clorofila",
+            "phone": "+554133229597",
+            "socials": {},
+            "uri": "Restaurante%20Clorofila%20ChIJ-SsD8Ark3JQRjZREU9bw3dA",
+            "website": "https://www.instagram.com/clorofilacuritiba",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:idc91f3cr57dic2aa1ts",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-8ed7bc32-7374-4652-94e6-7ac08629dec2.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-ac1c41bf-00a8-440d-8788-143f05d84c9f.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2908398, -25.442567]
+            },
+            "googlePlaceId": "ChIJ_4cPFY3j3JQRDVdp_FlnJ5c",
+            "id": "venue:id7qf8yp8ufipzsnaadz",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-8ed7bc32-7374-4652-94e6-7ac08629dec2.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-ac1c41bf-00a8-440d-8788-143f05d84c9f.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-eb54ed8b-1d5a-49a7-b0d5-5771481de480.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-9c5ec7c4-9419-4fe0-a88a-85421cebede2.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-20c8ff8a-9507-4e14-976b-2a474db8daa5.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-e3bbf7a6-862d-4f4e-a188-e9e91d486dda.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-6b38edd5-fd0c-45c1-b63f-28f8df92de15.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-80f8b817-d0b2-4ee6-a4ce-0e6bea5a9054.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-752fb2bd-f62d-49e1-b0ac-4ac35649b98d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-94bfdddc-3082-44b0-821a-32ea85cbcaf9.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-7617ac53-232e-4ac7-97bd-eaac5479ff1a.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-b296b2c3-929c-4c89-ad1c-2bed739054f8.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-8aea32f3-fff9-4ded-b3dc-fd029423315e.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-4476c413-5fb9-41d3-94d1-e96bc6027a38.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-737b2813-23e4-4b16-b803-72087119fa61.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-20e3467c-7c5c-46b3-9766-4c86198ed924.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-eeadfcf4-2ea1-4de2-82b0-cb818dfa8ff1.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-74231aec-89ca-4f01-8a75-6d416f833532.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-8ad74a2e-db67-4ca0-8757-c27d8e9e2b14.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-e45df391-8f99-46d4-82f5-d94770a742aa.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-10e47a83-4d4e-4357-9b26-5252b18e2c8d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-d0278826-88bb-4235-96e9-02a8b276e903.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-64d257c3-c462-4637-b376-a9b13ff5129d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-9469dc87-770f-4061-b3aa-ae6f38862f65.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-3319ab28-8d71-4af7-8a18-7cfa0e178d00.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-dbfbb979-74a7-49da-8025-032279f191f3.png"
+                }
+            ],
+            "name": "Café Cultura",
+            "phone": "+554130203411",
+            "socials": {
+                "tiktok": "https://www.tiktok.com/@cafeculturabrasil"
+            },
+            "uri": "Caf%C3%A9%20Cultura%20ChIJ_4cPFY3j3JQRDVdp_FlnJ5c",
+            "website": "http://www.cafeculturabrasil.com",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "22:00",
+                        "start": "10:00"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "22:00",
+                        "start": "10:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "22:00",
+                        "start": "10:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "20:00",
+                        "start": "12:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "22:00",
+                        "start": "10:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "22:00",
+                        "start": "10:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "21:00",
+                        "start": "12:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:t5ft2pn5x4ubdkt7fvl4",
+            "category": "venueCategory:vegetariano",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-692f333e-92e0-45af-9bd1-b7905bea45ad.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-0e3215b3-6c5e-4d33-9407-9d6ff73c95f4.jpeg"
+            },
+            "description": "Self-service com diversos pratos vegetarianos, além de pães e sucos, em espaço contemporâneo com lojinha.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2655368, -25.4122906]
+            },
+            "googlePlaceId": "ChIJP4zEfqDm3JQRP39nSXDtFrA",
+            "id": "venue:kntzxrq22zr22ntmkzya",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-692f333e-92e0-45af-9bd1-b7905bea45ad.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-0e3215b3-6c5e-4d33-9407-9d6ff73c95f4.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-04270b19-941e-4277-9eef-31240a52ce30.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-24c74d3e-9a04-4def-861d-17fde86f4bb8.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-08fe3a5c-0d6b-415d-abf4-29f046e9a2dc.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-913c7187-07a6-4307-83ca-f2e5f65b6ac2.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-55e52cac-1e5c-491c-a1b8-ab66a048a0f0.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-5ec87559-b6b1-42f9-8b9d-61405f268062.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-8a328535-d23c-47f5-ac76-c72347b88833.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico-b3ba6e30-e7da-4c8b-936c-75fa1c012313.jpeg"
+                }
+            ],
+            "name": "Sorella Restaurante Vegetariano - Centro Cívico",
+            "phone": "+554130265794",
+            "socials": {},
+            "uri": "Sorella%20Restaurante%20Vegetariano%20-%20Centro%20C%C3%ADvico%20ChIJP4zEfqDm3JQRP39nSXDtFrA",
+            "website": "https://www.instagram.com/sorellacentrocivico",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "15:00",
+                        "start": "11:30"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "15:00",
+                        "start": "11:30"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "15:30",
+                        "start": "11:30"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "15:00",
+                        "start": "11:30"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "15:00",
+                        "start": "11:30"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "15:00",
+                        "start": "11:30"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:b8w9hmft4ckng7ewufky",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-e0aa7a96-338e-47b4-8f70-16932e0dcc0d.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-08bbdfa1-842b-4a2e-b14d-be7ee9be9530.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2517735, -25.4123937]
+            },
+            "googlePlaceId": "ChIJn5GDnJDl3JQRSOleNhWV134",
+            "id": "venue:lkjjicpgcbbe74gr2bwv",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-e0aa7a96-338e-47b4-8f70-16932e0dcc0d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-08bbdfa1-842b-4a2e-b14d-be7ee9be9530.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-4794797e-8654-4ef6-aa77-d675bdc8e7c0.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-7c7473ba-53d6-4042-9307-636c0cc48795.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-4419a182-ec07-484d-bfb5-fe953bacca24.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-46d0f381-3c96-48b2-a955-76960d6fc0aa.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-63ffea9a-1a80-45d1-9759-f62814e20b7a.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-e95873a8-3872-4ab0-ad4b-266ec57376ba.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-a508d360-3ba5-4774-a290-0169cf69bd1d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-d9b83b5a-b75a-4d7b-9d36-ebebc133cf72.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-36d56a51-120d-4033-82f2-0fbdc71a4516.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-c076569f-ad6a-4c17-b05c-7f44bb7a0abd.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-0503e43f-80ae-4b49-a3f5-2878c457e9dd.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-0905010d-61af-4fef-ae12-acdbb3ce5de8.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-8349d9e0-32c7-452d-b511-930b474d95b0.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-e1577a66-d874-41f6-b50e-146c84ce7422.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-24b7e86a-744e-4152-8156-2c32f1e04553.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-0a814239-d3ee-4ce2-866e-f43a39974dfa.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-e08889f9-dbb7-4b7f-95b5-3c480f9bfb51.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-6d1896dc-b215-4c57-bfeb-c823ce2908f4.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-97b4f81f-9565-45d3-8439-e2b784451ce9.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura-2fddad54-2458-4246-a236-77b50d8ac6c7.jpeg"
+                }
+            ],
+            "name": "Café Cultura",
+            "phone": "+5541987286605",
+            "socials": {
+                "tiktok": "https://www.tiktok.com/@cafeculturabrasil"
+            },
+            "uri": "Caf%C3%A9%20Cultura%20ChIJn5GDnJDl3JQRSOleNhWV134",
+            "website": "http://www.cafeculturabrasil.com",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:w8ll8fyn3icp2gczryzn",
+            "category": "venueCategory:jogos",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Al%C3%A7ap%C3%A3o%20Jogos-76bdc3a8-d9c6-4e66-ad02-71d31dccd9fa.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Al%C3%A7ap%C3%A3o%20Jogos-4fca923e-2c27-49a8-81ce-99c64e3792e4.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.265488, -25.4180064]
+            },
+            "googlePlaceId": "ChIJ3ekLtDjl3JQRHwtNgmINgLo",
+            "id": "venue:n8yg2ywh1u6gnsyzojjj",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Al%C3%A7ap%C3%A3o%20Jogos-76bdc3a8-d9c6-4e66-ad02-71d31dccd9fa.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Al%C3%A7ap%C3%A3o%20Jogos-4fca923e-2c27-49a8-81ce-99c64e3792e4.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Al%C3%A7ap%C3%A3o%20Jogos-78515fdc-2c0b-4e82-bdae-f4ef733859bd.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Al%C3%A7ap%C3%A3o%20Jogos-4e9257a9-f4ac-4615-95dc-50b23f00e9bd.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Al%C3%A7ap%C3%A3o%20Jogos-b11a260e-aca1-49d8-951e-c6821ae7098f.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Al%C3%A7ap%C3%A3o%20Jogos-926a55a3-8caa-41ba-920b-e199b98aed7a.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Al%C3%A7ap%C3%A3o%20Jogos-e413f6fb-2171-44e6-9f9e-3a464e367826.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Al%C3%A7ap%C3%A3o%20Jogos-23b06088-b8df-4d05-ae9a-5f16e76926b1.jpeg"
+                }
+            ],
+            "name": "Alçapão Jogos",
+            "phone": "+5541998078863",
+            "socials": {},
+            "uri": "Al%C3%A7ap%C3%A3o%20Jogos%20ChIJ3ekLtDjl3JQRHwtNgmINgLo",
+            "website": "http://alcapaojogos.com.br",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "00:00",
+                        "start": "16:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "23:00",
+                        "start": "15:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "21:00",
+                        "start": "15:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "23:00",
+                        "start": "16:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "23:00",
+                        "start": "16:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:3ad44tivj2nxscv19cr8",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Espa%C3%A7o%20Caf%C3%A9%20Cultural-ebf7cd1f-b29d-4e46-82a3-0ce45645a2da.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Espa%C3%A7o%20Caf%C3%A9%20Cultural-378407b5-4d25-44bc-9e02-d158d47d70cd.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2716977, -25.400581199999998]
+            },
+            "googlePlaceId": "ChIJEfD-2Lrm3JQRQSjEYHp3D_0",
+            "id": "venue:qtvj5q8dnlewoi6ndtln",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Espa%C3%A7o%20Caf%C3%A9%20Cultural-ebf7cd1f-b29d-4e46-82a3-0ce45645a2da.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Espa%C3%A7o%20Caf%C3%A9%20Cultural-378407b5-4d25-44bc-9e02-d158d47d70cd.jpeg"
+                }
+            ],
+            "name": "Espaço Café Cultural",
+            "socials": {},
+            "uri": "Espa%C3%A7o%20Caf%C3%A9%20Cultural%20ChIJEfD-2Lrm3JQRQSjEYHp3D_0",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "18:00",
+                        "start": "10:00"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "18:00",
+                        "start": "10:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "18:00",
+                        "start": "10:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "18:00",
+                        "start": "10:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "18:00",
+                        "start": "10:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "18:00",
+                        "start": "10:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:570awi2bdfimq6xp8p53",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-e3f42a84-025a-40fb-baf9-980f35f8cabf.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-caec2804-4e97-493f-b12e-4f4f261abf68.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2838795, -25.4386783]
+            },
+            "googlePlaceId": "ChIJ_YMu3jzl3JQRtc0SXD41Vo4",
+            "id": "venue:qw2ucqs75z430civvpwx",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-e3f42a84-025a-40fb-baf9-980f35f8cabf.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-caec2804-4e97-493f-b12e-4f4f261abf68.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-40259480-d8a8-4124-ae98-1ec8b2787280.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-7992ef6e-2e6a-4afa-bfb9-5f826873f855.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-a70f89d1-6b64-4c6e-b6c8-88a2cbf3697a.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-80823732-a922-4758-9554-edabe8e5f5a7.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-b10b920b-bdd6-4496-be9f-e2aef1e24f46.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-8c4985b9-d9d9-483a-bdf8-6e85fffead75.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-2c81b1dc-cc13-4ed5-8cb4-e71ae5ed8e3c.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-dfca8150-eca7-48f7-a449-6e5a0aa3cff4.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-b8dcf431-aa05-4ec2-ac8e-b7eb19d4b127.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-b3b04cee-7b89-40bf-ba1d-864244e94d4f.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-8ed45ad9-52e7-4063-9932-18ea89abc771.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-b3695f35-639d-4a6a-b3ba-ac6ae46c8a55.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-64d9d371-8cf7-4c10-99db-c5a05bb807b3.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-1df4db70-4041-4300-88f1-540860090add.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-a03d03c6-aec7-4a73-8775-77233385b5d0.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-8c684973-34e5-461b-8d48-f7fc4a568a74.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-60804893-3be1-44eb-9c55-893a4568b2df.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-0ba44609-f8c0-4806-a048-0e1a033d5907.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-541f6161-21ff-44d9-94bf-dce84f9fdb35.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Caf%C3%A9%20Cultura%20Batel-2e1af58b-3328-4917-b491-44dcf9940e49.jpeg"
+                }
+            ],
+            "name": "Café Cultura Batel",
+            "phone": "+554132038388",
+            "socials": {
+                "tiktok": "https://www.tiktok.com/@cafeculturabrasil"
+            },
+            "uri": "Caf%C3%A9%20Cultura%20Batel%20ChIJ_YMu3jzl3JQRtc0SXD41Vo4",
+            "website": "http://www.cafeculturabrasil.com",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "19:00",
+                        "start": "08:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "20:00",
+                        "start": "08:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:ig70za1wzujxhsvlgjl6",
+            "category": "venueCategory:torrefatores",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/4BEANS%20Coffee%20Co.-3fac8da2-bd24-4631-8159-8ac437b6efd8.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/4BEANS%20Coffee%20Co.-56b63fb9-881d-49e4-a672-c80162e7b2ec.jpeg"
+            },
+            "description": "Café acolhedor e convidativo de lanches gourmets e doces finos com máquina de torrar e moer grãos seletos.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2816335, -25.4310264]
+            },
+            "googlePlaceId": "ChIJl3JRTQrk3JQRRnTxTS03x2U",
+            "id": "venue:ur27x2mv9figjob382ji",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/4BEANS%20Coffee%20Co.-3fac8da2-bd24-4631-8159-8ac437b6efd8.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/4BEANS%20Coffee%20Co.-56b63fb9-881d-49e4-a672-c80162e7b2ec.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/4BEANS%20Coffee%20Co.-aa868131-daba-4481-9103-7654d942ba96.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/4BEANS%20Coffee%20Co.-ce75205b-736a-486f-82da-88400c09d937.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/4BEANS%20Coffee%20Co.-1b590941-5d31-453b-b7f4-c33b0bb6384d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/4BEANS%20Coffee%20Co.-96de3eb2-9449-41dc-89ea-c7d6c40ca42b.jpeg"
+                }
+            ],
+            "name": "4BEANS Coffee Co.",
+            "phone": "+5541985121807",
+            "socials": {
+                "instagram": "https://www.instagram.com/4beanscoffeeco"
+            },
+            "uri": "4BEANS%20Coffee%20Co.%20ChIJl3JRTQrk3JQRRnTxTS03x2U",
+            "website": "https://www.4beanscoffeeco.com.br",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "19:00",
+                        "start": "10:00"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "19:00",
+                        "start": "10:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "19:00",
+                        "start": "11:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "19:00",
+                        "start": "10:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "19:00",
+                        "start": "10:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "19:00",
+                        "start": "10:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:dgazp9rxkyo7hydqpe2b",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-34b8817e-9da5-4515-b321-81c46485ae35.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-ca2b7ce3-194c-4163-a733-f2b6feb2a562.jpeg"
+            },
+            "description": "Especializada em cafés gourmets, a casa também serve doces em espaço tranquilo e aconchegante com jardinzinho.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.281591999999996, -25.433874]
+            },
+            "googlePlaceId": "ChIJiURL83Xk3JQRzfy9UC-8XVY",
+            "id": "venue:vawewszinyp43r5s65d0",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-34b8817e-9da5-4515-b321-81c46485ae35.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-ca2b7ce3-194c-4163-a733-f2b6feb2a562.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-9356e5e0-390d-499d-ad36-d510ed71190f.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-1a8b855b-499d-41d5-b233-a138c5877178.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-58b3bef9-0b11-45cd-87de-5f7015c06335.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-68150d11-ab46-4254-82ec-23d646d740ae.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-710960bf-5188-4737-8d8b-c02d951c76f7.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-de14325b-115a-42fd-a3f2-e9aefd00c881.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-6faff20c-219b-4d64-8a07-6fe1f80b50f1.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-a5e49a60-4601-4960-a3b0-6851a1302980.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-0efada5a-e1db-4097-979b-7f181012e65d.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-9d549c60-2f1a-414f-9a1f-d7456e849492.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-4bc29f31-729a-4e2d-9355-a85bba018156.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-39ebd64e-4b22-4659-a5fd-71a88e42c7f3.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-253d6740-4742-4777-a87c-dc14587a0095.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-082f5cc0-2524-4cc5-abec-222af31251c8.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-aaf274c1-18cb-4a7e-8bb5-929d583dbac8.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Supernova%20Coffee%20Roasters-46e78a49-6a93-415a-9ab2-dd7de84d7440.jpeg"
+                }
+            ],
+            "name": "Supernova Coffee Roasters",
+            "phone": "+5541999587325",
+            "socials": {},
+            "uri": "Supernova%20Coffee%20Roasters%20ChIJiURL83Xk3JQRzfy9UC-8XVY",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "18:00",
+                        "start": "12:30"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "18:00",
+                        "start": "12:30"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "18:00",
+                        "start": "09:30"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "18:00",
+                        "start": "09:30"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "18:00",
+                        "start": "12:30"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "18:00",
+                        "start": "12:30"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "18:00",
+                        "start": "12:30"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:9afep4abzseq26zk9nx8",
+            "category": "venueCategory:vegetariano",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-8368ac91-fb51-4136-afcd-051056802f5e.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-1431e86c-1ad4-487b-86e7-a8d690fc16cb.jpeg"
+            },
+            "description": "Buffet de saladas e pratos quentes vegetarianos em espaço contemporâneo, além de lojinha de pães e granolas.",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2928271, -25.450330299999997]
+            },
+            "googlePlaceId": "ChIJO8gl3oTj3JQRxdgCcApX8lI",
+            "id": "venue:vln7ji90c1lb80r64sq4",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-8368ac91-fb51-4136-afcd-051056802f5e.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-1431e86c-1ad4-487b-86e7-a8d690fc16cb.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-a8cfa932-50c1-4fcc-9072-e294f18a8e7b.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-7e82e3c1-5633-4453-bd5f-8c9cc5c3f35c.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-d9927d9d-23e3-440f-81b1-73ffd55d17fd.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-3c7850af-5b2f-4239-b4c5-3aff5a4f9b1b.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-5e081a71-ea08-4080-8f82-d72a939500f0.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-d2684082-2d32-4623-b0fa-13b9c747ea7a.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-c91c7553-618e-433e-b65a-9fb9ca92caa0.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Sorella%20%C3%81gua%20Verde-db124011-04be-44b9-b822-332eb6e95ca8.jpeg"
+                }
+            ],
+            "name": "Sorella Água Verde",
+            "phone": "+554130769884",
+            "socials": {},
+            "uri": "Sorella%20%C3%81gua%20Verde%20ChIJO8gl3oTj3JQRxdgCcApX8lI",
+            "website": "https://www.instagram.com/sorella_agua_verde?igsh=MWxlMnN2ZWZpazhyOQ==",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "14:00",
+                        "start": "11:30"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "14:00",
+                        "start": "11:30"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "14:30",
+                        "start": "11:30"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "14:00",
+                        "start": "11:30"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "14:00",
+                        "start": "11:30"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "14:00",
+                        "start": "11:30"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:e77jikxak9bpov54eb3z",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-ca7ffb8f-f46c-4782-8d4e-922386eb7631.png",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-2a30dbab-a7af-4a58-a4be-5b13a5e223c6.png"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.241465399999996, -25.4370433]
+            },
+            "googlePlaceId": "ChIJOczn8z7l3JQRNBEL_ZJ3iQo",
+            "id": "venue:x3goj15b4r4zanmjx1p2",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-ca7ffb8f-f46c-4782-8d4e-922386eb7631.png",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-2a30dbab-a7af-4a58-a4be-5b13a5e223c6.png"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-dbd5d3e3-157b-4aca-82f3-6f592f5e292c.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-53145b63-f42f-40b0-875b-4341847269a8.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-f91ee316-f8ba-4d30-bfa5-c75e36cb7de1.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-f273b654-c90a-430d-a3e5-2232e6894639.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-b6b6499f-e2d5-4ff2-9c1f-d71eb590c559.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-e51b7848-f102-45bc-bdab-51b2423ccf1d.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-b56f23d1-fb9f-4017-b702-b88690c95a6c.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Joyjoy%20Caf%C3%A9-e8a56888-bbf4-43a4-a2c2-7fc8ab357563.jpeg"
+                }
+            ],
+            "name": "Joyjoy Café",
+            "phone": "+5541991769659",
+            "socials": {
+                "instagram": "https://www.instagram.com/joyjoycafe"
+            },
+            "uri": "Joyjoy%20Caf%C3%A9%20ChIJOczn8z7l3JQRNBEL_ZJ3iQo",
+            "website": "http://www.joyjoycafe.com.br",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "23:00",
+                        "start": "18:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "23:00",
+                        "start": "14:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "22:00",
+                        "start": "14:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "23:00",
+                        "start": "18:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "23:00",
+                        "start": "18:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "23:00",
+                        "start": "18:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:eeb3k0ca4m5uq02dqo86",
+            "category": "venueCategory:passatempos",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Vila%20Celta%20Hobby%20Store%20-%20Jogos%20e%20Caf%C3%A9-9ccae3b6-940e-4a37-9f1c-e062491b6c0b.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Vila%20Celta%20Hobby%20Store%20-%20Jogos%20e%20Caf%C3%A9-2e05d0b4-057a-46d1-9031-8cbd8466f842.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.266283099999995, -25.443019699999997]
+            },
+            "googlePlaceId": "ChIJ1wjBJD7k3JQRQi7trfp_0aQ",
+            "id": "venue:y32o1p13duphr9dungmf",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Vila%20Celta%20Hobby%20Store%20-%20Jogos%20e%20Caf%C3%A9-9ccae3b6-940e-4a37-9f1c-e062491b6c0b.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Vila%20Celta%20Hobby%20Store%20-%20Jogos%20e%20Caf%C3%A9-2e05d0b4-057a-46d1-9031-8cbd8466f842.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Vila%20Celta%20Hobby%20Store%20-%20Jogos%20e%20Caf%C3%A9-f92090cd-07f2-451b-9d81-20bdf9f5f5ee.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Vila%20Celta%20Hobby%20Store%20-%20Jogos%20e%20Caf%C3%A9-4a8773f0-46eb-4612-aaff-836d64952c05.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Vila%20Celta%20Hobby%20Store%20-%20Jogos%20e%20Caf%C3%A9-43fe2334-c482-4401-ae4b-1503511c2150.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Vila%20Celta%20Hobby%20Store%20-%20Jogos%20e%20Caf%C3%A9-f50fba9d-0a03-4d1e-8128-06a919a2ece5.jpeg"
+                }
+            ],
+            "name": "Vila Celta Hobby Store - Jogos e Café",
+            "phone": "+5541998418643",
+            "socials": {
+                "instagram": "https://www.instagram.com/vilacelta"
+            },
+            "uri": "Vila%20Celta%20Hobby%20Store%20-%20Jogos%20e%20Caf%C3%A9%20ChIJ1wjBJD7k3JQRQi7trfp_0aQ",
+            "website": "https://www.vilacelta.com.br",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "23:00",
+                        "start": "12:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "23:00",
+                        "start": "12:00"
+                    }
+                ],
+                "sunday": [
+                    {
+                        "end": "20:00",
+                        "start": "12:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "23:00",
+                        "start": "12:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "23:00",
+                        "start": "12:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "23:00",
+                        "start": "12:00"
+                    }
+                ]
+            }
+        },
+        {
+            "address": "address:34bqtsnvzk7a6whusver",
+            "category": "venueCategory:cafe",
+            "cover": {
+                "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-211abd72-87f0-4780-b9b9-bdbca1e6b487.jpeg",
+                "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-b036f687-12ae-4d54-8f3f-675c5522db77.jpeg"
+            },
+            "description": "",
+            "geo": {
+                "type": "Point",
+                "coordinates": [-49.2752529, -25.4308487]
+            },
+            "googlePlaceId": "ChIJJVtYbzfl3JQRZ-eN6SRX8zY",
+            "id": "venue:z00g09w9p8x8ofs5t3kb",
+            "images": [
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-211abd72-87f0-4780-b9b9-bdbca1e6b487.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-b036f687-12ae-4d54-8f3f-675c5522db77.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-a321039f-8aa1-449e-8c38-cd6729809291.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-c1624b9f-3bbb-4b41-bc34-360844062491.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-c4b68d1b-1558-4724-bdd2-bdb9f41c10fb.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-8a85e904-d3a8-423c-80c8-2c944e7cff67.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-1f3f9da1-2851-4567-8f84-b671906f8e6c.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-9793d2b1-a54e-4311-949c-aecff71baff6.jpeg"
+                },
+                {
+                    "thumbUrl": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-ad1cf934-4377-44a5-b3a1-42d0f94667b9.jpeg",
+                    "url": "https://rolleimages.s3.sa-east-1.amazonaws.com/venue-static/Manana%20Caf%C3%A9s%20Centro-e8918f75-5cc0-451c-b57b-4c1f35223fa4.jpeg"
+                }
+            ],
+            "name": "Manana Cafés Centro",
+            "phone": "+5541998918333",
+            "socials": {
+                "instagram": "https://www.instagram.com/mananacafes",
+                "tiktok": "https://www.tiktok.com/@mananacafes"
+            },
+            "uri": "Manana%20Caf%C3%A9s%20Centro%20ChIJJVtYbzfl3JQRZ-eN6SRX8zY",
+            "website": "http://www.mananacafes.com.br",
+            "workingHours": {
+                "friday": [
+                    {
+                        "end": "18:00",
+                        "start": "09:00"
+                    }
+                ],
+                "monday": [
+                    {
+                        "end": "18:00",
+                        "start": "09:00"
+                    }
+                ],
+                "saturday": [
+                    {
+                        "end": "18:00",
+                        "start": "10:00"
+                    }
+                ],
+                "thursday": [
+                    {
+                        "end": "18:00",
+                        "start": "09:00"
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "end": "18:00",
+                        "start": "09:00"
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "end": "18:00",
+                        "start": "09:00"
+                    }
+                ]
+            }
+        }
+    ]
+]

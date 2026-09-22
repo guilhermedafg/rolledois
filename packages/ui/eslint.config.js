@@ -1,0 +1,44 @@
+import { defineConfig } from "vite";
+import prettier from "eslint-config-prettier";
+import js from "@eslint/js";
+import { includeIgnoreFile } from "@eslint/compat";
+import svelte from "eslint-plugin-svelte";
+import globals from "globals";
+import { fileURLToPath } from "node:url";
+import ts from "typescript-eslint";
+import custom_rules, { allow_any } from "@rolle/config/eslint_rules.js";
+const gitignorePath = fileURLToPath(new URL("./../../.gitignore", import.meta.url));
+
+export default defineConfig(
+    includeIgnoreFile(gitignorePath),
+    js.configs.recommended,
+    ...ts.configs.recommended,
+    ...svelte.configs["flat/recommended"],
+    prettier,
+    ...svelte.configs["flat/prettier"],
+    {
+        languageOptions: {
+            globals: {
+                ...globals.browser,
+                ...globals.node,
+            },
+        },
+    },
+    {
+        files: ["**/*.svelte"],
+
+        parserOptions: {
+            tsconfigRootDir: import.meta.dirname,
+        },
+
+        languageOptions: {
+            parserOptions: {
+                parser: ts.parser,
+                tsconfigRootDir: import.meta.dirname,
+            },
+        },
+    },
+    {
+        rules: { ...custom_rules, ...allow_any },
+    },
+);

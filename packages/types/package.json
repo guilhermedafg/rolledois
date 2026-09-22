@@ -1,0 +1,17 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "name": "@rolle/types",
+    "version": "0.0.1",
+    "main": "./index.ts",
+    "devDependencies": {
+        "@rolle/core": "*",
+        "@rolle/config": "*",
+        "@eslint/compat": "*",
+        "@eslint/js": "*",
+        "eslint": "*",
+        "eslint-config-prettier": "*",
+        "prettier": "*",
+        "typescript": "*",
+        "typescript-eslint": "*"
+    }
+}
