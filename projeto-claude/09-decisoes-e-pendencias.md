@@ -5,7 +5,7 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 ## Decisões tomadas
 - 2026-09-23 · Foco dos próximos 3 meses: criadores → usuários → captação · criador é o motor de crescimento · Guilherme
 - 2026-09-23 · Público prioritário: criador de nicho gastronômico/café em Curitiba · Guilherme
-- 2026-09-23 · Canal: só Instagram, 1–2 posts/semana, produzido pelo Guilherme · Guilherme
+- 2026-09-23 · Canal: só Instagram (depois ajustado para 2 posts/semana), produzido pelo Guilherme · Guilherme
 - 2026-09-23 · Voz: base Enjoei, pessoas no centro, pegada editorial; construir junto · Guilherme
 - 2026-09-23 · Identidade visual: seguir o produto (manual antigo desatualizado) · Guilherme
 - 2026-09-23 · Forma de trabalho com o Claude: perguntar antes de decidir; respostas meio-termo · Guilherme
@@ -38,8 +38,9 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 - [ ] Previsão de lançamento da integração por DM
 
 ## Próximos passos sugeridos
-1. Confirmar os itens acima.
-2. Sessão de tom de voz: reescrever 3 textos reais em 3 variações e escolher.
-3. Lista de 20 criadores-alvo em Curitiba e o roteiro de abordagem.
-4. Limpar o Instagram e publicar o post de (re)apresentação.
-5. Calendário das primeiras 4 semanas.
+1. Arrumar o perfil do Instagram (arquivar posts antigos, nome, bio, links com UTM, foto).
+2. Produzir e publicar a primeira fileira (`conteudo/01-grid-inicial.md`).
+3. Buscar os 20 criadores e preencher a planilha (`conteudo/02-prospeccao-criadores.csv`).
+4. Conversa com o André: Mixpanel do zero (`11`), concierge A ou B, `isNewUser` no login Google.
+5. Definir metas numéricas do trimestre.
+6. Calendário das primeiras 4 semanas.

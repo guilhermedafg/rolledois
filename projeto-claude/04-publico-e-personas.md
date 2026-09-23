@@ -10,7 +10,7 @@
 ## Persona 1: o criador de nicho (FOCO)
 [PROPOSTA: validar com conversas reais com 5 criadores]
 
-- **Quem**: pessoa que posta sobre onde comer, beber e tomar café em Curitiba. Micro a médio porte [PREENCHER faixa de seguidores alvo, ex.: 5k–100k].
+- **Quem**: pessoa que posta sobre onde comer, beber e tomar café em Curitiba. Foco inicial: **micro, 5k–50k seguidores** (os grandes entram depois, com prova social).
 - **Referência real**: Gaspa ([@gaspaindica](https://www.instagram.com/gaspaindica/)). Referência pela **autenticidade**: dá dicas genuínas, não parece publi. É esse tipo de criador que queremos: recomendação em que o seguidor confia.
 - **Rotina**: visita lugares, grava Reels e Stories, publica as indicações (já marcando onde é).
 - **O que ele busca** (definido pelo Guilherme):
