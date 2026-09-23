@@ -19,7 +19,7 @@ Todo pilar precisa servir a pelo menos uma dessas duas funções.
 | **gente que faz** | Perfis das pessoas por trás de cafés, restaurantes e bares | Credibilidade + alcance (o negócio reposta/collab) | Carrossel editorial, Reels com entrevista curta | "a ana acorda às 4h pra fazer o pão que você fotografa às 10h. tá no rolle." |
 | **quem indica** | Criadores e suas listas no rolle | Prova social + alcance (collab com criador) | Reels collab, carrossel com a lista | "perguntamos pro @gaspaindica onde ele toma café quando ninguém tá olhando. a lista completa tá no rolle." |
 | **guias rolle** | Listas da casa por vibe, bairro ou ocasião | Mostra o produto em uso; salvamento | Carrossel, Reels | "5 cafés pra trabalhar sem o garçom te olhar torto depois da 2ª hora. tá no rolle." |
-| **a dor** | Humor sobre recomendação perdida, "manda o @", Stories que somem | Mostra a voz; o criador se identifica e compartilha | Reels curto com texto na tela, meme | "você: posta o café. 47 dms: 'onde é?' / para de responder a mesma dm. tá no rolle." |
+| **a dor** | Humor sobre a indicação boa que se perde no meio dos saves, prints e Stories, e aí na hora de decidir você não acha | Mostra a voz; o usuário se identifica e compartilha | Reels curto com texto na tela, meme | "sexta, 19h, você rolando 400 posts salvos atrás daquele bar que alguém indicou. tá no rolle." |
 
 **Bastidores**: não fazer por agora.
 

@@ -12,7 +12,9 @@ O Rolle é onde criadores de conteúdo reúnem os lugares que recomendam em list
     - Stories alcançam, em média, **de 2% a 10% dos seguidores**; quanto maior a conta, menor o alcance (contas de 1k–5k: ~10%; de 100k–1M: ~0,5%). Fonte: Socialinsider, benchmarks de Instagram Stories 2025.
     - Metade de todo o engajamento de um post no Instagram acontece nas **primeiras ~19 horas** (meia-vida de 19,04h em 2025). Fonte: Scott Graffius, "Lifespan (Half-Life) of Social Media Posts".
   - Frases sugeridas: "Mais de 90% dos seus seguidores não veem seus Stories." / "Em menos de 1 dia, seu post já recebeu metade de toda a atenção que vai ter." [PROPOSTA]
-- O seguidor pergunta toda semana "onde é aquele café?", e o criador responde a mesma coisa várias vezes.
+- **Dor do usuário (a principal):** ele quer recomendação de gente em quem confia, mas ela fica perdida no meio de centenas de posts salvos, prints e Stories. Na hora de decidir onde ir, não acha.
+- **Ganho do criador:** mais alcance, mais valor percebido (autoridade, portfólio de curadoria) e coleta de informação [CONFIRMAR o que é "coletar informação": dados sobre o que a audiência salva e quer?].
+- ⚠️ **NÃO usar** a narrativa "seguidor pergunta onde é / manda o @ / DM repetida". Criadores já postam onde é; essa dor não existe (definido pelo Guilherme em 2026-09-23). A landing ainda tem "Seus seguidores perguntam as mesmas coisas toda semana", que precisa ser revisada.
 - Google Maps tem todos os lugares, mas não tem o gosto de ninguém. Linktree tem o link, mas não organiza lugares.
 
 ## O que existe e funciona hoje

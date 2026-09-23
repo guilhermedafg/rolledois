@@ -51,7 +51,7 @@ Aprovado em 2026-09-23. Itens marcados com [PROPOSTA] ainda precisam de aprovaç
 ## Antes → depois (exemplos na direção escolhida) [PROPOSTA: ajustar os textos se quiser]
 **chamada da landing**
 - antes: "Ajude seus seguidores a descobrir onde você vai com um link simples. Reúna seus lugares favoritos em listas e compartilhe com todo mundo!"
-- depois: "sabe aquele 'manda o @ do lugar?' que chega toda semana na sua dm? resolve com um link. junta seus lugares favoritos no rolle e deixa seu seguidor se virar sozinho (com carinho)."
+- depois: [REFAZER: a versão anterior usava a dor errada, "manda o @ do lugar"]
 
 **conteúdo que dura**
 - antes: "Transforme seus conteúdos em ativos permanentes. Com rolle suas recomendações ficam organizadas, acessíveis e sempre atualizadas um link que nunca expira."

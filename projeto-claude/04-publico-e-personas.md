@@ -12,13 +12,14 @@
 
 - **Quem**: pessoa que posta sobre onde comer, beber e tomar café em Curitiba. Micro a médio porte [PREENCHER faixa de seguidores alvo, ex.: 5k–100k].
 - **Referência real**: Gaspa ([@gaspaindica](https://www.instagram.com/gaspaindica/)). Referência pela **autenticidade**: dá dicas genuínas, não parece publi. É esse tipo de criador que queremos: recomendação em que o seguidor confia.
-- **Rotina**: visita lugares, grava Reels e Stories, responde DMs pedindo endereço e "qual o melhor café?".
-- **Dores**:
-  - Recomendação some (Stories de 24h, feed que enterra post).
-  - Responde as mesmas perguntas toda semana.
-  - Não tem um "portfólio" organizado do que já recomendou.
-  - Difícil provar valor para marcas e restaurantes.
-- **O que ganha com o Rolle**: um link com tudo que recomenda, organizado em listas por vibe, bairro e ocasião; menos DM repetida; um acervo que cresce com o tempo.
+- **Rotina**: visita lugares, grava Reels e Stories, publica as indicações (já marcando onde é).
+- **O que ele busca** (definido pelo Guilherme):
+  - **Aumentar o alcance**.
+  - **Aumentar o valor percebido**: autoridade, um portfólio organizado do que indica, algo para mostrar a marcas e restaurantes.
+  - **Coletar informação** [CONFIRMAR: dados sobre o que a audiência salva e quer?].
+- Também: a indicação dele some (Stories de 24h, feed que enterra post).
+- ⚠️ Não é dor dele "responder as mesmas perguntas" ou "manda o @": criadores já postam onde é.
+- **O que ganha com o Rolle**: um link com tudo que recomenda, organizado em listas por vibe, bairro e ocasião; um acervo que cresce com o tempo.
 - **Objeções prováveis**: "mais uma ferramenta pra alimentar", "meu público não vai sair do Instagram", "o que eu ganho com isso?".
 - **Como fala**: [PREENCHER depois das conversas]
 
