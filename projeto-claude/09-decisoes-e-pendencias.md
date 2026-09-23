@@ -22,14 +22,16 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 - 2026-09-23 · A dor é do usuário (indicação de confiança perdida nos saves); criador busca alcance, valor percebido e dados da audiência; nunca usar "manda o @" · Guilherme
 - 2026-09-23 · Perfil: nome "rolle · onde ir", bio C com 2ª linha aberta ("os lugares que as pessoas que você confia indicam."), 2 links com UTM · Guilherme
 - 2026-09-23 · Primeira fileira: reapresentação, guia de cafés, reels da dor (saves) · Guilherme
+- 2026-09-23 · Criadores: começar pelos micro (5k–50k); tática só concierge (sem programa de fundadores); 1º contato pela conta pessoal do Guilherme, onboarding pelo @todorolle · Guilherme
 
 ## Confirmar
 - [ ] Número atual de usuários cadastrados
+- [ ] Lista dos 20 criadores (Guilherme busca, ver `conteudo/02`)
 
 ## Decidir
 - [ ] Substituir os números sem fonte (landing e conteúdo) pelos números com fonte do `02-produto.md`
 - [ ] Metas numéricas do trimestre (criadores, usuários, retenção)
-- [ ] Tática de aquisição de criadores: concierge, criadores fundadores, collabs (ver `06`)
+- [ ] Concierge: transferir listas via backend (André) ou montar junto em chamada de 15 min
 - [ ] Novos eventos no Mixpanel (ver `08`)
 - [ ] Previsão de lançamento da integração por DM
 

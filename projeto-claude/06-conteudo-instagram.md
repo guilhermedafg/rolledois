@@ -59,7 +59,10 @@ Todo pilar precisa servir a pelo menos uma dessas duas funções.
 - **"Rolê de 1 link"**: o roteiro de um dia inteiro (café → almoço → bar) numa lista só.
 - **"Você salvou e nunca foi"**: humor + lista com os lugares que "todo mundo salvou".
 
-## Aquisição de criadores via conteúdo [PROPOSTA — decidir antes de executar]
+## Aquisição de criadores
+**Decidido**: micro (5k–50k), concierge, contato pessoal do Guilherme + onboarding pelo @todorolle. Processo e mensagens em `conteudo/02-prospeccao-criadores.md`.
+
+Ideias anteriores (referência):
 - **Onboarding concierge**: a gente monta o perfil e as primeiras listas do criador no Rolle a partir dos posts dele e entrega pronto. O post de estreia vira collab.
 - **Primeiros 10 criadores fundadores**: selo e destaque no app e no Instagram, acesso antecipado à integração por DM.
 - **Pauta que o criador quer compartilhar**: "Gente que faz" com os lugares que ele já recomenda, marcando os dois (criador + negócio).
