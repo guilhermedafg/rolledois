@@ -23,6 +23,7 @@ Fundação do "braço direito" de estratégia e conteúdo do Rolle.
 | `08-dados-e-metricas.md` | Eventos do Mixpanel, funil, como analisar | Conhecimento |
 | `09-decisoes-e-pendencias.md` | Registro de decisões e perguntas em aberto | Conhecimento (atualizar sempre) |
 | `10-plano-de-analytics.md` | Mixpanel do zero: valor, benchmarks, cases, eventos, relatórios | Conhecimento |
+| `11-guia-implementacao-mixpanel.md` | Onde mexer no código e o que colocar (para o André) | Só para uso; não precisa subir |
 | `conteudo/` | Posts prontos (roteiros, slides, legendas) | Só para uso; não precisa subir |
 
 ## Convenções

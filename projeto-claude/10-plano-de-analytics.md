@@ -72,6 +72,8 @@ Fontes: as próprias páginas de clientes do Mixpanel (é material de marketing,
 
 ## 4. Eventos propostos
 
+> Lista final e onde colocar cada evento no código: `11-guia-implementacao-mixpanel.md`.
+
 ### Propriedades enviadas em todo evento (super properties)
 | propriedade | exemplo | para quê |
 |---|---|---|
