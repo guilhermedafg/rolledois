@@ -16,6 +16,8 @@ Aprovado em 2026-09-23. Itens marcados com [PROPOSTA] ainda precisam de aprovaç
 | Gíria curitibana | **não usar**. Linguagem que qualquer cidade entende |
 | @ e nomes próprios | **também em minúsculas**, exceto quando o próprio @ usa maiúscula |
 | Ato de salvar | **"salvar"** (igual ao app) |
+| Como chamar quem recomenda | **duas camadas**: na aquisição (landing, DM, campanhas para a persona) = **"criador"**; no app e nos posts = **sem rótulo, pelo nome/@ da pessoa** ("a lista do @gaspaindica"). Verbo da casa: **"indicar"** |
+| Bordão | **"tá no rolle."**: fecho padrão de posts e CTA ("a lista completa tá no rolle.") |
 | Conteúdo | Pessoas no centro, com pegada editorial nos **formatos** (perfis, guias, séries). A voz continua de amigo [PROPOSTA] |
 
 ## Referências
@@ -68,8 +70,7 @@ Aprovado em 2026-09-23. Itens marcados com [PROPOSTA] ainda precisam de aprovaç
 - [ ] dá pra cortar 20% das palavras?
 
 ## Decisões de voz em aberto
-- Como chamar quem recomenda no rolle ("curador" descartado: não é usual)
-- Assinatura/bordão da marca.
+- nenhuma no momento.
 
 ## Identidade visual (extraída do produto)
 O manual de marca está desatualizado; a referência visual é o próprio produto.

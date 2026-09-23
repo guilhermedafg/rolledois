@@ -30,9 +30,9 @@ Proporção sugerida para 8 posts/mês: 2 Gente que faz · 2 Quem recomenda · 2
 - **Pauta que o criador quer compartilhar**: "Gente que faz" com os lugares que ele já recomenda, marcando os dois (criador + negócio).
 
 ## Estrutura padrão
-- **Reels**: gancho (0–3s) → contexto → 2–3 pontos concretos → CTA ("a lista completa tá no link da bio").
+- **Reels**: gancho (0–3s) → contexto → 2–3 pontos concretos → CTA com o bordão ("a lista completa tá no rolle.").
 - **Carrossel**: capa com título de revista → uma ideia por slide → último slide com CTA e link.
-- **Legenda**: primeira linha forte, corpo curto, marcação de pessoas e lugares, CTA.
+- **Legenda**: primeira linha forte, corpo curto, marcação de pessoas e lugares, fecho com "tá no rolle." Tudo minúsculo (ver `05`).
 
 ## Métricas de conteúdo
 Salvamentos, compartilhamentos, visitas ao perfil, cliques no link da bio e, no Mixpanel, `first_view` vindo do Instagram. Seguidores é métrica secundária.
