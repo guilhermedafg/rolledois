@@ -23,6 +23,7 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 - 2026-09-23 · Perfil: nome "rolle · onde ir", bio C com 2ª linha aberta ("os lugares que as pessoas que você confia indicam."), 2 links com UTM · Guilherme
 - 2026-09-23 · Primeira fileira: reapresentação, guia de cafés, reels da dor (saves) · Guilherme
 - 2026-09-23 · Criadores: começar pelos micro (5k–50k); tática só concierge (sem programa de fundadores); 1º contato pela conta pessoal do Guilherme, onboarding pelo @todorolle · Guilherme
+- 2026-09-23 · Mixpanel: apagar o tracking antigo e refazer do zero · Guilherme
 
 ## Confirmar
 - [ ] Número atual de usuários cadastrados
@@ -32,7 +33,8 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 - [ ] Substituir os números sem fonte (landing e conteúdo) pelos números com fonte do `02-produto.md`
 - [ ] Metas numéricas do trimestre (criadores, usuários, retenção)
 - [ ] Concierge: transferir listas via backend (André) ou montar junto em chamada de 15 min
-- [ ] Novos eventos no Mixpanel (ver `08`)
+- [ ] Plano de analytics: aprovar eventos, North Star, hipótese de aha, relatório para criadores (ver `10`)
+- [ ] Mandar telas da interface nova (Figma/prints) para mapear os eventos
 - [ ] Previsão de lançamento da integração por DM
 
 ## Próximos passos sugeridos

@@ -1,5 +1,7 @@
 # Rolle — Dados e métricas
 
+> ⚠️ **Tracking atual será apagado** (feito para uma interface que não existe mais). O novo plano de eventos está em `10-plano-de-analytics.md`. A lista abaixo fica só como histórico.
+
 ## Eventos que o app envia ao Mixpanel hoje (extraídos do código)
 | Evento | Quando dispara |
 |---|---|
