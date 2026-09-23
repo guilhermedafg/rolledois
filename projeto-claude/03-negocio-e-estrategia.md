@@ -6,7 +6,7 @@
 - Criadores ativos: **nenhum**.
 - Lugares: muitos (via API do Google Places).
 - Cidade foco: **Curitiba**.
-- Instagram: @todorolle, seguidores [PREENCHER número], com 3 posts antigos (logo antiga) que serão apagados.
+- Instagram: @todorolle, ~50 seguidores (amigos), com 3 posts antigos (logo antiga) que serão apagados.
 
 ## Time
 - **Guilherme**: fundador/CEO. Também produz o conteúdo.
