@@ -27,11 +27,19 @@ Todo pilar precisa servir a pelo menos uma dessas duas funções.
 | Fase | Quando | Mix de 8 posts/mês |
 |---|---|---|
 | **1. sem criadores** | Semanas 1–4 (até entrar o 1º criador) | 3 guias rolle · 3 a dor · 2 gente que faz |
-| **2. com criadores** | Após o 1º criador | "quem indica" vira o pilar principal. Proporção a definir [PROPOSTA: 3 quem indica · 2 guias · 2 gente que faz · 1 a dor] |
+| **2. com criadores** | Após o 1º criador | "quem indica" vira o pilar principal. Proporção: decidir quando chegar lá |
 
-## Série POV com GoPro (ideia do Guilherme) [PROPOSTA — formato em discussão]
-- GoPro no peito, sem fala: abre o rolle, escolhe o lugar, vai e vive a experiência. Só imagem, som ambiente e edição.
-- Pontos em discussão: publicar também como Reels no feed (não só Stories), nome da série, abertura mostrando o app, texto na tela, autorização de imagem no local.
+## Série de Stories "pov: tá no rolle" (aprovada)
+- **O que é**: GoPro no peito, sem fala. Abre o rolle, escolhe o lugar, vai e vive a experiência. Só imagem, som ambiente e edição.
+- **Onde**: **Stories**. Se um episódio ficar muito bom, vira Reels no feed de vez em quando.
+- **Boas práticas** [PROPOSTA]:
+  - Abrir com o celular mostrando a lista no rolle (primeiros 2s).
+  - Texto na tela em vez de fala: nome do lugar, @ e fecho "tá no rolle.".
+  - Som ambiente como trilha (máquina de espresso, chapa, copo).
+  - Marcar o lugar (chance de repost).
+  - GoPro em lente linear e com estabilização ligada.
+  - Pedir autorização para filmar e evitar rosto de clientes em destaque.
+  - Salvar os episódios num destaque fixo do perfil.
 
 ## Ideias de séries [PROPOSTA]
 - **"Quem tá por trás"**: um dono ou uma dona de negócio por semana, com 3 perguntas fixas.
