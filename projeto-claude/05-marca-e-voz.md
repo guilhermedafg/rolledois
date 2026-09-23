@@ -14,7 +14,7 @@ Aprovado em 2026-09-23. Itens marcados com [PROPOSTA] ainda precisam de aprovaç
 | Caixa | **tudo minúsculo**, em todos os canais (redes, app, site, DMs) |
 | Emoji | **pouco, com intenção**: no máximo 1 por texto, só quando acrescenta sentido |
 | Gíria curitibana | **não usar**. Linguagem que qualquer cidade entende |
-| Conteúdo | Pessoas no centro, com pegada editorial nos **formatos** (perfis, guias, séries). A voz continua de amigo |
+| Conteúdo | Pessoas no centro, com pegada editorial nos **formatos** (perfis, guias, séries). A voz continua de amigo [PROPOSTA] |
 
 ## Referências
 | Referência | O que pegar dela [PROPOSTA] |
@@ -26,14 +26,14 @@ Aprovado em 2026-09-23. Itens marcados com [PROPOSTA] ainda precisam de aprovaç
 | **Dekmantel** | Estética e identidade visual fortes, comunidade, cena cultural |
 | **Katsukazan** ([site](https://www.katsukazan.com.br/), [@katsukazan](https://www.instagram.com/katsukazan/)) | Marca curitibana de bolsas e acessórios streetwear feitos à mão, fundada por um casal. **Estética e autenticidade**: marca local com orgulho de Curitiba, feita à mão e com gente por trás |
 
-## Princípios
+## Princípios [PROPOSTA]
 1. **amigo, não guia turístico.** fala com uma pessoa, não com "o público".
 2. **a piada é com a gente ou com a situação**, tipo "aquele post salvo que você nunca mais achou". nunca com o lugar, com quem trabalha lá ou com o seguidor.
 3. **ironia com utilidade.** a graça abre, a informação fecha: todo texto termina com a pessoa sabendo o que fazer ou para onde ir.
 4. **pessoas primeiro.** nome, história, detalhe específico. o lugar é consequência de quem faz.
 5. **curto.** se dá pra dizer em menos palavras, diz.
 
-## Faz / não faz
+## Faz / não faz [PROPOSTA]
 | faz | não faz |
 |---|---|
 | frase curta, ritmo de conversa | jargão de startup ("solução", "plataforma", "ativos") |
@@ -44,7 +44,7 @@ Aprovado em 2026-09-23. Itens marcados com [PROPOSTA] ainda precisam de aprovaç
 | no máximo 1 emoji | emoji como enfeite |
 | — | gíria regional; falar mal de preço, delivery ou atendimento [CONFIRMAR se essa regra das descrições do app vale para a marca] |
 
-## Antes → depois (textos aprovados como referência)
+## Antes → depois (exemplos na direção escolhida) [PROPOSTA: ajustar os textos se quiser]
 **chamada da landing**
 - antes: "Ajude seus seguidores a descobrir onde você vai com um link simples. Reúna seus lugares favoritos em listas e compartilhe com todo mundo!"
 - depois: "sabe aquele 'manda o @ do lugar?' que chega toda semana na sua dm? resolve com um link. junta seus lugares favoritos no rolle e deixa seu seguidor se virar sozinho (com carinho)."
