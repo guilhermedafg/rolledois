@@ -85,7 +85,7 @@ Fontes: as próprias páginas de clientes do Mixpanel (é material de marketing,
 ### Aquisição e cadastro
 | evento | quando | propriedades principais |
 |---|---|---|
-| `page_viewed` | toda página (automático do Mixpanel) | `page_type` (home, perfil, lista, lugar, busca) |
+| `page_viewed` | toda página (disparado no layout raiz) | `page_type` (home, perfil, lista, lugar, busca) |
 | `signed_up` | criou conta | `method` (email/google), `entry_creator` |
 | `logged_in` | fez login | `method` |
 
