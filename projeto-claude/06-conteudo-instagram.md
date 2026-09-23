@@ -11,11 +11,10 @@
 - **Bio**:
   ```
   aquele post que você salvou e nunca mais achou? tá aqui.
-  cafés, bares e restaurantes de curitiba, por quem indica.
+  os lugares que as pessoas que você confia indicam.
   ```
-  [CONFIRMAR: a 2ª linha cita "cafés, bares e restaurantes" e "curitiba"; ajustar se quiser manter aberto como no nome]
 - **Links (2, com UTM)**: "pra criadores" → `rolle.com.br/landing?utm_source=instagram&utm_medium=bio&utm_campaign=criadores` · "achar um lugar" → `rolle.com.br/?utm_source=instagram&utm_medium=bio&utm_campaign=usuarios`
-- **Foto**: logo atual sobre roxo `#A524FF` [PREENCHER: arquivo do logo]
+- **Foto**: logo atual sobre roxo `#A524FF`
 - **Destaques**: começar só com "pov" quando houver o 1º episódio.
 - **Primeira fileira fixada**: ver `conteudo/01-grid-inicial.md`.
 - Objetivo do conteúdo neste trimestre: **atrair e ativar criadores**, e mostrar o rolle como a casa da boa recomendação em Curitiba.
