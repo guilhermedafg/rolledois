@@ -60,7 +60,7 @@ Conta pessoal = voz do Guilherme (não precisa seguir as regras de minúsculas d
 oi, [nome]! sou o guilherme, um dos fundadores do rolle, aqui de curitiba.
 acompanho tuas indicações faz um tempo, e aquela do [lugar/post específico] me fez ir lá.
 
-o rolle junta num link tudo que alguém indica, em listas e no mapa, pra quem te segue achar teus lugares depois que o post sai do feed. e você começa a ver o que tua audiência salva.
+o rolle junta num link tudo que alguém indica, em listas e no mapa, pra quem te segue achar teus lugares depois que o post sai do feed. e, em breve, você vai poder ver o que tua audiência salva.
 
 queria montar teu perfil lá pra você, com as listas a partir do que você já postou, e te entregar pronto. sem custo, sem compromisso.
 topa dar uma olhada?
