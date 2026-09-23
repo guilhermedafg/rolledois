@@ -14,6 +14,9 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 - 2026-09-23 · Nomes próprios e @ em minúsculas; o ato é "salvar"; "curador" descartado · Guilherme
 - 2026-09-23 · Quem recomenda: "criador" na aquisição; nome/@ da pessoa no app e nos posts; verbo "indicar" · Guilherme
 - 2026-09-23 · Bordão: "tá no rolle." · Guilherme
+- 2026-09-23 · Pilares do feed: gente que faz, quem indica, guias rolle, a dor; bastidores não por agora · Guilherme
+- 2026-09-23 · Cadência: 2 posts/semana no feed · Guilherme
+- 2026-09-23 · Conteúdo em fases: "quem indica" só após o 1º criador · Guilherme
 
 ## Confirmar
 - [ ] Número atual de usuários cadastrados
@@ -21,7 +24,7 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 ## Decidir
 - [ ] Substituir os números sem fonte (landing e conteúdo) pelos números com fonte do `02-produto.md`
 - [ ] Metas numéricas do trimestre (criadores, usuários, retenção)
-- [ ] Pilares e proporção de conteúdo (ver `06`)
+- [ ] Proporção da fase 2 e formato da série POV com GoPro (ver `06`)
 - [ ] Tática de aquisição de criadores: concierge, criadores fundadores, collabs (ver `06`)
 - [ ] Novos eventos no Mixpanel (ver `08`)
 - [ ] Previsão de lançamento da integração por DM

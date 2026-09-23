@@ -1,22 +1,37 @@
 # Rolle — Conteúdo no Instagram
 
 ## Premissas
-- Canal único por enquanto: **Instagram** (@todorolle).
-- Quem produz: **Guilherme**. Ferramentas: qualquer uma (Canva, CapCut etc.).
-- Cadência realista: **1 a 2 posts por semana**. Consistência vale mais que volume.
+- Canal único por enquanto: **Instagram** (@todorolle), ~50 seguidores.
+- Quem produz: **Guilherme**. Ferramentas: qualquer uma (Canva, CapCut, GoPro etc.).
+- Cadência: **2 posts por semana no feed** (8/mês).
 - Antes de começar: apagar os 3 posts antigos com logo antiga e atualizar bio, foto e link.
-- Objetivo do conteúdo neste trimestre: **atrair e ativar criadores**, e mostrar o Rolle como a casa da boa recomendação em Curitiba.
+- Objetivo do conteúdo neste trimestre: **atrair e ativar criadores**, e mostrar o rolle como a casa da boa recomendação em Curitiba.
 
-## Pilares [PROPOSTA]
-| Pilar | O que é | Por que existe | Formato típico |
-|---|---|---|---|
-| **1. Gente que faz** | Perfis das pessoas por trás de cafés, restaurantes e bares de Curitiba | Pessoas no centro, tom editorial, gera compartilhamento do próprio negócio | Carrossel de "matéria de revista", Reels com entrevista curta |
-| **2. Quem recomenda** | Criadores e suas listas no Rolle ("a lista do Gaspa") | Traz criadores para dentro: vitrine e prova social | Reels colab, carrossel com a lista |
-| **3. Guias Rolle** | Curadorias da casa por vibe, bairro ou ocasião (ex.: "café pra trabalhar no Batel") | Utilidade, salvamento, mostra o produto em uso | Carrossel, com link da lista no Rolle |
-| **4. A dor da recomendação** | Humor sobre post salvo perdido, "manda o @ do lugar", Stories que somem | Tom Enjoei, identificação, explica o porquê do Rolle sem vender | Reels curto, meme, texto na tela |
-| **5. Bastidores do Rolle** | Construindo a startup em Curitiba, decisões, lançamentos | Humaniza, atrai criadores e investidores | Stories, Reels falando pra câmera |
+## Papel do Instagram nesta fase
+Com ~50 seguidores, o alcance orgânico não chega sozinho aos criadores. O perfil serve para duas coisas:
+1. **Credibilidade**: quando um criador recebe nossa DM, ele abre o perfil. O perfil precisa convencer em 10 segundos.
+2. **Alcance emprestado**: collabs com criadores e negócios aparecem para a audiência deles.
+Todo pilar precisa servir a pelo menos uma dessas duas funções.
 
-Proporção sugerida para 8 posts/mês: 2 Gente que faz · 2 Quem recomenda · 2 Guias · 1 Dor · 1 Bastidores. [PROPOSTA]
+## Pilares do feed (aprovados)
+| Pilar | O que é | Função | Formato típico | Exemplo na voz |
+|---|---|---|---|---|
+| **gente que faz** | Perfis das pessoas por trás de cafés, restaurantes e bares | Credibilidade + alcance (o negócio reposta/collab) | Carrossel editorial, Reels com entrevista curta | "a ana acorda às 4h pra fazer o pão que você fotografa às 10h. tá no rolle." |
+| **quem indica** | Criadores e suas listas no rolle | Prova social + alcance (collab com criador) | Reels collab, carrossel com a lista | "perguntamos pro @gaspaindica onde ele toma café quando ninguém tá olhando. a lista completa tá no rolle." |
+| **guias rolle** | Listas da casa por vibe, bairro ou ocasião | Mostra o produto em uso; salvamento | Carrossel, Reels | "5 cafés pra trabalhar sem o garçom te olhar torto depois da 2ª hora. tá no rolle." |
+| **a dor** | Humor sobre recomendação perdida, "manda o @", Stories que somem | Mostra a voz; o criador se identifica e compartilha | Reels curto com texto na tela, meme | "você: posta o café. 47 dms: 'onde é?' / para de responder a mesma dm. tá no rolle." |
+
+**Bastidores**: não fazer por agora.
+
+## Fases (aprovado)
+| Fase | Quando | Mix de 8 posts/mês |
+|---|---|---|
+| **1. sem criadores** | Semanas 1–4 (até entrar o 1º criador) | 3 guias rolle · 3 a dor · 2 gente que faz |
+| **2. com criadores** | Após o 1º criador | "quem indica" vira o pilar principal. Proporção a definir [PROPOSTA: 3 quem indica · 2 guias · 2 gente que faz · 1 a dor] |
+
+## Série POV com GoPro (ideia do Guilherme) [PROPOSTA — formato em discussão]
+- GoPro no peito, sem fala: abre o rolle, escolhe o lugar, vai e vive a experiência. Só imagem, som ambiente e edição.
+- Pontos em discussão: publicar também como Reels no feed (não só Stories), nome da série, abertura mostrando o app, texto na tela, autorização de imagem no local.
 
 ## Ideias de séries [PROPOSTA]
 - **"Quem tá por trás"**: um dono ou uma dona de negócio por semana, com 3 perguntas fixas.
