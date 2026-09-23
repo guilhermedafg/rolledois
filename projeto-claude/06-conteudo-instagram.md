@@ -1,7 +1,7 @@
 # Rolle — Conteúdo no Instagram
 
 ## Premissas
-- Canal único por enquanto: **Instagram** (@tudorole [CONFIRMAR]).
+- Canal único por enquanto: **Instagram** (@todorolle).
 - Quem produz: **Guilherme**. Ferramentas: qualquer uma (Canva, CapCut etc.).
 - Cadência realista: **1 a 2 posts por semana**. Consistência vale mais que volume.
 - Antes de começar: apagar os 3 posts antigos com logo antiga e atualizar bio, foto e link.

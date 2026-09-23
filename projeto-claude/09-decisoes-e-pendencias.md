@@ -11,15 +11,12 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 - 2026-09-23 · Forma de trabalho com o Claude: perguntar antes de decidir; respostas meio-termo · Guilherme
 
 ## Confirmar
-- [ ] Grafia exata do Instagram (@tudorole?)
-- [ ] Cargo do André e divisão de responsabilidades
-- [ ] Gaspa: @ e o que o torna referência
-- [ ] "katzukazan": nome correto e link
 - [ ] Touristopia: o que te atrai nela
-- [ ] Fonte dos números da landing (70% Stories / 85% posts)
+- [ ] Katsukazan: o que te atrai (estética, foto, tom?)
 - [ ] Número atual de seguidores e de usuários cadastrados
 
 ## Decidir
+- [ ] Substituir os números sem fonte (landing e conteúdo) pelos números com fonte do `02-produto.md`
 - [ ] Metas numéricas do trimestre (criadores, usuários, retenção)
 - [ ] Decisões de voz em aberto (ver `05-marca-e-voz.md`)
 - [ ] Pilares e proporção de conteúdo (ver `06`)

@@ -15,7 +15,7 @@ Esta é uma primeira versão para a gente construir junto. Tudo marcado com [PRO
 | **Touristopia** (touristopia.com) | Olhar de guia e curadoria de cidade [CONFIRMAR o que te atrai nela] |
 | **Time Out** | Autoridade editorial em "o que fazer na cidade", listas, rankings, guias por bairro e ocasião |
 | **Dekmantel** | Estética e identidade visual fortes, comunidade, cena cultural |
-| **katzukazan** | [CONFIRMAR nome e @ / link e o que te atrai] |
+| **Katsukazan** ([site](https://www.katsukazan.com.br/), [@katsukazan](https://www.instagram.com/katsukazan/)) | Marca curitibana de bolsas e acessórios streetwear feitos à mão, fundada por um casal. Referência de marca local com orgulho de Curitiba, feito à mão e gente por trás. [CONFIRMAR o que mais te atrai: estética, fotografia, tom?] |
 
 ## Princípios de voz [PROPOSTA]
 1. **Amigo que conhece Curitiba inteira**, não guia turístico nem influenciador.

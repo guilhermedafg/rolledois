@@ -6,7 +6,12 @@ Fonte: código do repositório (setembro/2026) + conversa com o fundador.
 O Rolle é onde criadores de conteúdo reúnem os lugares que recomendam em listas e perfis permanentes, compartilháveis por um link, e onde os seguidores decidem rápido para onde ir com base em quem eles confiam.
 
 ## Problema que resolve
-- Recomendação de lugar hoje vive em Stories (somem em 24h) e posts (se perdem no feed). Na landing usamos: "70% dos Stories desaparecem sem serem vistos" e "85% dos posts não são encontrados após 48h". [CONFIRMAR fonte desses números antes de usar em conteúdo]
+- Recomendação de lugar hoje vive em Stories (somem em 24h) e posts (se perdem no feed). 
+  - **Não usar** os números atuais da landing ("70% dos Stories desaparecem sem serem vistos", "85% dos posts não são encontrados após 48h"): não têm fonte encontrada.
+  - **Números com fonte (usar estes)**:
+    - Stories alcançam, em média, **de 2% a 10% dos seguidores**; quanto maior a conta, menor o alcance (contas de 1k–5k: ~10%; de 100k–1M: ~0,5%). Fonte: Socialinsider, benchmarks de Instagram Stories 2025.
+    - Metade de todo o engajamento de um post no Instagram acontece nas **primeiras ~19 horas** (meia-vida de 19,04h em 2025). Fonte: Scott Graffius, "Lifespan (Half-Life) of Social Media Posts".
+  - Frases sugeridas: "Mais de 90% dos seus seguidores não veem seus Stories." / "Em menos de 1 dia, seu post já recebeu metade de toda a atenção que vai ter." [PROPOSTA]
 - O seguidor pergunta toda semana "onde é aquele café?", e o criador responde a mesma coisa várias vezes.
 - Google Maps tem todos os lugares, mas não tem o gosto de ninguém. Linktree tem o link, mas não organiza lugares.
 
@@ -33,4 +38,4 @@ O Rolle é onde criadores de conteúdo reúnem os lugares que recomendam em list
 
 ## Links e canais
 - Site: rolle.com.br
-- Instagram: @tudorole [CONFIRMAR grafia exata do @]
+- Instagram: [@todorolle](https://www.instagram.com/todorolle/)
