@@ -22,6 +22,7 @@ Fundação do "braço direito" de estratégia e conteúdo do Rolle.
 | `07-modelos-de-pedido.md` | Pedidos prontos pra reaproveitar | Conhecimento (e pra você copiar) |
 | `08-dados-e-metricas.md` | Eventos do Mixpanel, funil, como analisar | Conhecimento |
 | `09-decisoes-e-pendencias.md` | Registro de decisões e perguntas em aberto | Conhecimento (atualizar sempre) |
+| `conteudo/` | Posts prontos (roteiros, slides, legendas) | Só para uso; não precisa subir |
 
 ## Convenções
 

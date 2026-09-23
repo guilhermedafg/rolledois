@@ -29,6 +29,12 @@ Para acompanhar a meta de criadores e montar a história para investidores, falt
 - Propriedades de origem: UTM e referrer (ex.: veio do link na bio de qual criador)
 - Propriedade `is_creator` no usuário
 
+## Alcance na ponta (para o criador)
+O criador quer saber o que acontece depois do save para vender collabs e serviços. Hoje:
+- **Temos (proxies de intenção)**: `bookmark`, `click_venue_directions`, `click_venue_website`, `click_venue_socials`, `click_venue_share`, e o "já fui" (sem evento no Mixpanel ainda).
+- **Não temos**: ação final, como reserva, visita confirmada ou compra. Caminhos possíveis [PROPOSTA]: integrar reservas, check-in/"já fui" incentivado, cupom rastreável por criador.
+- Para atribuir ao criador, cada evento precisa carregar **de qual criador/lista o usuário veio**.
+
 ## Funil do criador [PROPOSTA]
 Convidado → cadastrou → criou 1ª lista → adicionou ≥5 lugares → compartilhou link → recebeu visitas → voltou na semana seguinte.
 

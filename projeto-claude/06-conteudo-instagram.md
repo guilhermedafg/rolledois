@@ -4,7 +4,20 @@
 - Canal único por enquanto: **Instagram** (@todorolle), ~50 seguidores.
 - Quem produz: **Guilherme**. Ferramentas: qualquer uma (Canva, CapCut, GoPro etc.).
 - Cadência: **2 posts por semana no feed** (8/mês).
-- Antes de começar: apagar os 3 posts antigos com logo antiga e atualizar bio, foto e link.
+- Antes de começar: arquivar os 3 posts antigos com logo antiga.
+
+## Perfil (aprovado)
+- **Nome**: `rolle · onde ir` (sem fechar nicho nem cidade).
+- **Bio**:
+  ```
+  aquele post que você salvou e nunca mais achou? tá aqui.
+  cafés, bares e restaurantes de curitiba, por quem indica.
+  ```
+  [CONFIRMAR: a 2ª linha cita "cafés, bares e restaurantes" e "curitiba"; ajustar se quiser manter aberto como no nome]
+- **Links (2, com UTM)**: "pra criadores" → `rolle.com.br/landing?utm_source=instagram&utm_medium=bio&utm_campaign=criadores` · "achar um lugar" → `rolle.com.br/?utm_source=instagram&utm_medium=bio&utm_campaign=usuarios`
+- **Foto**: logo atual sobre roxo `#A524FF` [PREENCHER: arquivo do logo]
+- **Destaques**: começar só com "pov" quando houver o 1º episódio.
+- **Primeira fileira fixada**: ver `conteudo/01-grid-inicial.md`.
 - Objetivo do conteúdo neste trimestre: **atrair e ativar criadores**, e mostrar o rolle como a casa da boa recomendação em Curitiba.
 
 ## Papel do Instagram nesta fase

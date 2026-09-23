@@ -19,6 +19,9 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 - 2026-09-23 · Conteúdo em fases: "quem indica" só após o 1º criador · Guilherme
 - 2026-09-23 · Série de Stories "pov: tá no rolle" (GoPro, sem fala); vira Reels só quando ficar muito boa · Guilherme
 - 2026-09-23 · Proporção da fase 2: decidir quando entrar o 1º criador · Guilherme
+- 2026-09-23 · A dor é do usuário (indicação de confiança perdida nos saves); criador busca alcance, valor percebido e dados da audiência; nunca usar "manda o @" · Guilherme
+- 2026-09-23 · Perfil: nome "rolle · onde ir", bio C, 2 links com UTM · Guilherme
+- 2026-09-23 · Primeira fileira: reapresentação, guia de cafés, reels da dor (saves) · Guilherme
 
 ## Confirmar
 - [ ] Número atual de usuários cadastrados
