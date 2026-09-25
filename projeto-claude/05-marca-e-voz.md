@@ -55,7 +55,7 @@ Aprovado em 2026-09-23. Itens marcados com [PROPOSTA] ainda precisam de aprovaç
 
 **conteúdo que dura**
 - antes: "Transforme seus conteúdos em ativos permanentes. Com rolle suas recomendações ficam organizadas, acessíveis e sempre atualizadas um link que nunca expira."
-- depois: "seu story sobre aquele café incrível durou 24h. no rolle ele fica pra sempre (ou até o café fechar, aí não é com a gente)."
+- depois: "seu story sobre aquele café durou 24h. no rolle ele fica (ou até o café fechar, aí não é com a gente)."
 
 **erro na dm**
 - antes: "Não conseguimos extrair nenhum local do post que foi enviado :( Provavelmente o @ ou nome do lugar não se encontra na legenda."
@@ -68,6 +68,7 @@ Aprovado em 2026-09-23. Itens marcados com [PROPOSTA] ainda precisam de aprovaç
 - [ ] tem um detalhe específico (nome, história, prato)?
 - [ ] a pessoa sabe o que fazer ou para onde ir no final?
 - [ ] dá pra cortar 20% das palavras?
+- [ ] promete só o que já existe no produto hoje?
 
 ## Decisões de voz em aberto
 - nenhuma no momento.

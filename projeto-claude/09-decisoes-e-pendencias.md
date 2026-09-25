@@ -20,10 +20,14 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 - 2026-09-23 · Série de Stories "pov: tá no rolle" (GoPro, sem fala); vira Reels só quando ficar muito boa · Guilherme
 - 2026-09-23 · Proporção da fase 2: decidir quando entrar o 1º criador · Guilherme
 - 2026-09-23 · A dor é do usuário (indicação de confiança perdida nos saves); criador busca alcance, valor percebido e dados da audiência; nunca usar "manda o @" · Guilherme
-- 2026-09-23 · Perfil: nome "rolle · onde ir", bio C com 2ª linha aberta ("os lugares que as pessoas que você confia indicam."), 2 links com UTM · Guilherme
+- 2026-09-23 · ~~Perfil: nome "rolle · onde ir", bio C com 2ª linha aberta ("os lugares que as pessoas que você confia indicam."), 2 links com UTM~~ · Guilherme · **bio e links substituídos em 25/09** (o nome continua)
 - 2026-09-23 · Primeira fileira: reapresentação, guia de cafés, reels da dor (saves) · Guilherme
 - 2026-09-23 · Criadores: começar pelos micro (5k–50k); tática só concierge (sem programa de fundadores); 1º contato pela conta pessoal do Guilherme, onboarding pelo @todorolle · Guilherme
 - 2026-09-23 · Mixpanel: apagar o tracking antigo e refazer do zero · Guilherme
+- 2026-09-25 · Bio (fase 1) fala com o criador: "seu story dura 24h. sua lista no rolle, não. / 👇 você indica lugar? monta a sua aqui." · na fase 1 quem visita o perfil é o criador que recebeu DM; revisar quando entrar o 1º criador · Guilherme
+- 2026-09-25 · Links da bio via bit.ly (bit.ly/criadoresrolle + 1 outro), com UTM no destino, até o André criar os redirects rolle.com.br/criadores e rolle.com.br/ig · /criadores ainda não existe; a landing hoje é /landing · Guilherme
+- 2026-09-25 · Regra 3: nenhum conteúdo sugere "seu post salvo tá aqui" até a integração por DM ser lançada; a linha fica guardada para o lançamento · essa dor só é resolvida pela integração, que não está no ar · Guilherme
+- 2026-09-25 · Grid inicial usa o perfil/listas do próprio rolle na fase 1 · ainda não há criadores no app · Guilherme
 
 ## Confirmar
 - [ ] Número atual de usuários cadastrados
@@ -36,9 +40,15 @@ Atualize este arquivo sempre que algo for decidido. Formato: data · decisão ·
 - [ ] Plano de analytics: aprovar eventos, North Star, hipótese de aha, relatório para criadores (ver `10`)
 - [ ] Mandar telas da interface nova (Figma/prints) para mapear os eventos
 - [ ] Previsão de lançamento da integração por DM
+- [ ] Mix da fase 1: como o feed fala com o criador. Opções: A) virar o pilar "a dor" para o lado do criador (story que some); B) manter a dor do usuário e trocar o fecho para "a lista de quem entende tá no rolle."; C) criar pilar "pra quem indica" 1x/mês
+- [ ] Revisar a bio quando entrar o 1º criador (fase 2)
+- [ ] André: redirects /criadores e /ig com UTM
+- [ ] Revisar `conteudo/01-grid-inicial.md` com a regra 3
+- [ ] Revisar os textos da /landing (ainda tem a dor descartada "seus seguidores perguntam as mesmas coisas" e os números sem fonte 70%/85%); a bio passa a mandar criadores pra lá
+- [ ] Bio diz "monta a sua aqui" (autosserviço) e a DM oferece concierge (a gente monta): manter os dois caminhos, conforme decidido em 25/09; observar se confunde
 
 ## Próximos passos sugeridos
-1. Arrumar o perfil do Instagram (arquivar posts antigos, nome, bio, links com UTM, foto).
+1. Arrumar o perfil do Instagram: ✅ nome, ✅ bio, ✅ links (25/09) · arquivar posts antigos e foto: conferir.
 2. Produzir e publicar a primeira fileira (`conteudo/01-grid-inicial.md`).
 3. Buscar os 20 criadores e preencher a planilha (`conteudo/02-prospeccao-criadores.csv`).
 4. Conversa com o André: Mixpanel do zero (`11`), concierge A ou B, `isNewUser` no login Google.

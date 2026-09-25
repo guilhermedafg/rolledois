@@ -8,12 +8,15 @@
 
 ## Perfil (aprovado)
 - **Nome**: `rolle · onde ir` (sem fechar nicho nem cidade).
-- **Bio**:
+- **Bio (fase 1, desde 25/09; revisar na fase 2)**: fala com o **criador**, porque na fase 1 quem visita o perfil é o criador que recebeu DM.
   ```
-  aquele post que você salvou e nunca mais achou? tá aqui.
-  os lugares que as pessoas que você confia indicam.
+  seu story dura 24h. sua lista no rolle, não.
+  👇 você indica lugar? monta a sua aqui.
   ```
-- **Links (2, com UTM)**: "pra criadores" → `rolle.com.br/landing?utm_source=instagram&utm_medium=bio&utm_campaign=criadores` · "achar um lugar" → `rolle.com.br/?utm_source=instagram&utm_medium=bio&utm_campaign=usuarios`
+  A bio anterior ("aquele post que você salvou e nunca mais achou? tá aqui.") foi retirada pela regra 3 e fica guardada para o lançamento da integração por DM.
+- **Links**:
+  - **Agora (bit.ly)**: `bit.ly/criadoresrolle` + 1 outro, com UTM no destino. Destino atual para criadores: `rolle.com.br/landing?utm_source=instagram&utm_medium=bio&utm_campaign=criadores` (`/criadores` ainda não existe).
+  - **Depois (redirect do André)**: `rolle.com.br/criadores` e `rolle.com.br/ig`, com a UTM escondida no redirect.
 - **Foto**: logo atual sobre roxo `#A524FF`
 - **Destaques**: começar só com "pov" quando houver o 1º episódio.
 - **Primeira fileira fixada**: ver `conteudo/01-grid-inicial.md`.
@@ -31,7 +34,7 @@ Todo pilar precisa servir a pelo menos uma dessas duas funções.
 | **gente que faz** | Perfis das pessoas por trás de cafés, restaurantes e bares | Credibilidade + alcance (o negócio reposta/collab) | Carrossel editorial, Reels com entrevista curta | "a ana acorda às 4h pra fazer o pão que você fotografa às 10h. tá no rolle." |
 | **quem indica** | Criadores e suas listas no rolle | Prova social + alcance (collab com criador) | Reels collab, carrossel com a lista | "perguntamos pro @gaspaindica onde ele toma café quando ninguém tá olhando. a lista completa tá no rolle." |
 | **guias rolle** | Listas da casa por vibe, bairro ou ocasião | Mostra o produto em uso; salvamento | Carrossel, Reels | "5 cafés pra trabalhar sem o garçom te olhar torto depois da 2ª hora. tá no rolle." |
-| **a dor** | Humor sobre a indicação boa que se perde no meio dos saves, prints e Stories, e aí na hora de decidir você não acha | Mostra a voz; o usuário se identifica e compartilha | Reels curto com texto na tela, meme | "sexta, 19h, você rolando 400 posts salvos atrás daquele bar que alguém indicou. tá no rolle." |
+| **a dor** | Humor sobre a indicação boa que se perde no meio dos saves, prints e Stories, e aí na hora de decidir você não acha | Mostra a voz; o usuário se identifica e compartilha | Reels curto com texto na tela, meme | "sexta, 19h, você rolando 400 posts salvos atrás daquele bar que alguém indicou. tá no rolle." ⚠️ **Revisar (regra 3)**: pode soar como promessa da integração por DM. |
 
 **Bastidores**: não fazer por agora.
 

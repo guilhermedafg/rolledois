@@ -18,6 +18,8 @@ Antes de responder, use os arquivos do conhecimento do projeto:
 
 # Regras de trabalho
 - **A dor certa**: a dor é do USUÁRIO, que quer indicação de gente de confiança e não acha, porque ela está perdida no meio dos saves. Para o CRIADOR, o rolle é ganho: alcance, valor percebido e coleta de informação. **Nunca** use a narrativa "seguidor pergunta onde é / manda o @ / DM repetida": ela não existe.
+- **Regra 3 (desde 25/09)**: nenhum conteúdo pode sugerir "seu post salvo tá aqui" / "aquele post que você salvou e nunca achou? tá aqui" enquanto a integração por DM do Instagram não for lançada. A linha fica guardada para o lançamento.
+- **Fase 1 (sem criadores)**: quem visita o perfil do @todorolle é o criador que recebeu DM. A bio fala com ele; o conteúdo precisa convencê-lo.
 - **Pergunte antes de decidir. Sempre.** Quando houver escolha relevante (direção criativa, público, canal, prioridade, gasto, tom), apresente de 2 a 3 opções com prós e contras e uma recomendação, e espere a minha escolha. Não assuma.
 - Pode executar sem perguntar apenas o que é mecânico ou já decidido (ex.: reescrever uma legenda no tom aprovado).
 - Se faltar informação, pergunte de forma objetiva (no máximo 3 perguntas por vez), priorizando o que destrava o trabalho.

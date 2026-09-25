@@ -4,6 +4,9 @@ Ordem de publicação: 1 → 2 → 3, dois por semana. Depois fixe os 3 no topo 
 
 Tudo minúsculo, no máximo 1 emoji por texto, fecho "tá no rolle."
 
+> ⚠️ **Revisão de 25/09 (regra 3)**: nenhum conteúdo pode sugerir "seu post salvo tá aqui" enquanto a integração por DM não for lançada. Os trechos que conflitam estão marcados com **⚠️ regra 3** abaixo, com sugestão de ajuste. Ainda **não reescritos**: a revisão é pendência no `09`.
+> Na fase 1, os prints e gravações usam o **perfil e as listas do próprio rolle** (decidido em 25/09).
+
 ---
 
 ## post 1 · reapresentação (carrossel, 6 slides)
@@ -12,10 +15,10 @@ Tudo minúsculo, no máximo 1 emoji por texto, fecho "tá no rolle."
 
 | slide | texto na tela | visual sugerido |
 |---|---|---|
-| 1 (capa) | **quantos posts de lugar você tem salvos?** <br> (não conta. dá vergonha.) | print desfocado de uma grade infinita de posts salvos. fundo roxo `#A524FF` |
+| 1 (capa) ⚠️ regra 3 | **quantos posts de lugar você tem salvos?** <br> (não conta. dá vergonha.) | print desfocado de uma grade infinita de posts salvos. fundo roxo `#A524FF` |
 | 2 | alguém que você confia indicou um café. você salvou. | foto de café, estilo foto de celular, nada de banco de imagem |
 | 3 | depois um bar. um restaurante. aquele lugar novo. salvou, salvou, salvou. | colagem de 3 ou 4 fotos pequenas empilhadas |
-| 4 | aí chega sexta e você não acha nada. | a mesma grade de saves, agora em preto e branco |
+| 4 ⚠️ regra 3 | aí chega sexta e você não acha nada. | a mesma grade de saves, agora em preto e branco |
 | 5 | **o rolle junta as indicações de quem você confia num lugar só.** <br> por pessoa, por lista, no mapa. | print do app: perfil ou lista com mapa |
 | 6 | **tá no rolle.** <br> link na bio. | logo + @todorolle |
 
@@ -27,6 +30,9 @@ o rolle junta num lugar só os lugares que as pessoas que você confia indicam. 
 
 tá no rolle. link na bio.
 ```
+
+**⚠️ regra 3 · o que conflita no post 1:** a sequência capa → slides 2–4 → slide 5 conta "seus saves se perdem → o rolle junta". Sem a integração, dá a entender que o rolle resolve os posts já salvos no instagram. O mesmo vale para a 1ª linha da legenda ("400 posts salvos").
+**Sugestão de ajuste:** manter a estrutura, mas mudar o problema de "saves perdidos" para "indicação que some" (story de 24h, feed que enterra), que é o argumento da bio. Exemplo de capa: "aquela indicação boa durou 24h." O slide 5 mostra uma lista do rolle, não os saves da pessoa.
 
 ---
 
@@ -56,7 +62,7 @@ Obs.: a última linha é ironia com o próprio "salvar": zoa o hábito, não a p
 
 ---
 
-## post 3 · a dor (reels, ~12–15s)
+## post 3 · a dor (reels, ~12–15s) ⚠️ regra 3
 
 **objetivo:** identificação imediata. a pessoa se reconhece e compartilha.
 
@@ -80,11 +86,17 @@ no rolle, as indicações de quem você confia ficam num lugar só. por pessoa, 
 tá no rolle.
 ```
 
+**⚠️ regra 3 · o que conflita no post 3:** o reels inteiro mostra a pessoa procurando nos **saves do instagram** e cortando para o rolle, que acha o lugar. É exatamente a promessa da integração por DM. A legenda também ("perdido no meio dos saves").
+**Sugestão de ajuste (escolher uma):**
+- **guardar este reels para o lançamento da integração**: é o vídeo perfeito para esse dia.
+- **trocar o que a pessoa procura**: em vez dos saves, rolar **stories e destaques** de alguém atrás de uma indicação antiga, e cortar para a lista dele no rolle (na fase 1, a lista do rolle).
+
 ---
 
 ## checklist antes de postar
 - [ ] tudo minúsculo? no máximo 1 emoji?
 - [ ] nenhum "manda o @" ou "dm repetida"?
+- [ ] nada sugere "seu post salvo tá aqui" (regra 3)?
 - [ ] lugares marcados?
 - [ ] fotos de terceiros com crédito/autorização?
 - [ ] link da bio com UTM já no ar?

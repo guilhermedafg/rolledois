@@ -18,7 +18,7 @@
   - **Aumentar o valor percebido**: autoridade, um portfólio organizado do que indica, algo para mostrar a marcas e restaurantes.
   - **Coletar informação**: dados mais granulares da própria audiência, para vender serviços e collabs com marcas e entender o **alcance na ponta** (o que acontece depois do save).
   - Hoje o rolle mede intenção (`bookmark`, `click_venue_directions`, `click_venue_website`, `click_venue_socials`), mas **não** mede a ação final (reserva, visita). Ver `08`.
-- Também: a indicação dele some (Stories de 24h, feed que enterra post).
+  - **Que a indicação dele dure**: hoje ela some (Stories de 24h, feed que enterra post). É o argumento central da bio da fase 1.
 - ⚠️ Não é dor dele "responder as mesmas perguntas" ou "manda o @": criadores já postam onde é.
 - **O que ganha com o Rolle**: um link com tudo que recomenda, organizado em listas por vibe, bairro e ocasião; um acervo que cresce com o tempo.
 - **Objeções prováveis**: "mais uma ferramenta pra alimentar", "meu público não vai sair do Instagram", "o que eu ganho com isso?".

@@ -29,6 +29,7 @@ O Rolle é onde criadores de conteúdo reúnem os lugares que recomendam em list
 
 ## Em desenvolvimento (NÃO prometer em conteúdo como pronto)
 - **Integração com Instagram por DM**: a pessoa vincula a conta, manda um post por DM para o Rolle, a IA identifica os lugares da legenda, encontra no Google Places e salva no perfil dela, respondendo na DM. É a ponte "vi no post do criador → salvei em 1 toque". Status: "vai funcionar em breve".
+- ⚠️ **Regra 3 (25/09)**: nenhum conteúdo pode sugerir "seu post salvo tá aqui" / "aquele post que você salvou e nunca achou? tá aqui" enquanto a integração por DM do Instagram não for lançada. A linha fica guardada para o lançamento.
 
 ## Previsto no modelo de dados (sem data)
 - Eventos, atrações e tags.
